@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\test\StackAndQueue\Hot Potato\bin\Debug\net7.0\Hot Potato.exe
+C:\iliyan\proggraming\task\test\StackAndQueue\Hot Potato\bin\Debug\net7.0\Hot Potato.deps.json
+C:\iliyan\proggraming\task\test\StackAndQueue\Hot Potato\bin\Debug\net7.0\Hot Potato.runtimeconfig.json
+C:\iliyan\proggraming\task\test\StackAndQueue\Hot Potato\bin\Debug\net7.0\Hot Potato.dll
+C:\iliyan\proggraming\task\test\StackAndQueue\Hot Potato\bin\Debug\net7.0\Hot Potato.pdb
+C:\iliyan\proggraming\task\test\StackAndQueue\Hot Potato\obj\Debug\net7.0\Hot Potato.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\test\StackAndQueue\Hot Potato\obj\Debug\net7.0\Hot Potato.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\test\StackAndQueue\Hot Potato\obj\Debug\net7.0\Hot Potato.AssemblyInfo.cs
+C:\iliyan\proggraming\task\test\StackAndQueue\Hot Potato\obj\Debug\net7.0\Hot Potato.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\test\StackAndQueue\Hot Potato\obj\Debug\net7.0\Hot Potato.dll
+C:\iliyan\proggraming\task\test\StackAndQueue\Hot Potato\obj\Debug\net7.0\refint\Hot Potato.dll
+C:\iliyan\proggraming\task\test\StackAndQueue\Hot Potato\obj\Debug\net7.0\Hot Potato.pdb
+C:\iliyan\proggraming\task\test\StackAndQueue\Hot Potato\obj\Debug\net7.0\Hot Potato.genruntimeconfig.cache
+C:\iliyan\proggraming\task\test\StackAndQueue\Hot Potato\obj\Debug\net7.0\ref\Hot Potato.dll

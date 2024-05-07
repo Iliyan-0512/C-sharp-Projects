@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\iliyan\\proggraming\\task\\4. Car Engine and Tires\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{188C1624-652D-4205-BABB-7184160AF412}|4. Car Engine and Tires\\4. Car Engine and Tires.csproj|c:\\iliyan\\proggraming\\task\\4. car engine and tires\\4. car engine and tires\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{188C1624-652D-4205-BABB-7184160AF412}|4. Car Engine and Tires\\4. Car Engine and Tires.csproj|solutionrelative:4. car engine and tires\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188C1624-652D-4205-BABB-7184160AF412}|4. Car Engine and Tires\\4. Car Engine and Tires.csproj|c:\\iliyan\\proggraming\\task\\4. car engine and tires\\4. car engine and tires\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{188C1624-652D-4205-BABB-7184160AF412}|4. Car Engine and Tires\\4. Car Engine and Tires.csproj|solutionrelative:4. car engine and tires\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188C1624-652D-4205-BABB-7184160AF412}|4. Car Engine and Tires\\4. Car Engine and Tires.csproj|c:\\iliyan\\proggraming\\task\\4. car engine and tires\\4. car engine and tires\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{188C1624-652D-4205-BABB-7184160AF412}|4. Car Engine and Tires\\4. Car Engine and Tires.csproj|solutionrelative:4. car engine and tires\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188C1624-652D-4205-BABB-7184160AF412}|4. Car Engine and Tires\\4. Car Engine and Tires.csproj|c:\\iliyan\\proggraming\\task\\4. car engine and tires\\4. car engine and tires\\tire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{188C1624-652D-4205-BABB-7184160AF412}|4. Car Engine and Tires\\4. Car Engine and Tires.csproj|solutionrelative:4. car engine and tires\\tire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tire.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\4. Car Engine and Tires\\4. Car Engine and Tires\\Tire.cs",
+              "RelativeDocumentMoniker": "4. Car Engine and Tires\\Tire.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\4. Car Engine and Tires\\4. Car Engine and Tires\\Tire.cs",
+              "RelativeToolTip": "4. Car Engine and Tires\\Tire.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T08:41:47.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\4. Car Engine and Tires\\4. Car Engine and Tires\\Engine.cs",
+              "RelativeDocumentMoniker": "4. Car Engine and Tires\\Engine.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\4. Car Engine and Tires\\4. Car Engine and Tires\\Engine.cs",
+              "RelativeToolTip": "4. Car Engine and Tires\\Engine.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T07:50:08.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\4. Car Engine and Tires\\4. Car Engine and Tires\\Car.cs",
+              "RelativeDocumentMoniker": "4. Car Engine and Tires\\Car.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\4. Car Engine and Tires\\4. Car Engine and Tires\\Car.cs",
+              "RelativeToolTip": "4. Car Engine and Tires\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T07:36:05.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\4. Car Engine and Tires\\4. Car Engine and Tires\\Program.cs",
+              "RelativeDocumentMoniker": "4. Car Engine and Tires\\Program.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\4. Car Engine and Tires\\4. Car Engine and Tires\\Program.cs",
+              "RelativeToolTip": "4. Car Engine and Tires\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T07:35:44.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

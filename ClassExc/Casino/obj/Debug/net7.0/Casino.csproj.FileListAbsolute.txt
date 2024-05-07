@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\ClassExc\Casino\bin\Debug\net7.0\Casino.exe
+C:\iliyan\proggraming\task\ClassExc\Casino\bin\Debug\net7.0\Casino.deps.json
+C:\iliyan\proggraming\task\ClassExc\Casino\bin\Debug\net7.0\Casino.runtimeconfig.json
+C:\iliyan\proggraming\task\ClassExc\Casino\bin\Debug\net7.0\Casino.dll
+C:\iliyan\proggraming\task\ClassExc\Casino\bin\Debug\net7.0\Casino.pdb
+C:\iliyan\proggraming\task\ClassExc\Casino\obj\Debug\net7.0\Casino.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\ClassExc\Casino\obj\Debug\net7.0\Casino.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\ClassExc\Casino\obj\Debug\net7.0\Casino.AssemblyInfo.cs
+C:\iliyan\proggraming\task\ClassExc\Casino\obj\Debug\net7.0\Casino.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\ClassExc\Casino\obj\Debug\net7.0\Casino.dll
+C:\iliyan\proggraming\task\ClassExc\Casino\obj\Debug\net7.0\refint\Casino.dll
+C:\iliyan\proggraming\task\ClassExc\Casino\obj\Debug\net7.0\Casino.pdb
+C:\iliyan\proggraming\task\ClassExc\Casino\obj\Debug\net7.0\Casino.genruntimeconfig.cache
+C:\iliyan\proggraming\task\ClassExc\Casino\obj\Debug\net7.0\ref\Casino.dll

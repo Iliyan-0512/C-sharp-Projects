@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\2. Odd Occurrences\bin\Debug\net7.0\2. Odd Occurrences.exe
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\2. Odd Occurrences\bin\Debug\net7.0\2. Odd Occurrences.deps.json
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\2. Odd Occurrences\bin\Debug\net7.0\2. Odd Occurrences.runtimeconfig.json
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\2. Odd Occurrences\bin\Debug\net7.0\2. Odd Occurrences.dll
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\2. Odd Occurrences\bin\Debug\net7.0\2. Odd Occurrences.pdb
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\2. Odd Occurrences\obj\Debug\net7.0\2. Odd Occurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\2. Odd Occurrences\obj\Debug\net7.0\2. Odd Occurrences.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\2. Odd Occurrences\obj\Debug\net7.0\2. Odd Occurrences.AssemblyInfo.cs
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\2. Odd Occurrences\obj\Debug\net7.0\2. Odd Occurrences.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\2. Odd Occurrences\obj\Debug\net7.0\2. Odd Occurrences.dll
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\2. Odd Occurrences\obj\Debug\net7.0\refint\2. Odd Occurrences.dll
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\2. Odd Occurrences\obj\Debug\net7.0\2. Odd Occurrences.pdb
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\2. Odd Occurrences\obj\Debug\net7.0\2. Odd Occurrences.genruntimeconfig.cache
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\2. Odd Occurrences\obj\Debug\net7.0\ref\2. Odd Occurrences.dll

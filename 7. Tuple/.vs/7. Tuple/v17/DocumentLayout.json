@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\iliyan\\proggraming\\task\\7. Tuple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{509B64DF-F855-4917-BD4C-4C205A1E0624}|7. Tuple\\7. Tuple.csproj|c:\\iliyan\\proggraming\\task\\7. tuple\\7. tuple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{509B64DF-F855-4917-BD4C-4C205A1E0624}|7. Tuple\\7. Tuple.csproj|solutionrelative:7. tuple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509B64DF-F855-4917-BD4C-4C205A1E0624}|7. Tuple\\7. Tuple.csproj|c:\\iliyan\\proggraming\\task\\7. tuple\\7. tuple\\mytuple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{509B64DF-F855-4917-BD4C-4C205A1E0624}|7. Tuple\\7. Tuple.csproj|solutionrelative:7. tuple\\mytuple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyTuple.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\7. Tuple\\7. Tuple\\MyTuple.cs",
+              "RelativeDocumentMoniker": "7. Tuple\\MyTuple.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\7. Tuple\\7. Tuple\\MyTuple.cs",
+              "RelativeToolTip": "7. Tuple\\MyTuple.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T09:32:13.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\7. Tuple\\7. Tuple\\Program.cs",
+              "RelativeDocumentMoniker": "7. Tuple\\Program.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\7. Tuple\\7. Tuple\\Program.cs",
+              "RelativeToolTip": "7. Tuple\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T08:39:15.433Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

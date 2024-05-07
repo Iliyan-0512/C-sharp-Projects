@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\GenericDemo\GenericDemo\bin\Debug\net8.0\GenericDemo.exe
+C:\iliyan\proggraming\task\GenericDemo\GenericDemo\bin\Debug\net8.0\GenericDemo.deps.json
+C:\iliyan\proggraming\task\GenericDemo\GenericDemo\bin\Debug\net8.0\GenericDemo.runtimeconfig.json
+C:\iliyan\proggraming\task\GenericDemo\GenericDemo\bin\Debug\net8.0\GenericDemo.dll
+C:\iliyan\proggraming\task\GenericDemo\GenericDemo\bin\Debug\net8.0\GenericDemo.pdb
+C:\iliyan\proggraming\task\GenericDemo\GenericDemo\obj\Debug\net8.0\GenericDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\GenericDemo\GenericDemo\obj\Debug\net8.0\GenericDemo.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\GenericDemo\GenericDemo\obj\Debug\net8.0\GenericDemo.AssemblyInfo.cs
+C:\iliyan\proggraming\task\GenericDemo\GenericDemo\obj\Debug\net8.0\GenericDemo.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\GenericDemo\GenericDemo\obj\Debug\net8.0\GenericDemo.dll
+C:\iliyan\proggraming\task\GenericDemo\GenericDemo\obj\Debug\net8.0\refint\GenericDemo.dll
+C:\iliyan\proggraming\task\GenericDemo\GenericDemo\obj\Debug\net8.0\GenericDemo.pdb
+C:\iliyan\proggraming\task\GenericDemo\GenericDemo\obj\Debug\net8.0\GenericDemo.genruntimeconfig.cache
+C:\iliyan\proggraming\task\GenericDemo\GenericDemo\obj\Debug\net8.0\ref\GenericDemo.dll

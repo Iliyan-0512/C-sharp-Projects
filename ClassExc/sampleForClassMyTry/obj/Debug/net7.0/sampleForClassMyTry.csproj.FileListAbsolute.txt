@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\ClassExc\sampleForClassMyTry\bin\Debug\net7.0\sampleForClassMyTry.exe
+C:\iliyan\proggraming\task\ClassExc\sampleForClassMyTry\bin\Debug\net7.0\sampleForClassMyTry.deps.json
+C:\iliyan\proggraming\task\ClassExc\sampleForClassMyTry\bin\Debug\net7.0\sampleForClassMyTry.runtimeconfig.json
+C:\iliyan\proggraming\task\ClassExc\sampleForClassMyTry\bin\Debug\net7.0\sampleForClassMyTry.dll
+C:\iliyan\proggraming\task\ClassExc\sampleForClassMyTry\bin\Debug\net7.0\sampleForClassMyTry.pdb
+C:\iliyan\proggraming\task\ClassExc\sampleForClassMyTry\obj\Debug\net7.0\sampleForClassMyTry.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\ClassExc\sampleForClassMyTry\obj\Debug\net7.0\sampleForClassMyTry.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\ClassExc\sampleForClassMyTry\obj\Debug\net7.0\sampleForClassMyTry.AssemblyInfo.cs
+C:\iliyan\proggraming\task\ClassExc\sampleForClassMyTry\obj\Debug\net7.0\sampleForClassMyTry.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\ClassExc\sampleForClassMyTry\obj\Debug\net7.0\sampleForClassMyTry.dll
+C:\iliyan\proggraming\task\ClassExc\sampleForClassMyTry\obj\Debug\net7.0\refint\sampleForClassMyTry.dll
+C:\iliyan\proggraming\task\ClassExc\sampleForClassMyTry\obj\Debug\net7.0\sampleForClassMyTry.pdb
+C:\iliyan\proggraming\task\ClassExc\sampleForClassMyTry\obj\Debug\net7.0\sampleForClassMyTry.genruntimeconfig.cache
+C:\iliyan\proggraming\task\ClassExc\sampleForClassMyTry\obj\Debug\net7.0\ref\sampleForClassMyTry.dll

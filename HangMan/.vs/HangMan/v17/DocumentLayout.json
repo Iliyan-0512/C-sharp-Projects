@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\iliyan\\proggraming\\task\\HangMan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{336A91BB-2CCD-4B34-9E51-CE3154B5EB3D}|HangMan\\HangMan.csproj|c:\\iliyan\\proggraming\\task\\hangman\\hangman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336A91BB-2CCD-4B34-9E51-CE3154B5EB3D}|HangMan\\HangMan.csproj|solutionrelative:hangman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\HangMan\\HangMan\\Program.cs",
+              "RelativeDocumentMoniker": "HangMan\\Program.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\HangMan\\HangMan\\Program.cs",
+              "RelativeToolTip": "HangMan\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T13:38:22.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

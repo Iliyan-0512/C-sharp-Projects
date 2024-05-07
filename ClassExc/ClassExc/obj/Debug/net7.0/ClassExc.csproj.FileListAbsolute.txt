@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\ClassExc\ClassExc\bin\Debug\net7.0\ClassExc.exe
+C:\iliyan\proggraming\task\ClassExc\ClassExc\bin\Debug\net7.0\ClassExc.deps.json
+C:\iliyan\proggraming\task\ClassExc\ClassExc\bin\Debug\net7.0\ClassExc.runtimeconfig.json
+C:\iliyan\proggraming\task\ClassExc\ClassExc\bin\Debug\net7.0\ClassExc.dll
+C:\iliyan\proggraming\task\ClassExc\ClassExc\bin\Debug\net7.0\ClassExc.pdb
+C:\iliyan\proggraming\task\ClassExc\ClassExc\obj\Debug\net7.0\ClassExc.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\ClassExc\ClassExc\obj\Debug\net7.0\ClassExc.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\ClassExc\ClassExc\obj\Debug\net7.0\ClassExc.AssemblyInfo.cs
+C:\iliyan\proggraming\task\ClassExc\ClassExc\obj\Debug\net7.0\ClassExc.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\ClassExc\ClassExc\obj\Debug\net7.0\ClassExc.dll
+C:\iliyan\proggraming\task\ClassExc\ClassExc\obj\Debug\net7.0\refint\ClassExc.dll
+C:\iliyan\proggraming\task\ClassExc\ClassExc\obj\Debug\net7.0\ClassExc.pdb
+C:\iliyan\proggraming\task\ClassExc\ClassExc\obj\Debug\net7.0\ClassExc.genruntimeconfig.cache
+C:\iliyan\proggraming\task\ClassExc\ClassExc\obj\Debug\net7.0\ref\ClassExc.dll

@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\5. Generic Count Method Strings\5. Generic Count Method Strings\bin\Debug\net8.0\5. Generic Count Method Strings.exe
+C:\iliyan\proggraming\task\5. Generic Count Method Strings\5. Generic Count Method Strings\bin\Debug\net8.0\5. Generic Count Method Strings.deps.json
+C:\iliyan\proggraming\task\5. Generic Count Method Strings\5. Generic Count Method Strings\bin\Debug\net8.0\5. Generic Count Method Strings.runtimeconfig.json
+C:\iliyan\proggraming\task\5. Generic Count Method Strings\5. Generic Count Method Strings\bin\Debug\net8.0\5. Generic Count Method Strings.dll
+C:\iliyan\proggraming\task\5. Generic Count Method Strings\5. Generic Count Method Strings\bin\Debug\net8.0\5. Generic Count Method Strings.pdb
+C:\iliyan\proggraming\task\5. Generic Count Method Strings\5. Generic Count Method Strings\obj\Debug\net8.0\5. Generic Count Method Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\5. Generic Count Method Strings\5. Generic Count Method Strings\obj\Debug\net8.0\5. Generic Count Method Strings.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\5. Generic Count Method Strings\5. Generic Count Method Strings\obj\Debug\net8.0\5. Generic Count Method Strings.AssemblyInfo.cs
+C:\iliyan\proggraming\task\5. Generic Count Method Strings\5. Generic Count Method Strings\obj\Debug\net8.0\5. Generic Count Method Strings.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\5. Generic Count Method Strings\5. Generic Count Method Strings\obj\Debug\net8.0\5. Generic Count Method Strings.dll
+C:\iliyan\proggraming\task\5. Generic Count Method Strings\5. Generic Count Method Strings\obj\Debug\net8.0\refint\5. Generic Count Method Strings.dll
+C:\iliyan\proggraming\task\5. Generic Count Method Strings\5. Generic Count Method Strings\obj\Debug\net8.0\5. Generic Count Method Strings.pdb
+C:\iliyan\proggraming\task\5. Generic Count Method Strings\5. Generic Count Method Strings\obj\Debug\net8.0\5. Generic Count Method Strings.genruntimeconfig.cache
+C:\iliyan\proggraming\task\5. Generic Count Method Strings\5. Generic Count Method Strings\obj\Debug\net8.0\ref\5. Generic Count Method Strings.dll

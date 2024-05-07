@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\test\01. Count Chars in a String\Associative Arrays - Exercise\bin\Debug\net7.0\Associative Arrays - Exercise.exe
+C:\iliyan\proggraming\task\test\01. Count Chars in a String\Associative Arrays - Exercise\bin\Debug\net7.0\Associative Arrays - Exercise.deps.json
+C:\iliyan\proggraming\task\test\01. Count Chars in a String\Associative Arrays - Exercise\bin\Debug\net7.0\Associative Arrays - Exercise.runtimeconfig.json
+C:\iliyan\proggraming\task\test\01. Count Chars in a String\Associative Arrays - Exercise\bin\Debug\net7.0\Associative Arrays - Exercise.dll
+C:\iliyan\proggraming\task\test\01. Count Chars in a String\Associative Arrays - Exercise\bin\Debug\net7.0\Associative Arrays - Exercise.pdb
+C:\iliyan\proggraming\task\test\01. Count Chars in a String\Associative Arrays - Exercise\obj\Debug\net7.0\Associative Arrays - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\test\01. Count Chars in a String\Associative Arrays - Exercise\obj\Debug\net7.0\Associative Arrays - Exercise.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\test\01. Count Chars in a String\Associative Arrays - Exercise\obj\Debug\net7.0\Associative Arrays - Exercise.AssemblyInfo.cs
+C:\iliyan\proggraming\task\test\01. Count Chars in a String\Associative Arrays - Exercise\obj\Debug\net7.0\Associative Arrays - Exercise.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\test\01. Count Chars in a String\Associative Arrays - Exercise\obj\Debug\net7.0\Associative Arrays - Exercise.dll
+C:\iliyan\proggraming\task\test\01. Count Chars in a String\Associative Arrays - Exercise\obj\Debug\net7.0\refint\Associative Arrays - Exercise.dll
+C:\iliyan\proggraming\task\test\01. Count Chars in a String\Associative Arrays - Exercise\obj\Debug\net7.0\Associative Arrays - Exercise.pdb
+C:\iliyan\proggraming\task\test\01. Count Chars in a String\Associative Arrays - Exercise\obj\Debug\net7.0\Associative Arrays - Exercise.genruntimeconfig.cache
+C:\iliyan\proggraming\task\test\01. Count Chars in a String\Associative Arrays - Exercise\obj\Debug\net7.0\ref\Associative Arrays - Exercise.dll

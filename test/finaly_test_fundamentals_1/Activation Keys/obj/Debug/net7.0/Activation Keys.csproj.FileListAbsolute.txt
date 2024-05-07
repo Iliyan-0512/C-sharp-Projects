@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\Activation Keys\obj\Debug\net7.0\Activation Keys.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\Activation Keys\obj\Debug\net7.0\Activation Keys.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\Activation Keys\obj\Debug\net7.0\Activation Keys.AssemblyInfo.cs
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\Activation Keys\obj\Debug\net7.0\Activation Keys.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\Activation Keys\bin\Debug\net7.0\Activation Keys.exe
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\Activation Keys\bin\Debug\net7.0\Activation Keys.deps.json
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\Activation Keys\bin\Debug\net7.0\Activation Keys.runtimeconfig.json
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\Activation Keys\bin\Debug\net7.0\Activation Keys.dll
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\Activation Keys\bin\Debug\net7.0\Activation Keys.pdb
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\Activation Keys\obj\Debug\net7.0\Activation Keys.dll
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\Activation Keys\obj\Debug\net7.0\refint\Activation Keys.dll
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\Activation Keys\obj\Debug\net7.0\Activation Keys.pdb
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\Activation Keys\obj\Debug\net7.0\Activation Keys.genruntimeconfig.cache
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\Activation Keys\obj\Debug\net7.0\ref\Activation Keys.dll

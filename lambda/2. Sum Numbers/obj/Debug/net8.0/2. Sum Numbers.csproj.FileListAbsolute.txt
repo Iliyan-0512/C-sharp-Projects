@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\lambda\2. Sum Numbers\bin\Debug\net8.0\2. Sum Numbers.exe
+C:\iliyan\proggraming\task\lambda\2. Sum Numbers\bin\Debug\net8.0\2. Sum Numbers.deps.json
+C:\iliyan\proggraming\task\lambda\2. Sum Numbers\bin\Debug\net8.0\2. Sum Numbers.runtimeconfig.json
+C:\iliyan\proggraming\task\lambda\2. Sum Numbers\bin\Debug\net8.0\2. Sum Numbers.dll
+C:\iliyan\proggraming\task\lambda\2. Sum Numbers\bin\Debug\net8.0\2. Sum Numbers.pdb
+C:\iliyan\proggraming\task\lambda\2. Sum Numbers\obj\Debug\net8.0\2. Sum Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\lambda\2. Sum Numbers\obj\Debug\net8.0\2. Sum Numbers.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\lambda\2. Sum Numbers\obj\Debug\net8.0\2. Sum Numbers.AssemblyInfo.cs
+C:\iliyan\proggraming\task\lambda\2. Sum Numbers\obj\Debug\net8.0\2. Sum Numbers.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\lambda\2. Sum Numbers\obj\Debug\net8.0\2. Sum Numbers.dll
+C:\iliyan\proggraming\task\lambda\2. Sum Numbers\obj\Debug\net8.0\refint\2. Sum Numbers.dll
+C:\iliyan\proggraming\task\lambda\2. Sum Numbers\obj\Debug\net8.0\2. Sum Numbers.pdb
+C:\iliyan\proggraming\task\lambda\2. Sum Numbers\obj\Debug\net8.0\2. Sum Numbers.genruntimeconfig.cache
+C:\iliyan\proggraming\task\lambda\2. Sum Numbers\obj\Debug\net8.0\ref\2. Sum Numbers.dll

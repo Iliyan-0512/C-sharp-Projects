@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\cardsPoker\bin\Debug\net7.0\cardsPoker.exe
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\cardsPoker\bin\Debug\net7.0\cardsPoker.deps.json
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\cardsPoker\bin\Debug\net7.0\cardsPoker.runtimeconfig.json
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\cardsPoker\bin\Debug\net7.0\cardsPoker.dll
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\cardsPoker\bin\Debug\net7.0\cardsPoker.pdb
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\cardsPoker\obj\Debug\net7.0\cardsPoker.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\cardsPoker\obj\Debug\net7.0\cardsPoker.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\cardsPoker\obj\Debug\net7.0\cardsPoker.AssemblyInfo.cs
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\cardsPoker\obj\Debug\net7.0\cardsPoker.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\cardsPoker\obj\Debug\net7.0\cardsPoker.dll
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\cardsPoker\obj\Debug\net7.0\refint\cardsPoker.dll
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\cardsPoker\obj\Debug\net7.0\cardsPoker.pdb
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\cardsPoker\obj\Debug\net7.0\cardsPoker.genruntimeconfig.cache
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\cardsPoker\obj\Debug\net7.0\ref\cardsPoker.dll

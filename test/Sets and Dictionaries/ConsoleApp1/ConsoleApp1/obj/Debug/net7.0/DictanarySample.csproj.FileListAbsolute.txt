@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\test\Sets and Dictionaries\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\DictanarySample.exe
+C:\iliyan\proggraming\task\test\Sets and Dictionaries\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\DictanarySample.deps.json
+C:\iliyan\proggraming\task\test\Sets and Dictionaries\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\DictanarySample.runtimeconfig.json
+C:\iliyan\proggraming\task\test\Sets and Dictionaries\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\DictanarySample.dll
+C:\iliyan\proggraming\task\test\Sets and Dictionaries\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\DictanarySample.pdb
+C:\iliyan\proggraming\task\test\Sets and Dictionaries\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\DictanarySample.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\test\Sets and Dictionaries\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\DictanarySample.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\test\Sets and Dictionaries\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\DictanarySample.AssemblyInfo.cs
+C:\iliyan\proggraming\task\test\Sets and Dictionaries\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\DictanarySample.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\test\Sets and Dictionaries\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\DictanarySample.dll
+C:\iliyan\proggraming\task\test\Sets and Dictionaries\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\refint\DictanarySample.dll
+C:\iliyan\proggraming\task\test\Sets and Dictionaries\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\DictanarySample.pdb
+C:\iliyan\proggraming\task\test\Sets and Dictionaries\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\DictanarySample.genruntimeconfig.cache
+C:\iliyan\proggraming\task\test\Sets and Dictionaries\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ref\DictanarySample.dll

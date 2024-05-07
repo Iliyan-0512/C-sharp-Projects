@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\test\array\ArrayExersise\Top Integers\bin\Debug\net7.0\Top Integers.exe
+C:\iliyan\proggraming\task\test\array\ArrayExersise\Top Integers\bin\Debug\net7.0\Top Integers.deps.json
+C:\iliyan\proggraming\task\test\array\ArrayExersise\Top Integers\bin\Debug\net7.0\Top Integers.runtimeconfig.json
+C:\iliyan\proggraming\task\test\array\ArrayExersise\Top Integers\bin\Debug\net7.0\Top Integers.dll
+C:\iliyan\proggraming\task\test\array\ArrayExersise\Top Integers\bin\Debug\net7.0\Top Integers.pdb
+C:\iliyan\proggraming\task\test\array\ArrayExersise\Top Integers\obj\Debug\net7.0\Top Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\test\array\ArrayExersise\Top Integers\obj\Debug\net7.0\Top Integers.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\test\array\ArrayExersise\Top Integers\obj\Debug\net7.0\Top Integers.AssemblyInfo.cs
+C:\iliyan\proggraming\task\test\array\ArrayExersise\Top Integers\obj\Debug\net7.0\Top Integers.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\test\array\ArrayExersise\Top Integers\obj\Debug\net7.0\Top Integers.dll
+C:\iliyan\proggraming\task\test\array\ArrayExersise\Top Integers\obj\Debug\net7.0\refint\Top Integers.dll
+C:\iliyan\proggraming\task\test\array\ArrayExersise\Top Integers\obj\Debug\net7.0\Top Integers.pdb
+C:\iliyan\proggraming\task\test\array\ArrayExersise\Top Integers\obj\Debug\net7.0\Top Integers.genruntimeconfig.cache
+C:\iliyan\proggraming\task\test\array\ArrayExersise\Top Integers\obj\Debug\net7.0\ref\Top Integers.dll

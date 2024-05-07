@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\SwordDamage\SwordDamage\bin\Debug\net8.0\SwordDamage.exe
+C:\iliyan\proggraming\task\SwordDamage\SwordDamage\bin\Debug\net8.0\SwordDamage.deps.json
+C:\iliyan\proggraming\task\SwordDamage\SwordDamage\bin\Debug\net8.0\SwordDamage.runtimeconfig.json
+C:\iliyan\proggraming\task\SwordDamage\SwordDamage\bin\Debug\net8.0\SwordDamage.dll
+C:\iliyan\proggraming\task\SwordDamage\SwordDamage\bin\Debug\net8.0\SwordDamage.pdb
+C:\iliyan\proggraming\task\SwordDamage\SwordDamage\obj\Debug\net8.0\SwordDamage.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\SwordDamage\SwordDamage\obj\Debug\net8.0\SwordDamage.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\SwordDamage\SwordDamage\obj\Debug\net8.0\SwordDamage.AssemblyInfo.cs
+C:\iliyan\proggraming\task\SwordDamage\SwordDamage\obj\Debug\net8.0\SwordDamage.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\SwordDamage\SwordDamage\obj\Debug\net8.0\SwordDamage.dll
+C:\iliyan\proggraming\task\SwordDamage\SwordDamage\obj\Debug\net8.0\refint\SwordDamage.dll
+C:\iliyan\proggraming\task\SwordDamage\SwordDamage\obj\Debug\net8.0\SwordDamage.pdb
+C:\iliyan\proggraming\task\SwordDamage\SwordDamage\obj\Debug\net8.0\SwordDamage.genruntimeconfig.cache
+C:\iliyan\proggraming\task\SwordDamage\SwordDamage\obj\Debug\net8.0\ref\SwordDamage.dll

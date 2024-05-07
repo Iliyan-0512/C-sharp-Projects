@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\types\types\bin\Debug\net7.0\types.exe
+C:\iliyan\proggraming\task\types\types\bin\Debug\net7.0\types.deps.json
+C:\iliyan\proggraming\task\types\types\bin\Debug\net7.0\types.runtimeconfig.json
+C:\iliyan\proggraming\task\types\types\bin\Debug\net7.0\types.dll
+C:\iliyan\proggraming\task\types\types\bin\Debug\net7.0\types.pdb
+C:\iliyan\proggraming\task\types\types\obj\Debug\net7.0\types.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\types\types\obj\Debug\net7.0\types.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\types\types\obj\Debug\net7.0\types.AssemblyInfo.cs
+C:\iliyan\proggraming\task\types\types\obj\Debug\net7.0\types.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\types\types\obj\Debug\net7.0\types.dll
+C:\iliyan\proggraming\task\types\types\obj\Debug\net7.0\refint\types.dll
+C:\iliyan\proggraming\task\types\types\obj\Debug\net7.0\types.pdb
+C:\iliyan\proggraming\task\types\types\obj\Debug\net7.0\types.genruntimeconfig.cache
+C:\iliyan\proggraming\task\types\types\obj\Debug\net7.0\ref\types.dll

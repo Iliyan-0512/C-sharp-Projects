@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\2. Generic Array Creator\2. Generic Array Creator\bin\Debug\net8.0\2. Generic Array Creator.exe
+C:\iliyan\proggraming\task\2. Generic Array Creator\2. Generic Array Creator\bin\Debug\net8.0\2. Generic Array Creator.deps.json
+C:\iliyan\proggraming\task\2. Generic Array Creator\2. Generic Array Creator\bin\Debug\net8.0\2. Generic Array Creator.runtimeconfig.json
+C:\iliyan\proggraming\task\2. Generic Array Creator\2. Generic Array Creator\bin\Debug\net8.0\2. Generic Array Creator.dll
+C:\iliyan\proggraming\task\2. Generic Array Creator\2. Generic Array Creator\bin\Debug\net8.0\2. Generic Array Creator.pdb
+C:\iliyan\proggraming\task\2. Generic Array Creator\2. Generic Array Creator\obj\Debug\net8.0\2. Generic Array Creator.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\2. Generic Array Creator\2. Generic Array Creator\obj\Debug\net8.0\2. Generic Array Creator.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\2. Generic Array Creator\2. Generic Array Creator\obj\Debug\net8.0\2. Generic Array Creator.AssemblyInfo.cs
+C:\iliyan\proggraming\task\2. Generic Array Creator\2. Generic Array Creator\obj\Debug\net8.0\2. Generic Array Creator.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\2. Generic Array Creator\2. Generic Array Creator\obj\Debug\net8.0\2. Generic Array Creator.dll
+C:\iliyan\proggraming\task\2. Generic Array Creator\2. Generic Array Creator\obj\Debug\net8.0\refint\2. Generic Array Creator.dll
+C:\iliyan\proggraming\task\2. Generic Array Creator\2. Generic Array Creator\obj\Debug\net8.0\2. Generic Array Creator.pdb
+C:\iliyan\proggraming\task\2. Generic Array Creator\2. Generic Array Creator\obj\Debug\net8.0\2. Generic Array Creator.genruntimeconfig.cache
+C:\iliyan\proggraming\task\2. Generic Array Creator\2. Generic Array Creator\obj\Debug\net8.0\ref\2. Generic Array Creator.dll

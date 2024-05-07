@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\test\dictanary\05. Courses\6. Student Academy\bin\Debug\net7.0\6. Student Academy.exe
+C:\iliyan\proggraming\task\test\dictanary\05. Courses\6. Student Academy\bin\Debug\net7.0\6. Student Academy.deps.json
+C:\iliyan\proggraming\task\test\dictanary\05. Courses\6. Student Academy\bin\Debug\net7.0\6. Student Academy.runtimeconfig.json
+C:\iliyan\proggraming\task\test\dictanary\05. Courses\6. Student Academy\bin\Debug\net7.0\6. Student Academy.dll
+C:\iliyan\proggraming\task\test\dictanary\05. Courses\6. Student Academy\bin\Debug\net7.0\6. Student Academy.pdb
+C:\iliyan\proggraming\task\test\dictanary\05. Courses\6. Student Academy\obj\Debug\net7.0\6. Student Academy.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\test\dictanary\05. Courses\6. Student Academy\obj\Debug\net7.0\6. Student Academy.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\test\dictanary\05. Courses\6. Student Academy\obj\Debug\net7.0\6. Student Academy.AssemblyInfo.cs
+C:\iliyan\proggraming\task\test\dictanary\05. Courses\6. Student Academy\obj\Debug\net7.0\6. Student Academy.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\test\dictanary\05. Courses\6. Student Academy\obj\Debug\net7.0\6. Student Academy.dll
+C:\iliyan\proggraming\task\test\dictanary\05. Courses\6. Student Academy\obj\Debug\net7.0\refint\6. Student Academy.dll
+C:\iliyan\proggraming\task\test\dictanary\05. Courses\6. Student Academy\obj\Debug\net7.0\6. Student Academy.pdb
+C:\iliyan\proggraming\task\test\dictanary\05. Courses\6. Student Academy\obj\Debug\net7.0\6. Student Academy.genruntimeconfig.cache
+C:\iliyan\proggraming\task\test\dictanary\05. Courses\6. Student Academy\obj\Debug\net7.0\ref\6. Student Academy.dll

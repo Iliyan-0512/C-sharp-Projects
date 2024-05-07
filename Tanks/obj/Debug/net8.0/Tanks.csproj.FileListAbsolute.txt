@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\Tanks\bin\Debug\net8.0\Tanks.exe
+C:\iliyan\proggraming\task\Tanks\bin\Debug\net8.0\Tanks.deps.json
+C:\iliyan\proggraming\task\Tanks\bin\Debug\net8.0\Tanks.runtimeconfig.json
+C:\iliyan\proggraming\task\Tanks\bin\Debug\net8.0\Tanks.dll
+C:\iliyan\proggraming\task\Tanks\bin\Debug\net8.0\Tanks.pdb
+C:\iliyan\proggraming\task\Tanks\obj\Debug\net8.0\Tanks.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\Tanks\obj\Debug\net8.0\Tanks.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\Tanks\obj\Debug\net8.0\Tanks.AssemblyInfo.cs
+C:\iliyan\proggraming\task\Tanks\obj\Debug\net8.0\Tanks.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\Tanks\obj\Debug\net8.0\Tanks.dll
+C:\iliyan\proggraming\task\Tanks\obj\Debug\net8.0\refint\Tanks.dll
+C:\iliyan\proggraming\task\Tanks\obj\Debug\net8.0\Tanks.pdb
+C:\iliyan\proggraming\task\Tanks\obj\Debug\net8.0\Tanks.genruntimeconfig.cache
+C:\iliyan\proggraming\task\Tanks\obj\Debug\net8.0\ref\Tanks.dll

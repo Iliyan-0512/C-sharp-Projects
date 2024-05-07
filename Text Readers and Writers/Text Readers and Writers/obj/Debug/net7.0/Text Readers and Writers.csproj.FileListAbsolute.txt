@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\Text Readers and Writers\Text Readers and Writers\bin\Debug\net7.0\Text Readers and Writers.exe
+C:\iliyan\proggraming\task\Text Readers and Writers\Text Readers and Writers\bin\Debug\net7.0\Text Readers and Writers.deps.json
+C:\iliyan\proggraming\task\Text Readers and Writers\Text Readers and Writers\bin\Debug\net7.0\Text Readers and Writers.runtimeconfig.json
+C:\iliyan\proggraming\task\Text Readers and Writers\Text Readers and Writers\bin\Debug\net7.0\Text Readers and Writers.dll
+C:\iliyan\proggraming\task\Text Readers and Writers\Text Readers and Writers\bin\Debug\net7.0\Text Readers and Writers.pdb
+C:\iliyan\proggraming\task\Text Readers and Writers\Text Readers and Writers\obj\Debug\net7.0\Text Readers and Writers.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\Text Readers and Writers\Text Readers and Writers\obj\Debug\net7.0\Text Readers and Writers.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\Text Readers and Writers\Text Readers and Writers\obj\Debug\net7.0\Text Readers and Writers.AssemblyInfo.cs
+C:\iliyan\proggraming\task\Text Readers and Writers\Text Readers and Writers\obj\Debug\net7.0\Text Readers and Writers.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\Text Readers and Writers\Text Readers and Writers\obj\Debug\net7.0\Text Readers and Writers.dll
+C:\iliyan\proggraming\task\Text Readers and Writers\Text Readers and Writers\obj\Debug\net7.0\refint\Text Readers and Writers.dll
+C:\iliyan\proggraming\task\Text Readers and Writers\Text Readers and Writers\obj\Debug\net7.0\Text Readers and Writers.pdb
+C:\iliyan\proggraming\task\Text Readers and Writers\Text Readers and Writers\obj\Debug\net7.0\Text Readers and Writers.genruntimeconfig.cache
+C:\iliyan\proggraming\task\Text Readers and Writers\Text Readers and Writers\obj\Debug\net7.0\ref\Text Readers and Writers.dll

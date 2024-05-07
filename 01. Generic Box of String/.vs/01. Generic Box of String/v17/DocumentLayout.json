@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\iliyan\\proggraming\\task\\01. Generic Box of String\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF11EAAF-AD04-4F7C-AE02-A29164ED8CF0}|01. Generic Box of String\\01. Generic Box of String.csproj|c:\\iliyan\\proggraming\\task\\01. generic box of string\\01. generic box of string\\class box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF11EAAF-AD04-4F7C-AE02-A29164ED8CF0}|01. Generic Box of String\\01. Generic Box of String.csproj|solutionrelative:01. generic box of string\\class box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF11EAAF-AD04-4F7C-AE02-A29164ED8CF0}|01. Generic Box of String\\01. Generic Box of String.csproj|c:\\iliyan\\proggraming\\task\\01. generic box of string\\01. generic box of string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF11EAAF-AD04-4F7C-AE02-A29164ED8CF0}|01. Generic Box of String\\01. Generic Box of String.csproj|solutionrelative:01. generic box of string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "class Box.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\01. Generic Box of String\\01. Generic Box of String\\class Box.cs",
+              "RelativeDocumentMoniker": "01. Generic Box of String\\class Box.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\01. Generic Box of String\\01. Generic Box of String\\class Box.cs",
+              "RelativeToolTip": "01. Generic Box of String\\class Box.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAjwBEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:13:46.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\01. Generic Box of String\\01. Generic Box of String\\Program.cs",
+              "RelativeDocumentMoniker": "01. Generic Box of String\\Program.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\01. Generic Box of String\\01. Generic Box of String\\Program.cs",
+              "RelativeToolTip": "01. Generic Box of String\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:07:21.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\test\dictanary\01. Ranking\array\bin\Debug\net7.0\array.exe
+C:\iliyan\proggraming\task\test\dictanary\01. Ranking\array\bin\Debug\net7.0\array.deps.json
+C:\iliyan\proggraming\task\test\dictanary\01. Ranking\array\bin\Debug\net7.0\array.runtimeconfig.json
+C:\iliyan\proggraming\task\test\dictanary\01. Ranking\array\bin\Debug\net7.0\array.dll
+C:\iliyan\proggraming\task\test\dictanary\01. Ranking\array\bin\Debug\net7.0\array.pdb
+C:\iliyan\proggraming\task\test\dictanary\01. Ranking\array\obj\Debug\net7.0\array.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\test\dictanary\01. Ranking\array\obj\Debug\net7.0\array.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\test\dictanary\01. Ranking\array\obj\Debug\net7.0\array.AssemblyInfo.cs
+C:\iliyan\proggraming\task\test\dictanary\01. Ranking\array\obj\Debug\net7.0\array.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\test\dictanary\01. Ranking\array\obj\Debug\net7.0\array.dll
+C:\iliyan\proggraming\task\test\dictanary\01. Ranking\array\obj\Debug\net7.0\refint\array.dll
+C:\iliyan\proggraming\task\test\dictanary\01. Ranking\array\obj\Debug\net7.0\array.pdb
+C:\iliyan\proggraming\task\test\dictanary\01. Ranking\array\obj\Debug\net7.0\array.genruntimeconfig.cache
+C:\iliyan\proggraming\task\test\dictanary\01. Ranking\array\obj\Debug\net7.0\ref\array.dll

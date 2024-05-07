@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\lambda\sample\bin\Debug\net8.0\sample.exe
+C:\iliyan\proggraming\task\lambda\sample\bin\Debug\net8.0\sample.deps.json
+C:\iliyan\proggraming\task\lambda\sample\bin\Debug\net8.0\sample.runtimeconfig.json
+C:\iliyan\proggraming\task\lambda\sample\bin\Debug\net8.0\sample.dll
+C:\iliyan\proggraming\task\lambda\sample\bin\Debug\net8.0\sample.pdb
+C:\iliyan\proggraming\task\lambda\sample\obj\Debug\net8.0\sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\lambda\sample\obj\Debug\net8.0\sample.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\lambda\sample\obj\Debug\net8.0\sample.AssemblyInfo.cs
+C:\iliyan\proggraming\task\lambda\sample\obj\Debug\net8.0\sample.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\lambda\sample\obj\Debug\net8.0\sample.dll
+C:\iliyan\proggraming\task\lambda\sample\obj\Debug\net8.0\refint\sample.dll
+C:\iliyan\proggraming\task\lambda\sample\obj\Debug\net8.0\sample.pdb
+C:\iliyan\proggraming\task\lambda\sample\obj\Debug\net8.0\sample.genruntimeconfig.cache
+C:\iliyan\proggraming\task\lambda\sample\obj\Debug\net8.0\ref\sample.dll

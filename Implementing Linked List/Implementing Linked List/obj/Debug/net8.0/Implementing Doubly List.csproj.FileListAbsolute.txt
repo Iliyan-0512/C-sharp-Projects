@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\Implementing Linked List\Implementing Linked List\bin\Debug\net8.0\Implementing Doubly List.exe
+C:\iliyan\proggraming\task\Implementing Linked List\Implementing Linked List\bin\Debug\net8.0\Implementing Doubly List.deps.json
+C:\iliyan\proggraming\task\Implementing Linked List\Implementing Linked List\bin\Debug\net8.0\Implementing Doubly List.runtimeconfig.json
+C:\iliyan\proggraming\task\Implementing Linked List\Implementing Linked List\bin\Debug\net8.0\Implementing Doubly List.dll
+C:\iliyan\proggraming\task\Implementing Linked List\Implementing Linked List\bin\Debug\net8.0\Implementing Doubly List.pdb
+C:\iliyan\proggraming\task\Implementing Linked List\Implementing Linked List\obj\Debug\net8.0\Implementing Doubly List.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\Implementing Linked List\Implementing Linked List\obj\Debug\net8.0\Implementing Doubly List.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\Implementing Linked List\Implementing Linked List\obj\Debug\net8.0\Implementing Doubly List.AssemblyInfo.cs
+C:\iliyan\proggraming\task\Implementing Linked List\Implementing Linked List\obj\Debug\net8.0\Implementing Doubly List.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\Implementing Linked List\Implementing Linked List\obj\Debug\net8.0\Implementing Doubly List.dll
+C:\iliyan\proggraming\task\Implementing Linked List\Implementing Linked List\obj\Debug\net8.0\refint\Implementing Doubly List.dll
+C:\iliyan\proggraming\task\Implementing Linked List\Implementing Linked List\obj\Debug\net8.0\Implementing Doubly List.pdb
+C:\iliyan\proggraming\task\Implementing Linked List\Implementing Linked List\obj\Debug\net8.0\Implementing Doubly List.genruntimeconfig.cache
+C:\iliyan\proggraming\task\Implementing Linked List\Implementing Linked List\obj\Debug\net8.0\ref\Implementing Doubly List.dll

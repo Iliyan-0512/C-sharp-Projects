@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\dicknanary\bin\Debug\net7.0\dicknanary.exe
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\dicknanary\bin\Debug\net7.0\dicknanary.deps.json
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\dicknanary\bin\Debug\net7.0\dicknanary.runtimeconfig.json
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\dicknanary\bin\Debug\net7.0\dicknanary.dll
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\dicknanary\bin\Debug\net7.0\dicknanary.pdb
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\dicknanary\obj\Debug\net7.0\dicknanary.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\dicknanary\obj\Debug\net7.0\dicknanary.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\dicknanary\obj\Debug\net7.0\dicknanary.AssemblyInfo.cs
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\dicknanary\obj\Debug\net7.0\dicknanary.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\dicknanary\obj\Debug\net7.0\dicknanary.dll
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\dicknanary\obj\Debug\net7.0\refint\dicknanary.dll
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\dicknanary\obj\Debug\net7.0\dicknanary.pdb
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\dicknanary\obj\Debug\net7.0\dicknanary.genruntimeconfig.cache
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\dicknanary\obj\Debug\net7.0\ref\dicknanary.dll

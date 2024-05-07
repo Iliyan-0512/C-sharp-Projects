@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\iliyan\\proggraming\\task\\MergingAndSquashing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66A79BBE-BCCF-4D74-962F-CDF6440E84D1}|..\\TitleSearch\\TitleSearch.csproj|c:\\iliyan\\proggraming\\task\\titlesearch\\titlesearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DEC378-7E6B-48F7-A884-B0D166BC87D9}|MergingAndSquashing\\MergingAndSquashing.csproj|c:\\iliyan\\proggraming\\task\\mergingandsquashing\\mergingandsquashing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65DEC378-7E6B-48F7-A884-B0D166BC87D9}|MergingAndSquashing\\MergingAndSquashing.csproj|solutionrelative:mergingandsquashing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04127BCC-7DEE-47DF-98C7-9E13572A0481}|..\\Tanks\\Tanks.csproj|c:\\iliyan\\proggraming\\task\\tanks\\tanksteleric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "titleSearch.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\TitleSearch\\titleSearch.cs",
+              "RelativeDocumentMoniker": "..\\TitleSearch\\titleSearch.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\TitleSearch\\titleSearch.cs",
+              "RelativeToolTip": "..\\TitleSearch\\titleSearch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T16:55:15.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TanksTeleric.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Tanks\\TanksTeleric.cs",
+              "RelativeDocumentMoniker": "..\\Tanks\\TanksTeleric.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\Tanks\\TanksTeleric.cs*",
+              "RelativeToolTip": "..\\Tanks\\TanksTeleric.cs*",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T13:59:34.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\MergingAndSquashing\\MergingAndSquashing\\Program.cs",
+              "RelativeDocumentMoniker": "MergingAndSquashing\\Program.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\MergingAndSquashing\\MergingAndSquashing\\Program.cs",
+              "RelativeToolTip": "MergingAndSquashing\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T06:36:10.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\finaly_test_fundamentals_1\bin\Debug\net7.0\finaly_test_fundamentals_1.exe
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\finaly_test_fundamentals_1\bin\Debug\net7.0\finaly_test_fundamentals_1.deps.json
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\finaly_test_fundamentals_1\bin\Debug\net7.0\finaly_test_fundamentals_1.runtimeconfig.json
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\finaly_test_fundamentals_1\bin\Debug\net7.0\finaly_test_fundamentals_1.dll
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\finaly_test_fundamentals_1\bin\Debug\net7.0\finaly_test_fundamentals_1.pdb
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\finaly_test_fundamentals_1\obj\Debug\net7.0\finaly_test_fundamentals_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\finaly_test_fundamentals_1\obj\Debug\net7.0\finaly_test_fundamentals_1.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\finaly_test_fundamentals_1\obj\Debug\net7.0\finaly_test_fundamentals_1.AssemblyInfo.cs
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\finaly_test_fundamentals_1\obj\Debug\net7.0\finaly_test_fundamentals_1.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\finaly_test_fundamentals_1\obj\Debug\net7.0\finaly_test_fundamentals_1.dll
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\finaly_test_fundamentals_1\obj\Debug\net7.0\refint\finaly_test_fundamentals_1.dll
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\finaly_test_fundamentals_1\obj\Debug\net7.0\finaly_test_fundamentals_1.pdb
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\finaly_test_fundamentals_1\obj\Debug\net7.0\finaly_test_fundamentals_1.genruntimeconfig.cache
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\finaly_test_fundamentals_1\obj\Debug\net7.0\ref\finaly_test_fundamentals_1.dll

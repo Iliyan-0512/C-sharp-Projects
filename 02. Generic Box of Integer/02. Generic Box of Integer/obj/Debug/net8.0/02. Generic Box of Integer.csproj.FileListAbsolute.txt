@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\02. Generic Box of Integer\02. Generic Box of Integer\bin\Debug\net8.0\02. Generic Box of Integer.exe
+C:\iliyan\proggraming\task\02. Generic Box of Integer\02. Generic Box of Integer\bin\Debug\net8.0\02. Generic Box of Integer.deps.json
+C:\iliyan\proggraming\task\02. Generic Box of Integer\02. Generic Box of Integer\bin\Debug\net8.0\02. Generic Box of Integer.runtimeconfig.json
+C:\iliyan\proggraming\task\02. Generic Box of Integer\02. Generic Box of Integer\bin\Debug\net8.0\02. Generic Box of Integer.dll
+C:\iliyan\proggraming\task\02. Generic Box of Integer\02. Generic Box of Integer\bin\Debug\net8.0\02. Generic Box of Integer.pdb
+C:\iliyan\proggraming\task\02. Generic Box of Integer\02. Generic Box of Integer\obj\Debug\net8.0\02. Generic Box of Integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\02. Generic Box of Integer\02. Generic Box of Integer\obj\Debug\net8.0\02. Generic Box of Integer.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\02. Generic Box of Integer\02. Generic Box of Integer\obj\Debug\net8.0\02. Generic Box of Integer.AssemblyInfo.cs
+C:\iliyan\proggraming\task\02. Generic Box of Integer\02. Generic Box of Integer\obj\Debug\net8.0\02. Generic Box of Integer.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\02. Generic Box of Integer\02. Generic Box of Integer\obj\Debug\net8.0\02. Generic Box of Integer.dll
+C:\iliyan\proggraming\task\02. Generic Box of Integer\02. Generic Box of Integer\obj\Debug\net8.0\refint\02. Generic Box of Integer.dll
+C:\iliyan\proggraming\task\02. Generic Box of Integer\02. Generic Box of Integer\obj\Debug\net8.0\02. Generic Box of Integer.pdb
+C:\iliyan\proggraming\task\02. Generic Box of Integer\02. Generic Box of Integer\obj\Debug\net8.0\02. Generic Box of Integer.genruntimeconfig.cache
+C:\iliyan\proggraming\task\02. Generic Box of Integer\02. Generic Box of Integer\obj\Debug\net8.0\ref\02. Generic Box of Integer.dll

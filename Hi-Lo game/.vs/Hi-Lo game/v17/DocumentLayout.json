@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\iliyan\\proggraming\\task\\Hi-Lo game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BADB85-3A6B-4BB6-8F66-7F66E3BC18C3}|Hi-Lo game\\Hi-Lo game.csproj|c:\\iliyan\\proggraming\\task\\hi-lo game\\hi-lo game\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BADB85-3A6B-4BB6-8F66-7F66E3BC18C3}|Hi-Lo game\\Hi-Lo game.csproj|solutionrelative:hi-lo game\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BADB85-3A6B-4BB6-8F66-7F66E3BC18C3}|Hi-Lo game\\Hi-Lo game.csproj|c:\\iliyan\\proggraming\\task\\hi-lo game\\hi-lo game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BADB85-3A6B-4BB6-8F66-7F66E3BC18C3}|Hi-Lo game\\Hi-Lo game.csproj|solutionrelative:hi-lo game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Hi-Lo game\\Hi-Lo game\\Class1.cs",
+              "RelativeDocumentMoniker": "Hi-Lo game\\Class1.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\Hi-Lo game\\Hi-Lo game\\Class1.cs",
+              "RelativeToolTip": "Hi-Lo game\\Class1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T21:05:36.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Hi-Lo game\\Hi-Lo game\\Program.cs",
+              "RelativeDocumentMoniker": "Hi-Lo game\\Program.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\Hi-Lo game\\Hi-Lo game\\Program.cs",
+              "RelativeToolTip": "Hi-Lo game\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T21:05:00.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

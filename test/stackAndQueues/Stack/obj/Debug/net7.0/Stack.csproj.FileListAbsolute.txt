@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\test\stackAndQueues\Stack\bin\Debug\net7.0\Stack.exe
+C:\iliyan\proggraming\task\test\stackAndQueues\Stack\bin\Debug\net7.0\Stack.deps.json
+C:\iliyan\proggraming\task\test\stackAndQueues\Stack\bin\Debug\net7.0\Stack.runtimeconfig.json
+C:\iliyan\proggraming\task\test\stackAndQueues\Stack\bin\Debug\net7.0\Stack.dll
+C:\iliyan\proggraming\task\test\stackAndQueues\Stack\bin\Debug\net7.0\Stack.pdb
+C:\iliyan\proggraming\task\test\stackAndQueues\Stack\obj\Debug\net7.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\test\stackAndQueues\Stack\obj\Debug\net7.0\Stack.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\test\stackAndQueues\Stack\obj\Debug\net7.0\Stack.AssemblyInfo.cs
+C:\iliyan\proggraming\task\test\stackAndQueues\Stack\obj\Debug\net7.0\Stack.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\test\stackAndQueues\Stack\obj\Debug\net7.0\Stack.dll
+C:\iliyan\proggraming\task\test\stackAndQueues\Stack\obj\Debug\net7.0\refint\Stack.dll
+C:\iliyan\proggraming\task\test\stackAndQueues\Stack\obj\Debug\net7.0\Stack.pdb
+C:\iliyan\proggraming\task\test\stackAndQueues\Stack\obj\Debug\net7.0\Stack.genruntimeconfig.cache
+C:\iliyan\proggraming\task\test\stackAndQueues\Stack\obj\Debug\net7.0\ref\Stack.dll

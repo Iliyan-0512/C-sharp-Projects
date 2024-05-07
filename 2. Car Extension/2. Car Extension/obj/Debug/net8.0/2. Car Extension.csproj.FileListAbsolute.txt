@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\2. Car Extension\2. Car Extension\bin\Debug\net8.0\2. Car Extension.exe
+C:\iliyan\proggraming\task\2. Car Extension\2. Car Extension\bin\Debug\net8.0\2. Car Extension.deps.json
+C:\iliyan\proggraming\task\2. Car Extension\2. Car Extension\bin\Debug\net8.0\2. Car Extension.runtimeconfig.json
+C:\iliyan\proggraming\task\2. Car Extension\2. Car Extension\bin\Debug\net8.0\2. Car Extension.dll
+C:\iliyan\proggraming\task\2. Car Extension\2. Car Extension\bin\Debug\net8.0\2. Car Extension.pdb
+C:\iliyan\proggraming\task\2. Car Extension\2. Car Extension\obj\Debug\net8.0\2. Car Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\2. Car Extension\2. Car Extension\obj\Debug\net8.0\2. Car Extension.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\2. Car Extension\2. Car Extension\obj\Debug\net8.0\2. Car Extension.AssemblyInfo.cs
+C:\iliyan\proggraming\task\2. Car Extension\2. Car Extension\obj\Debug\net8.0\2. Car Extension.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\2. Car Extension\2. Car Extension\obj\Debug\net8.0\2. Car Extension.dll
+C:\iliyan\proggraming\task\2. Car Extension\2. Car Extension\obj\Debug\net8.0\refint\2. Car Extension.dll
+C:\iliyan\proggraming\task\2. Car Extension\2. Car Extension\obj\Debug\net8.0\2. Car Extension.pdb
+C:\iliyan\proggraming\task\2. Car Extension\2. Car Extension\obj\Debug\net8.0\2. Car Extension.genruntimeconfig.cache
+C:\iliyan\proggraming\task\2. Car Extension\2. Car Extension\obj\Debug\net8.0\ref\2. Car Extension.dll

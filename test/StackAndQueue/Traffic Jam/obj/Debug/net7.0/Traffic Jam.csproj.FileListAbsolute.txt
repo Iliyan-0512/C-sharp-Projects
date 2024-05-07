@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\test\StackAndQueue\Traffic Jam\bin\Debug\net7.0\Traffic Jam.exe
+C:\iliyan\proggraming\task\test\StackAndQueue\Traffic Jam\bin\Debug\net7.0\Traffic Jam.deps.json
+C:\iliyan\proggraming\task\test\StackAndQueue\Traffic Jam\bin\Debug\net7.0\Traffic Jam.runtimeconfig.json
+C:\iliyan\proggraming\task\test\StackAndQueue\Traffic Jam\bin\Debug\net7.0\Traffic Jam.dll
+C:\iliyan\proggraming\task\test\StackAndQueue\Traffic Jam\bin\Debug\net7.0\Traffic Jam.pdb
+C:\iliyan\proggraming\task\test\StackAndQueue\Traffic Jam\obj\Debug\net7.0\Traffic Jam.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\test\StackAndQueue\Traffic Jam\obj\Debug\net7.0\Traffic Jam.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\test\StackAndQueue\Traffic Jam\obj\Debug\net7.0\Traffic Jam.AssemblyInfo.cs
+C:\iliyan\proggraming\task\test\StackAndQueue\Traffic Jam\obj\Debug\net7.0\Traffic Jam.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\test\StackAndQueue\Traffic Jam\obj\Debug\net7.0\Traffic Jam.dll
+C:\iliyan\proggraming\task\test\StackAndQueue\Traffic Jam\obj\Debug\net7.0\refint\Traffic Jam.dll
+C:\iliyan\proggraming\task\test\StackAndQueue\Traffic Jam\obj\Debug\net7.0\Traffic Jam.pdb
+C:\iliyan\proggraming\task\test\StackAndQueue\Traffic Jam\obj\Debug\net7.0\Traffic Jam.genruntimeconfig.cache
+C:\iliyan\proggraming\task\test\StackAndQueue\Traffic Jam\obj\Debug\net7.0\ref\Traffic Jam.dll

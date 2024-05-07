@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\test\array\ArrayExersise\Common Elements\bin\Debug\net7.0\Common Elements.exe
+C:\iliyan\proggraming\task\test\array\ArrayExersise\Common Elements\bin\Debug\net7.0\Common Elements.deps.json
+C:\iliyan\proggraming\task\test\array\ArrayExersise\Common Elements\bin\Debug\net7.0\Common Elements.runtimeconfig.json
+C:\iliyan\proggraming\task\test\array\ArrayExersise\Common Elements\bin\Debug\net7.0\Common Elements.dll
+C:\iliyan\proggraming\task\test\array\ArrayExersise\Common Elements\bin\Debug\net7.0\Common Elements.pdb
+C:\iliyan\proggraming\task\test\array\ArrayExersise\Common Elements\obj\Debug\net7.0\Common Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\test\array\ArrayExersise\Common Elements\obj\Debug\net7.0\Common Elements.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\test\array\ArrayExersise\Common Elements\obj\Debug\net7.0\Common Elements.AssemblyInfo.cs
+C:\iliyan\proggraming\task\test\array\ArrayExersise\Common Elements\obj\Debug\net7.0\Common Elements.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\test\array\ArrayExersise\Common Elements\obj\Debug\net7.0\Common Elements.dll
+C:\iliyan\proggraming\task\test\array\ArrayExersise\Common Elements\obj\Debug\net7.0\refint\Common Elements.dll
+C:\iliyan\proggraming\task\test\array\ArrayExersise\Common Elements\obj\Debug\net7.0\Common Elements.pdb
+C:\iliyan\proggraming\task\test\array\ArrayExersise\Common Elements\obj\Debug\net7.0\Common Elements.genruntimeconfig.cache
+C:\iliyan\proggraming\task\test\array\ArrayExersise\Common Elements\obj\Debug\net7.0\ref\Common Elements.dll

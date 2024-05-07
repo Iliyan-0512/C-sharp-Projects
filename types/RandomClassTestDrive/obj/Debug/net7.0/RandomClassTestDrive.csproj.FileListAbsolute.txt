@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\types\RandomClassTestDrive\bin\Debug\net7.0\RandomClassTestDrive.exe
+C:\iliyan\proggraming\task\types\RandomClassTestDrive\bin\Debug\net7.0\RandomClassTestDrive.deps.json
+C:\iliyan\proggraming\task\types\RandomClassTestDrive\bin\Debug\net7.0\RandomClassTestDrive.runtimeconfig.json
+C:\iliyan\proggraming\task\types\RandomClassTestDrive\bin\Debug\net7.0\RandomClassTestDrive.dll
+C:\iliyan\proggraming\task\types\RandomClassTestDrive\bin\Debug\net7.0\RandomClassTestDrive.pdb
+C:\iliyan\proggraming\task\types\RandomClassTestDrive\obj\Debug\net7.0\RandomClassTestDrive.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\types\RandomClassTestDrive\obj\Debug\net7.0\RandomClassTestDrive.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\types\RandomClassTestDrive\obj\Debug\net7.0\RandomClassTestDrive.AssemblyInfo.cs
+C:\iliyan\proggraming\task\types\RandomClassTestDrive\obj\Debug\net7.0\RandomClassTestDrive.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\types\RandomClassTestDrive\obj\Debug\net7.0\RandomClassTestDrive.dll
+C:\iliyan\proggraming\task\types\RandomClassTestDrive\obj\Debug\net7.0\refint\RandomClassTestDrive.dll
+C:\iliyan\proggraming\task\types\RandomClassTestDrive\obj\Debug\net7.0\RandomClassTestDrive.pdb
+C:\iliyan\proggraming\task\types\RandomClassTestDrive\obj\Debug\net7.0\RandomClassTestDrive.genruntimeconfig.cache
+C:\iliyan\proggraming\task\types\RandomClassTestDrive\obj\Debug\net7.0\ref\RandomClassTestDrive.dll

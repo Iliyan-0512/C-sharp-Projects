@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\iliyan\\proggraming\\task\\3. Generic Swap Method Strings\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11A70923-0022-4243-A2A7-1CD42135CAC4}|3. Generic Swap Method Strings\\3. Generic Swap Method Strings.csproj|c:\\iliyan\\proggraming\\task\\3. generic swap method strings\\3. generic swap method strings\\3. generic swap method strings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A70923-0022-4243-A2A7-1CD42135CAC4}|3. Generic Swap Method Strings\\3. Generic Swap Method Strings.csproj|solutionrelative:3. generic swap method strings\\3. generic swap method strings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "3. Generic Swap Method Strings.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\3. Generic Swap Method Strings\\3. Generic Swap Method Strings\\3. Generic Swap Method Strings.cs",
+              "RelativeDocumentMoniker": "3. Generic Swap Method Strings\\3. Generic Swap Method Strings.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\3. Generic Swap Method Strings\\3. Generic Swap Method Strings\\3. Generic Swap Method Strings.cs",
+              "RelativeToolTip": "3. Generic Swap Method Strings\\3. Generic Swap Method Strings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T18:10:31.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\6. Generic Count Method Doubles\6. Generic Count Method Doubles\bin\Debug\net8.0\6. Generic Count Method Doubles.exe
+C:\iliyan\proggraming\task\6. Generic Count Method Doubles\6. Generic Count Method Doubles\bin\Debug\net8.0\6. Generic Count Method Doubles.deps.json
+C:\iliyan\proggraming\task\6. Generic Count Method Doubles\6. Generic Count Method Doubles\bin\Debug\net8.0\6. Generic Count Method Doubles.runtimeconfig.json
+C:\iliyan\proggraming\task\6. Generic Count Method Doubles\6. Generic Count Method Doubles\bin\Debug\net8.0\6. Generic Count Method Doubles.dll
+C:\iliyan\proggraming\task\6. Generic Count Method Doubles\6. Generic Count Method Doubles\bin\Debug\net8.0\6. Generic Count Method Doubles.pdb
+C:\iliyan\proggraming\task\6. Generic Count Method Doubles\6. Generic Count Method Doubles\obj\Debug\net8.0\6. Generic Count Method Doubles.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\6. Generic Count Method Doubles\6. Generic Count Method Doubles\obj\Debug\net8.0\6. Generic Count Method Doubles.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\6. Generic Count Method Doubles\6. Generic Count Method Doubles\obj\Debug\net8.0\6. Generic Count Method Doubles.AssemblyInfo.cs
+C:\iliyan\proggraming\task\6. Generic Count Method Doubles\6. Generic Count Method Doubles\obj\Debug\net8.0\6. Generic Count Method Doubles.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\6. Generic Count Method Doubles\6. Generic Count Method Doubles\obj\Debug\net8.0\6. Generic Count Method Doubles.dll
+C:\iliyan\proggraming\task\6. Generic Count Method Doubles\6. Generic Count Method Doubles\obj\Debug\net8.0\refint\6. Generic Count Method Doubles.dll
+C:\iliyan\proggraming\task\6. Generic Count Method Doubles\6. Generic Count Method Doubles\obj\Debug\net8.0\6. Generic Count Method Doubles.pdb
+C:\iliyan\proggraming\task\6. Generic Count Method Doubles\6. Generic Count Method Doubles\obj\Debug\net8.0\6. Generic Count Method Doubles.genruntimeconfig.cache
+C:\iliyan\proggraming\task\6. Generic Count Method Doubles\6. Generic Count Method Doubles\obj\Debug\net8.0\ref\6. Generic Count Method Doubles.dll

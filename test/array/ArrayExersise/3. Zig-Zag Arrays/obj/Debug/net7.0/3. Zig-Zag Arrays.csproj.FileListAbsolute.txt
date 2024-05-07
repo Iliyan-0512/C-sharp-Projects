@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\test\array\ArrayExersise\3. Zig-Zag Arrays\bin\Debug\net7.0\3. Zig-Zag Arrays.exe
+C:\iliyan\proggraming\task\test\array\ArrayExersise\3. Zig-Zag Arrays\bin\Debug\net7.0\3. Zig-Zag Arrays.deps.json
+C:\iliyan\proggraming\task\test\array\ArrayExersise\3. Zig-Zag Arrays\bin\Debug\net7.0\3. Zig-Zag Arrays.runtimeconfig.json
+C:\iliyan\proggraming\task\test\array\ArrayExersise\3. Zig-Zag Arrays\bin\Debug\net7.0\3. Zig-Zag Arrays.dll
+C:\iliyan\proggraming\task\test\array\ArrayExersise\3. Zig-Zag Arrays\bin\Debug\net7.0\3. Zig-Zag Arrays.pdb
+C:\iliyan\proggraming\task\test\array\ArrayExersise\3. Zig-Zag Arrays\obj\Debug\net7.0\3. Zig-Zag Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\test\array\ArrayExersise\3. Zig-Zag Arrays\obj\Debug\net7.0\3. Zig-Zag Arrays.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\test\array\ArrayExersise\3. Zig-Zag Arrays\obj\Debug\net7.0\3. Zig-Zag Arrays.AssemblyInfo.cs
+C:\iliyan\proggraming\task\test\array\ArrayExersise\3. Zig-Zag Arrays\obj\Debug\net7.0\3. Zig-Zag Arrays.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\test\array\ArrayExersise\3. Zig-Zag Arrays\obj\Debug\net7.0\3. Zig-Zag Arrays.dll
+C:\iliyan\proggraming\task\test\array\ArrayExersise\3. Zig-Zag Arrays\obj\Debug\net7.0\refint\3. Zig-Zag Arrays.dll
+C:\iliyan\proggraming\task\test\array\ArrayExersise\3. Zig-Zag Arrays\obj\Debug\net7.0\3. Zig-Zag Arrays.pdb
+C:\iliyan\proggraming\task\test\array\ArrayExersise\3. Zig-Zag Arrays\obj\Debug\net7.0\3. Zig-Zag Arrays.genruntimeconfig.cache
+C:\iliyan\proggraming\task\test\array\ArrayExersise\3. Zig-Zag Arrays\obj\Debug\net7.0\ref\3. Zig-Zag Arrays.dll

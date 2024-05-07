@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\test\StackAndQueue\StackAndQueue\bin\Debug\net7.0\StackAndQueue.exe
+C:\iliyan\proggraming\task\test\StackAndQueue\StackAndQueue\bin\Debug\net7.0\StackAndQueue.deps.json
+C:\iliyan\proggraming\task\test\StackAndQueue\StackAndQueue\bin\Debug\net7.0\StackAndQueue.runtimeconfig.json
+C:\iliyan\proggraming\task\test\StackAndQueue\StackAndQueue\bin\Debug\net7.0\StackAndQueue.dll
+C:\iliyan\proggraming\task\test\StackAndQueue\StackAndQueue\bin\Debug\net7.0\StackAndQueue.pdb
+C:\iliyan\proggraming\task\test\StackAndQueue\StackAndQueue\obj\Debug\net7.0\StackAndQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\test\StackAndQueue\StackAndQueue\obj\Debug\net7.0\StackAndQueue.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\test\StackAndQueue\StackAndQueue\obj\Debug\net7.0\StackAndQueue.AssemblyInfo.cs
+C:\iliyan\proggraming\task\test\StackAndQueue\StackAndQueue\obj\Debug\net7.0\StackAndQueue.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\test\StackAndQueue\StackAndQueue\obj\Debug\net7.0\StackAndQueue.dll
+C:\iliyan\proggraming\task\test\StackAndQueue\StackAndQueue\obj\Debug\net7.0\refint\StackAndQueue.dll
+C:\iliyan\proggraming\task\test\StackAndQueue\StackAndQueue\obj\Debug\net7.0\StackAndQueue.pdb
+C:\iliyan\proggraming\task\test\StackAndQueue\StackAndQueue\obj\Debug\net7.0\StackAndQueue.genruntimeconfig.cache
+C:\iliyan\proggraming\task\test\StackAndQueue\StackAndQueue\obj\Debug\net7.0\ref\StackAndQueue.dll

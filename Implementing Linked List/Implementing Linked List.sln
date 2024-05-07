@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implementing Doubly List", "Implementing Linked List\Implementing Doubly List.csproj", "{B528D69D-12A8-4BE3-990F-A5006E20FFB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B528D69D-12A8-4BE3-990F-A5006E20FFB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B528D69D-12A8-4BE3-990F-A5006E20FFB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B528D69D-12A8-4BE3-990F-A5006E20FFB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B528D69D-12A8-4BE3-990F-A5006E20FFB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {121D98BB-C5E0-43D4-99FC-1CD7705F77D2}
+	EndGlobalSection
+EndGlobal

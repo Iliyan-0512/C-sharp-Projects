@@ -1,0 +1,4 @@
+C:\iliyan\proggraming\task\refex\obj\Debug\net7.0\refex.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\refex\obj\Debug\net7.0\refex.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\refex\obj\Debug\net7.0\refex.AssemblyInfo.cs
+C:\iliyan\proggraming\task\refex\obj\Debug\net7.0\refex.csproj.CoreCompileInputs.cache

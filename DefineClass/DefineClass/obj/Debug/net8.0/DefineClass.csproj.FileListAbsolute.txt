@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\DefineClass\DefineClass\bin\Debug\net8.0\DefineClass.exe
+C:\iliyan\proggraming\task\DefineClass\DefineClass\bin\Debug\net8.0\DefineClass.deps.json
+C:\iliyan\proggraming\task\DefineClass\DefineClass\bin\Debug\net8.0\DefineClass.runtimeconfig.json
+C:\iliyan\proggraming\task\DefineClass\DefineClass\bin\Debug\net8.0\DefineClass.dll
+C:\iliyan\proggraming\task\DefineClass\DefineClass\bin\Debug\net8.0\DefineClass.pdb
+C:\iliyan\proggraming\task\DefineClass\DefineClass\obj\Debug\net8.0\DefineClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\DefineClass\DefineClass\obj\Debug\net8.0\DefineClass.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\DefineClass\DefineClass\obj\Debug\net8.0\DefineClass.AssemblyInfo.cs
+C:\iliyan\proggraming\task\DefineClass\DefineClass\obj\Debug\net8.0\DefineClass.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\DefineClass\DefineClass\obj\Debug\net8.0\DefineClass.dll
+C:\iliyan\proggraming\task\DefineClass\DefineClass\obj\Debug\net8.0\refint\DefineClass.dll
+C:\iliyan\proggraming\task\DefineClass\DefineClass\obj\Debug\net8.0\DefineClass.pdb
+C:\iliyan\proggraming\task\DefineClass\DefineClass\obj\Debug\net8.0\DefineClass.genruntimeconfig.cache
+C:\iliyan\proggraming\task\DefineClass\DefineClass\obj\Debug\net8.0\ref\DefineClass.dll

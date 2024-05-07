@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\test\dictanary\dictanary\bin\Debug\net7.0\dictanary.exe
+C:\iliyan\proggraming\task\test\dictanary\dictanary\bin\Debug\net7.0\dictanary.deps.json
+C:\iliyan\proggraming\task\test\dictanary\dictanary\bin\Debug\net7.0\dictanary.runtimeconfig.json
+C:\iliyan\proggraming\task\test\dictanary\dictanary\bin\Debug\net7.0\dictanary.dll
+C:\iliyan\proggraming\task\test\dictanary\dictanary\bin\Debug\net7.0\dictanary.pdb
+C:\iliyan\proggraming\task\test\dictanary\dictanary\obj\Debug\net7.0\dictanary.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\test\dictanary\dictanary\obj\Debug\net7.0\dictanary.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\test\dictanary\dictanary\obj\Debug\net7.0\dictanary.AssemblyInfo.cs
+C:\iliyan\proggraming\task\test\dictanary\dictanary\obj\Debug\net7.0\dictanary.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\test\dictanary\dictanary\obj\Debug\net7.0\dictanary.dll
+C:\iliyan\proggraming\task\test\dictanary\dictanary\obj\Debug\net7.0\refint\dictanary.dll
+C:\iliyan\proggraming\task\test\dictanary\dictanary\obj\Debug\net7.0\dictanary.pdb
+C:\iliyan\proggraming\task\test\dictanary\dictanary\obj\Debug\net7.0\dictanary.genruntimeconfig.cache
+C:\iliyan\proggraming\task\test\dictanary\dictanary\obj\Debug\net7.0\ref\dictanary.dll

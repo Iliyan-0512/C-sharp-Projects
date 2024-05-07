@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\iliyan\\proggraming\\task\\6. Generic Count Method Doubles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7679FB-7C36-4BAC-88E0-EE2F83884179}|6. Generic Count Method Doubles\\6. Generic Count Method Doubles.csproj|c:\\iliyan\\proggraming\\task\\6. generic count method doubles\\6. generic count method doubles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7679FB-7C36-4BAC-88E0-EE2F83884179}|6. Generic Count Method Doubles\\6. Generic Count Method Doubles.csproj|solutionrelative:6. generic count method doubles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\6. Generic Count Method Doubles\\6. Generic Count Method Doubles\\Program.cs",
+              "RelativeDocumentMoniker": "6. Generic Count Method Doubles\\Program.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\6. Generic Count Method Doubles\\6. Generic Count Method Doubles\\Program.cs",
+              "RelativeToolTip": "6. Generic Count Method Doubles\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T08:59:34.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

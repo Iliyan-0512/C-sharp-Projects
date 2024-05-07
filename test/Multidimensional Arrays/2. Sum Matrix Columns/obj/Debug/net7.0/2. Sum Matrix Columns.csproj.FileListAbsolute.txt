@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\2. Sum Matrix Columns\bin\Debug\net7.0\2. Sum Matrix Columns.exe
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\2. Sum Matrix Columns\bin\Debug\net7.0\2. Sum Matrix Columns.deps.json
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\2. Sum Matrix Columns\bin\Debug\net7.0\2. Sum Matrix Columns.runtimeconfig.json
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\2. Sum Matrix Columns\bin\Debug\net7.0\2. Sum Matrix Columns.dll
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\2. Sum Matrix Columns\bin\Debug\net7.0\2. Sum Matrix Columns.pdb
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\2. Sum Matrix Columns\obj\Debug\net7.0\2. Sum Matrix Columns.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\2. Sum Matrix Columns\obj\Debug\net7.0\2. Sum Matrix Columns.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\2. Sum Matrix Columns\obj\Debug\net7.0\2. Sum Matrix Columns.AssemblyInfo.cs
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\2. Sum Matrix Columns\obj\Debug\net7.0\2. Sum Matrix Columns.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\2. Sum Matrix Columns\obj\Debug\net7.0\2. Sum Matrix Columns.dll
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\2. Sum Matrix Columns\obj\Debug\net7.0\refint\2. Sum Matrix Columns.dll
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\2. Sum Matrix Columns\obj\Debug\net7.0\2. Sum Matrix Columns.pdb
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\2. Sum Matrix Columns\obj\Debug\net7.0\2. Sum Matrix Columns.genruntimeconfig.cache
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\2. Sum Matrix Columns\obj\Debug\net7.0\ref\2. Sum Matrix Columns.dll

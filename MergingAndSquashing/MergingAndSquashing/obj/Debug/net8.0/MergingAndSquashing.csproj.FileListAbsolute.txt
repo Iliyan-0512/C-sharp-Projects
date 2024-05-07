@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\MergingAndSquashing\MergingAndSquashing\bin\Debug\net8.0\MergingAndSquashing.exe
+C:\iliyan\proggraming\task\MergingAndSquashing\MergingAndSquashing\bin\Debug\net8.0\MergingAndSquashing.deps.json
+C:\iliyan\proggraming\task\MergingAndSquashing\MergingAndSquashing\bin\Debug\net8.0\MergingAndSquashing.runtimeconfig.json
+C:\iliyan\proggraming\task\MergingAndSquashing\MergingAndSquashing\bin\Debug\net8.0\MergingAndSquashing.dll
+C:\iliyan\proggraming\task\MergingAndSquashing\MergingAndSquashing\bin\Debug\net8.0\MergingAndSquashing.pdb
+C:\iliyan\proggraming\task\MergingAndSquashing\MergingAndSquashing\obj\Debug\net8.0\MergingAndSquashing.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\MergingAndSquashing\MergingAndSquashing\obj\Debug\net8.0\MergingAndSquashing.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\MergingAndSquashing\MergingAndSquashing\obj\Debug\net8.0\MergingAndSquashing.AssemblyInfo.cs
+C:\iliyan\proggraming\task\MergingAndSquashing\MergingAndSquashing\obj\Debug\net8.0\MergingAndSquashing.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\MergingAndSquashing\MergingAndSquashing\obj\Debug\net8.0\MergingAndSquashing.dll
+C:\iliyan\proggraming\task\MergingAndSquashing\MergingAndSquashing\obj\Debug\net8.0\refint\MergingAndSquashing.dll
+C:\iliyan\proggraming\task\MergingAndSquashing\MergingAndSquashing\obj\Debug\net8.0\MergingAndSquashing.pdb
+C:\iliyan\proggraming\task\MergingAndSquashing\MergingAndSquashing\obj\Debug\net8.0\MergingAndSquashing.genruntimeconfig.cache
+C:\iliyan\proggraming\task\MergingAndSquashing\MergingAndSquashing\obj\Debug\net8.0\ref\MergingAndSquashing.dll

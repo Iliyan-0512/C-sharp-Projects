@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\test\StackAndQueue\PrintEvenNumbers\bin\Debug\net7.0\PrintEvenNumbers.exe
+C:\iliyan\proggraming\task\test\StackAndQueue\PrintEvenNumbers\bin\Debug\net7.0\PrintEvenNumbers.deps.json
+C:\iliyan\proggraming\task\test\StackAndQueue\PrintEvenNumbers\bin\Debug\net7.0\PrintEvenNumbers.runtimeconfig.json
+C:\iliyan\proggraming\task\test\StackAndQueue\PrintEvenNumbers\bin\Debug\net7.0\PrintEvenNumbers.dll
+C:\iliyan\proggraming\task\test\StackAndQueue\PrintEvenNumbers\bin\Debug\net7.0\PrintEvenNumbers.pdb
+C:\iliyan\proggraming\task\test\StackAndQueue\PrintEvenNumbers\obj\Debug\net7.0\PrintEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\test\StackAndQueue\PrintEvenNumbers\obj\Debug\net7.0\PrintEvenNumbers.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\test\StackAndQueue\PrintEvenNumbers\obj\Debug\net7.0\PrintEvenNumbers.AssemblyInfo.cs
+C:\iliyan\proggraming\task\test\StackAndQueue\PrintEvenNumbers\obj\Debug\net7.0\PrintEvenNumbers.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\test\StackAndQueue\PrintEvenNumbers\obj\Debug\net7.0\PrintEvenNumbers.dll
+C:\iliyan\proggraming\task\test\StackAndQueue\PrintEvenNumbers\obj\Debug\net7.0\refint\PrintEvenNumbers.dll
+C:\iliyan\proggraming\task\test\StackAndQueue\PrintEvenNumbers\obj\Debug\net7.0\PrintEvenNumbers.pdb
+C:\iliyan\proggraming\task\test\StackAndQueue\PrintEvenNumbers\obj\Debug\net7.0\PrintEvenNumbers.genruntimeconfig.cache
+C:\iliyan\proggraming\task\test\StackAndQueue\PrintEvenNumbers\obj\Debug\net7.0\ref\PrintEvenNumbers.dll

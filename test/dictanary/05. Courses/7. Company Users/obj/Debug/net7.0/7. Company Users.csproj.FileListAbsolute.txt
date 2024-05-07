@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\test\dictanary\05. Courses\7. Company Users\bin\Debug\net7.0\7. Company Users.exe
+C:\iliyan\proggraming\task\test\dictanary\05. Courses\7. Company Users\bin\Debug\net7.0\7. Company Users.deps.json
+C:\iliyan\proggraming\task\test\dictanary\05. Courses\7. Company Users\bin\Debug\net7.0\7. Company Users.runtimeconfig.json
+C:\iliyan\proggraming\task\test\dictanary\05. Courses\7. Company Users\bin\Debug\net7.0\7. Company Users.dll
+C:\iliyan\proggraming\task\test\dictanary\05. Courses\7. Company Users\bin\Debug\net7.0\7. Company Users.pdb
+C:\iliyan\proggraming\task\test\dictanary\05. Courses\7. Company Users\obj\Debug\net7.0\7. Company Users.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\test\dictanary\05. Courses\7. Company Users\obj\Debug\net7.0\7. Company Users.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\test\dictanary\05. Courses\7. Company Users\obj\Debug\net7.0\7. Company Users.AssemblyInfo.cs
+C:\iliyan\proggraming\task\test\dictanary\05. Courses\7. Company Users\obj\Debug\net7.0\7. Company Users.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\test\dictanary\05. Courses\7. Company Users\obj\Debug\net7.0\7. Company Users.dll
+C:\iliyan\proggraming\task\test\dictanary\05. Courses\7. Company Users\obj\Debug\net7.0\refint\7. Company Users.dll
+C:\iliyan\proggraming\task\test\dictanary\05. Courses\7. Company Users\obj\Debug\net7.0\7. Company Users.pdb
+C:\iliyan\proggraming\task\test\dictanary\05. Courses\7. Company Users\obj\Debug\net7.0\7. Company Users.genruntimeconfig.cache
+C:\iliyan\proggraming\task\test\dictanary\05. Courses\7. Company Users\obj\Debug\net7.0\ref\7. Company Users.dll

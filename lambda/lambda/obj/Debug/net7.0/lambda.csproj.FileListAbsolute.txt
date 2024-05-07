@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\lambda\lambda\bin\Debug\net7.0\lambda.exe
+C:\iliyan\proggraming\task\lambda\lambda\bin\Debug\net7.0\lambda.deps.json
+C:\iliyan\proggraming\task\lambda\lambda\bin\Debug\net7.0\lambda.runtimeconfig.json
+C:\iliyan\proggraming\task\lambda\lambda\bin\Debug\net7.0\lambda.dll
+C:\iliyan\proggraming\task\lambda\lambda\bin\Debug\net7.0\lambda.pdb
+C:\iliyan\proggraming\task\lambda\lambda\obj\Debug\net7.0\lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\lambda\lambda\obj\Debug\net7.0\lambda.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\lambda\lambda\obj\Debug\net7.0\lambda.AssemblyInfo.cs
+C:\iliyan\proggraming\task\lambda\lambda\obj\Debug\net7.0\lambda.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\lambda\lambda\obj\Debug\net7.0\lambda.dll
+C:\iliyan\proggraming\task\lambda\lambda\obj\Debug\net7.0\refint\lambda.dll
+C:\iliyan\proggraming\task\lambda\lambda\obj\Debug\net7.0\lambda.pdb
+C:\iliyan\proggraming\task\lambda\lambda\obj\Debug\net7.0\lambda.genruntimeconfig.cache
+C:\iliyan\proggraming\task\lambda\lambda\obj\Debug\net7.0\ref\lambda.dll

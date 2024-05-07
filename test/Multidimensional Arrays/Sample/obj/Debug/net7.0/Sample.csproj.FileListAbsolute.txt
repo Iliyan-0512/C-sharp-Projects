@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\Sample\bin\Debug\net7.0\Sample.exe
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\Sample\bin\Debug\net7.0\Sample.deps.json
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\Sample\bin\Debug\net7.0\Sample.runtimeconfig.json
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\Sample\bin\Debug\net7.0\Sample.dll
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\Sample\bin\Debug\net7.0\Sample.pdb
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\Sample\obj\Debug\net7.0\Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\Sample\obj\Debug\net7.0\Sample.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\Sample\obj\Debug\net7.0\Sample.AssemblyInfo.cs
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\Sample\obj\Debug\net7.0\Sample.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\Sample\obj\Debug\net7.0\Sample.dll
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\Sample\obj\Debug\net7.0\refint\Sample.dll
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\Sample\obj\Debug\net7.0\Sample.pdb
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\Sample\obj\Debug\net7.0\Sample.genruntimeconfig.cache
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\Sample\obj\Debug\net7.0\ref\Sample.dll

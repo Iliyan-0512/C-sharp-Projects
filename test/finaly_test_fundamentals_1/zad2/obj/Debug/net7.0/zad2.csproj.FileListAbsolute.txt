@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\zad2\bin\Debug\net7.0\zad2.exe
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\zad2\bin\Debug\net7.0\zad2.deps.json
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\zad2\bin\Debug\net7.0\zad2.runtimeconfig.json
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\zad2\bin\Debug\net7.0\zad2.dll
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\zad2\bin\Debug\net7.0\zad2.pdb
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\zad2\obj\Debug\net7.0\zad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\zad2\obj\Debug\net7.0\zad2.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\zad2\obj\Debug\net7.0\zad2.AssemblyInfo.cs
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\zad2\obj\Debug\net7.0\zad2.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\zad2\obj\Debug\net7.0\zad2.dll
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\zad2\obj\Debug\net7.0\refint\zad2.dll
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\zad2\obj\Debug\net7.0\zad2.pdb
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\zad2\obj\Debug\net7.0\zad2.genruntimeconfig.cache
+C:\iliyan\proggraming\task\test\finaly_test_fundamentals_1\zad2\obj\Debug\net7.0\ref\zad2.dll

@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\test\01. Count Chars in a String\02. A Miner Task\bin\Debug\net7.0\02. A Miner Task.exe
+C:\iliyan\proggraming\task\test\01. Count Chars in a String\02. A Miner Task\bin\Debug\net7.0\02. A Miner Task.deps.json
+C:\iliyan\proggraming\task\test\01. Count Chars in a String\02. A Miner Task\bin\Debug\net7.0\02. A Miner Task.runtimeconfig.json
+C:\iliyan\proggraming\task\test\01. Count Chars in a String\02. A Miner Task\bin\Debug\net7.0\02. A Miner Task.dll
+C:\iliyan\proggraming\task\test\01. Count Chars in a String\02. A Miner Task\bin\Debug\net7.0\02. A Miner Task.pdb
+C:\iliyan\proggraming\task\test\01. Count Chars in a String\02. A Miner Task\obj\Debug\net7.0\02. A Miner Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\test\01. Count Chars in a String\02. A Miner Task\obj\Debug\net7.0\02. A Miner Task.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\test\01. Count Chars in a String\02. A Miner Task\obj\Debug\net7.0\02. A Miner Task.AssemblyInfo.cs
+C:\iliyan\proggraming\task\test\01. Count Chars in a String\02. A Miner Task\obj\Debug\net7.0\02. A Miner Task.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\test\01. Count Chars in a String\02. A Miner Task\obj\Debug\net7.0\02. A Miner Task.dll
+C:\iliyan\proggraming\task\test\01. Count Chars in a String\02. A Miner Task\obj\Debug\net7.0\refint\02. A Miner Task.dll
+C:\iliyan\proggraming\task\test\01. Count Chars in a String\02. A Miner Task\obj\Debug\net7.0\02. A Miner Task.pdb
+C:\iliyan\proggraming\task\test\01. Count Chars in a String\02. A Miner Task\obj\Debug\net7.0\02. A Miner Task.genruntimeconfig.cache
+C:\iliyan\proggraming\task\test\01. Count Chars in a String\02. A Miner Task\obj\Debug\net7.0\ref\02. A Miner Task.dll

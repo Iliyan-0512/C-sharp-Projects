@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\iliyan\\proggraming\\task\\2. Car Extension\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{323E0C26-9E27-456C-BC1E-A898719E87E6}|2. Car Extension\\2. Car Extension.csproj|c:\\iliyan\\proggraming\\task\\2. car extension\\2. car extension\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323E0C26-9E27-456C-BC1E-A898719E87E6}|2. Car Extension\\2. Car Extension.csproj|solutionrelative:2. car extension\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323E0C26-9E27-456C-BC1E-A898719E87E6}|2. Car Extension\\2. Car Extension.csproj|c:\\iliyan\\proggraming\\task\\2. car extension\\2. car extension\\2. car extension.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{323E0C26-9E27-456C-BC1E-A898719E87E6}|2. Car Extension\\2. Car Extension.csproj|solutionrelative:2. car extension\\2. car extension.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "2. Car Extension",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\2. Car Extension\\2. Car Extension\\2. Car Extension.csproj",
+              "RelativeDocumentMoniker": "2. Car Extension\\2. Car Extension.csproj",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\2. Car Extension\\2. Car Extension\\2. Car Extension.csproj",
+              "RelativeToolTip": "2. Car Extension\\2. Car Extension.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-21T18:15:30.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\2. Car Extension\\2. Car Extension\\StartUp.cs",
+              "RelativeDocumentMoniker": "2. Car Extension\\StartUp.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\2. Car Extension\\2. Car Extension\\StartUp.cs",
+              "RelativeToolTip": "2. Car Extension\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T18:30:06.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

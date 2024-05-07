@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\types\referens\Elephant class\bin\Debug\net7.0\Elephant class.exe
+C:\iliyan\proggraming\task\types\referens\Elephant class\bin\Debug\net7.0\Elephant class.deps.json
+C:\iliyan\proggraming\task\types\referens\Elephant class\bin\Debug\net7.0\Elephant class.runtimeconfig.json
+C:\iliyan\proggraming\task\types\referens\Elephant class\bin\Debug\net7.0\Elephant class.dll
+C:\iliyan\proggraming\task\types\referens\Elephant class\bin\Debug\net7.0\Elephant class.pdb
+C:\iliyan\proggraming\task\types\referens\Elephant class\obj\Debug\net7.0\Elephant class.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\types\referens\Elephant class\obj\Debug\net7.0\Elephant class.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\types\referens\Elephant class\obj\Debug\net7.0\Elephant class.AssemblyInfo.cs
+C:\iliyan\proggraming\task\types\referens\Elephant class\obj\Debug\net7.0\Elephant class.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\types\referens\Elephant class\obj\Debug\net7.0\Elephant class.dll
+C:\iliyan\proggraming\task\types\referens\Elephant class\obj\Debug\net7.0\refint\Elephant class.dll
+C:\iliyan\proggraming\task\types\referens\Elephant class\obj\Debug\net7.0\Elephant class.pdb
+C:\iliyan\proggraming\task\types\referens\Elephant class\obj\Debug\net7.0\Elephant class.genruntimeconfig.cache
+C:\iliyan\proggraming\task\types\referens\Elephant class\obj\Debug\net7.0\ref\Elephant class.dll

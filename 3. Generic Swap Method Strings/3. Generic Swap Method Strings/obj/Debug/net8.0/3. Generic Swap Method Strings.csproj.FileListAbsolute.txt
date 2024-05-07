@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\3. Generic Swap Method Strings\3. Generic Swap Method Strings\bin\Debug\net8.0\3. Generic Swap Method Strings.exe
+C:\iliyan\proggraming\task\3. Generic Swap Method Strings\3. Generic Swap Method Strings\bin\Debug\net8.0\3. Generic Swap Method Strings.deps.json
+C:\iliyan\proggraming\task\3. Generic Swap Method Strings\3. Generic Swap Method Strings\bin\Debug\net8.0\3. Generic Swap Method Strings.runtimeconfig.json
+C:\iliyan\proggraming\task\3. Generic Swap Method Strings\3. Generic Swap Method Strings\bin\Debug\net8.0\3. Generic Swap Method Strings.dll
+C:\iliyan\proggraming\task\3. Generic Swap Method Strings\3. Generic Swap Method Strings\bin\Debug\net8.0\3. Generic Swap Method Strings.pdb
+C:\iliyan\proggraming\task\3. Generic Swap Method Strings\3. Generic Swap Method Strings\obj\Debug\net8.0\3. Generic Swap Method Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\3. Generic Swap Method Strings\3. Generic Swap Method Strings\obj\Debug\net8.0\3. Generic Swap Method Strings.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\3. Generic Swap Method Strings\3. Generic Swap Method Strings\obj\Debug\net8.0\3. Generic Swap Method Strings.AssemblyInfo.cs
+C:\iliyan\proggraming\task\3. Generic Swap Method Strings\3. Generic Swap Method Strings\obj\Debug\net8.0\3. Generic Swap Method Strings.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\3. Generic Swap Method Strings\3. Generic Swap Method Strings\obj\Debug\net8.0\3. Generic Swap Method Strings.dll
+C:\iliyan\proggraming\task\3. Generic Swap Method Strings\3. Generic Swap Method Strings\obj\Debug\net8.0\refint\3. Generic Swap Method Strings.dll
+C:\iliyan\proggraming\task\3. Generic Swap Method Strings\3. Generic Swap Method Strings\obj\Debug\net8.0\3. Generic Swap Method Strings.pdb
+C:\iliyan\proggraming\task\3. Generic Swap Method Strings\3. Generic Swap Method Strings\obj\Debug\net8.0\3. Generic Swap Method Strings.genruntimeconfig.cache
+C:\iliyan\proggraming\task\3. Generic Swap Method Strings\3. Generic Swap Method Strings\obj\Debug\net8.0\ref\3. Generic Swap Method Strings.dll

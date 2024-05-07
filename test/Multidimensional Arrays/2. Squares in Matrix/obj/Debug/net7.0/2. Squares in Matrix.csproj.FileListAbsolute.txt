@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\2. Squares in Matrix\bin\Debug\net7.0\2. Squares in Matrix.exe
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\2. Squares in Matrix\bin\Debug\net7.0\2. Squares in Matrix.deps.json
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\2. Squares in Matrix\bin\Debug\net7.0\2. Squares in Matrix.runtimeconfig.json
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\2. Squares in Matrix\bin\Debug\net7.0\2. Squares in Matrix.dll
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\2. Squares in Matrix\bin\Debug\net7.0\2. Squares in Matrix.pdb
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\2. Squares in Matrix\obj\Debug\net7.0\2. Squares in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\2. Squares in Matrix\obj\Debug\net7.0\2. Squares in Matrix.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\2. Squares in Matrix\obj\Debug\net7.0\2. Squares in Matrix.AssemblyInfo.cs
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\2. Squares in Matrix\obj\Debug\net7.0\2. Squares in Matrix.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\2. Squares in Matrix\obj\Debug\net7.0\2. Squares in Matrix.dll
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\2. Squares in Matrix\obj\Debug\net7.0\refint\2. Squares in Matrix.dll
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\2. Squares in Matrix\obj\Debug\net7.0\2. Squares in Matrix.pdb
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\2. Squares in Matrix\obj\Debug\net7.0\2. Squares in Matrix.genruntimeconfig.cache
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\2. Squares in Matrix\obj\Debug\net7.0\ref\2. Squares in Matrix.dll

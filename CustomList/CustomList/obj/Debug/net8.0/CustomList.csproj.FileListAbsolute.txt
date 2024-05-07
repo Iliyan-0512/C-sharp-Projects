@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\CustomList\CustomList\bin\Debug\net8.0\CustomList.exe
+C:\iliyan\proggraming\task\CustomList\CustomList\bin\Debug\net8.0\CustomList.deps.json
+C:\iliyan\proggraming\task\CustomList\CustomList\bin\Debug\net8.0\CustomList.runtimeconfig.json
+C:\iliyan\proggraming\task\CustomList\CustomList\bin\Debug\net8.0\CustomList.dll
+C:\iliyan\proggraming\task\CustomList\CustomList\bin\Debug\net8.0\CustomList.pdb
+C:\iliyan\proggraming\task\CustomList\CustomList\obj\Debug\net8.0\CustomList.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\CustomList\CustomList\obj\Debug\net8.0\CustomList.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\CustomList\CustomList\obj\Debug\net8.0\CustomList.AssemblyInfo.cs
+C:\iliyan\proggraming\task\CustomList\CustomList\obj\Debug\net8.0\CustomList.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\CustomList\CustomList\obj\Debug\net8.0\CustomList.dll
+C:\iliyan\proggraming\task\CustomList\CustomList\obj\Debug\net8.0\refint\CustomList.dll
+C:\iliyan\proggraming\task\CustomList\CustomList\obj\Debug\net8.0\CustomList.pdb
+C:\iliyan\proggraming\task\CustomList\CustomList\obj\Debug\net8.0\CustomList.genruntimeconfig.cache
+C:\iliyan\proggraming\task\CustomList\CustomList\obj\Debug\net8.0\ref\CustomList.dll

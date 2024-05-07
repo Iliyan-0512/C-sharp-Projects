@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\SymbolInMatrix\bin\Debug\net7.0\SymbolInMatrix.exe
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\SymbolInMatrix\bin\Debug\net7.0\SymbolInMatrix.deps.json
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\SymbolInMatrix\bin\Debug\net7.0\SymbolInMatrix.runtimeconfig.json
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\SymbolInMatrix\bin\Debug\net7.0\SymbolInMatrix.dll
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\SymbolInMatrix\bin\Debug\net7.0\SymbolInMatrix.pdb
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\SymbolInMatrix\obj\Debug\net7.0\SymbolInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\SymbolInMatrix\obj\Debug\net7.0\SymbolInMatrix.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\SymbolInMatrix\obj\Debug\net7.0\SymbolInMatrix.AssemblyInfo.cs
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\SymbolInMatrix\obj\Debug\net7.0\SymbolInMatrix.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\SymbolInMatrix\obj\Debug\net7.0\SymbolInMatrix.dll
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\SymbolInMatrix\obj\Debug\net7.0\refint\SymbolInMatrix.dll
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\SymbolInMatrix\obj\Debug\net7.0\SymbolInMatrix.pdb
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\SymbolInMatrix\obj\Debug\net7.0\SymbolInMatrix.genruntimeconfig.cache
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\SymbolInMatrix\obj\Debug\net7.0\ref\SymbolInMatrix.dll

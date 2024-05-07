@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\test\array\ArrayExersise\ArrayExersise\bin\Debug\net7.0\ArrayExersise.exe
+C:\iliyan\proggraming\task\test\array\ArrayExersise\ArrayExersise\bin\Debug\net7.0\ArrayExersise.deps.json
+C:\iliyan\proggraming\task\test\array\ArrayExersise\ArrayExersise\bin\Debug\net7.0\ArrayExersise.runtimeconfig.json
+C:\iliyan\proggraming\task\test\array\ArrayExersise\ArrayExersise\bin\Debug\net7.0\ArrayExersise.dll
+C:\iliyan\proggraming\task\test\array\ArrayExersise\ArrayExersise\bin\Debug\net7.0\ArrayExersise.pdb
+C:\iliyan\proggraming\task\test\array\ArrayExersise\ArrayExersise\obj\Debug\net7.0\ArrayExersise.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\test\array\ArrayExersise\ArrayExersise\obj\Debug\net7.0\ArrayExersise.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\test\array\ArrayExersise\ArrayExersise\obj\Debug\net7.0\ArrayExersise.AssemblyInfo.cs
+C:\iliyan\proggraming\task\test\array\ArrayExersise\ArrayExersise\obj\Debug\net7.0\ArrayExersise.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\test\array\ArrayExersise\ArrayExersise\obj\Debug\net7.0\ArrayExersise.dll
+C:\iliyan\proggraming\task\test\array\ArrayExersise\ArrayExersise\obj\Debug\net7.0\refint\ArrayExersise.dll
+C:\iliyan\proggraming\task\test\array\ArrayExersise\ArrayExersise\obj\Debug\net7.0\ArrayExersise.pdb
+C:\iliyan\proggraming\task\test\array\ArrayExersise\ArrayExersise\obj\Debug\net7.0\ArrayExersise.genruntimeconfig.cache
+C:\iliyan\proggraming\task\test\array\ArrayExersise\ArrayExersise\obj\Debug\net7.0\ref\ArrayExersise.dll

@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\2. Library Iterator\2. Library Iterator\bin\Debug\net8.0\2. Library Iterator.exe
+C:\iliyan\proggraming\task\2. Library Iterator\2. Library Iterator\bin\Debug\net8.0\2. Library Iterator.deps.json
+C:\iliyan\proggraming\task\2. Library Iterator\2. Library Iterator\bin\Debug\net8.0\2. Library Iterator.runtimeconfig.json
+C:\iliyan\proggraming\task\2. Library Iterator\2. Library Iterator\bin\Debug\net8.0\2. Library Iterator.dll
+C:\iliyan\proggraming\task\2. Library Iterator\2. Library Iterator\bin\Debug\net8.0\2. Library Iterator.pdb
+C:\iliyan\proggraming\task\2. Library Iterator\2. Library Iterator\obj\Debug\net8.0\2. Library Iterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\2. Library Iterator\2. Library Iterator\obj\Debug\net8.0\2. Library Iterator.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\2. Library Iterator\2. Library Iterator\obj\Debug\net8.0\2. Library Iterator.AssemblyInfo.cs
+C:\iliyan\proggraming\task\2. Library Iterator\2. Library Iterator\obj\Debug\net8.0\2. Library Iterator.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\2. Library Iterator\2. Library Iterator\obj\Debug\net8.0\2. Library Iterator.dll
+C:\iliyan\proggraming\task\2. Library Iterator\2. Library Iterator\obj\Debug\net8.0\refint\2. Library Iterator.dll
+C:\iliyan\proggraming\task\2. Library Iterator\2. Library Iterator\obj\Debug\net8.0\2. Library Iterator.pdb
+C:\iliyan\proggraming\task\2. Library Iterator\2. Library Iterator\obj\Debug\net8.0\2. Library Iterator.genruntimeconfig.cache
+C:\iliyan\proggraming\task\2. Library Iterator\2. Library Iterator\obj\Debug\net8.0\ref\2. Library Iterator.dll

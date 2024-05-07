@@ -1,0 +1,7 @@
+C:\iliyan\proggraming\task\types\collection initializers,\obj\Debug\collection initializers,.csproj.AssemblyReference.cache
+C:\iliyan\proggraming\task\types\collection initializers,\obj\Debug\MainWindow.g.cs
+C:\iliyan\proggraming\task\types\collection initializers,\obj\Debug\App.g.cs
+C:\iliyan\proggraming\task\types\collection initializers,\obj\Debug\collection initializers,_MarkupCompile.cache
+C:\iliyan\proggraming\task\types\collection initializers,\obj\Debug\collection initializers,_MarkupCompile.lref
+C:\iliyan\proggraming\task\types\collection initializers,\obj\Debug\collection initializers,.exe
+C:\iliyan\proggraming\task\types\collection initializers,\obj\Debug\collection initializers,.pdb

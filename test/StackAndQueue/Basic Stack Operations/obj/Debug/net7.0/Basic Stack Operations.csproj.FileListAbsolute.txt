@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\test\StackAndQueue\Basic Stack Operations\bin\Debug\net7.0\Basic Stack Operations.exe
+C:\iliyan\proggraming\task\test\StackAndQueue\Basic Stack Operations\bin\Debug\net7.0\Basic Stack Operations.deps.json
+C:\iliyan\proggraming\task\test\StackAndQueue\Basic Stack Operations\bin\Debug\net7.0\Basic Stack Operations.runtimeconfig.json
+C:\iliyan\proggraming\task\test\StackAndQueue\Basic Stack Operations\bin\Debug\net7.0\Basic Stack Operations.dll
+C:\iliyan\proggraming\task\test\StackAndQueue\Basic Stack Operations\bin\Debug\net7.0\Basic Stack Operations.pdb
+C:\iliyan\proggraming\task\test\StackAndQueue\Basic Stack Operations\obj\Debug\net7.0\Basic Stack Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\test\StackAndQueue\Basic Stack Operations\obj\Debug\net7.0\Basic Stack Operations.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\test\StackAndQueue\Basic Stack Operations\obj\Debug\net7.0\Basic Stack Operations.AssemblyInfo.cs
+C:\iliyan\proggraming\task\test\StackAndQueue\Basic Stack Operations\obj\Debug\net7.0\Basic Stack Operations.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\test\StackAndQueue\Basic Stack Operations\obj\Debug\net7.0\Basic Stack Operations.dll
+C:\iliyan\proggraming\task\test\StackAndQueue\Basic Stack Operations\obj\Debug\net7.0\refint\Basic Stack Operations.dll
+C:\iliyan\proggraming\task\test\StackAndQueue\Basic Stack Operations\obj\Debug\net7.0\Basic Stack Operations.pdb
+C:\iliyan\proggraming\task\test\StackAndQueue\Basic Stack Operations\obj\Debug\net7.0\Basic Stack Operations.genruntimeconfig.cache
+C:\iliyan\proggraming\task\test\StackAndQueue\Basic Stack Operations\obj\Debug\net7.0\ref\Basic Stack Operations.dll

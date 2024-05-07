@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\PrimaryDioganal\bin\Debug\net7.0\PrimaryDioganal.exe
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\PrimaryDioganal\bin\Debug\net7.0\PrimaryDioganal.deps.json
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\PrimaryDioganal\bin\Debug\net7.0\PrimaryDioganal.runtimeconfig.json
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\PrimaryDioganal\bin\Debug\net7.0\PrimaryDioganal.dll
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\PrimaryDioganal\bin\Debug\net7.0\PrimaryDioganal.pdb
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\PrimaryDioganal\obj\Debug\net7.0\PrimaryDioganal.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\PrimaryDioganal\obj\Debug\net7.0\PrimaryDioganal.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\PrimaryDioganal\obj\Debug\net7.0\PrimaryDioganal.AssemblyInfo.cs
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\PrimaryDioganal\obj\Debug\net7.0\PrimaryDioganal.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\PrimaryDioganal\obj\Debug\net7.0\PrimaryDioganal.dll
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\PrimaryDioganal\obj\Debug\net7.0\refint\PrimaryDioganal.dll
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\PrimaryDioganal\obj\Debug\net7.0\PrimaryDioganal.pdb
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\PrimaryDioganal\obj\Debug\net7.0\PrimaryDioganal.genruntimeconfig.cache
+C:\iliyan\proggraming\task\test\Multidimensional Arrays\PrimaryDioganal\obj\Debug\net7.0\ref\PrimaryDioganal.dll

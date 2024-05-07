@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\4. Car Engine and Tires\4. Car Engine and Tires\bin\Debug\net8.0\4. Car Engine and Tires.exe
+C:\iliyan\proggraming\task\4. Car Engine and Tires\4. Car Engine and Tires\bin\Debug\net8.0\4. Car Engine and Tires.deps.json
+C:\iliyan\proggraming\task\4. Car Engine and Tires\4. Car Engine and Tires\bin\Debug\net8.0\4. Car Engine and Tires.runtimeconfig.json
+C:\iliyan\proggraming\task\4. Car Engine and Tires\4. Car Engine and Tires\bin\Debug\net8.0\4. Car Engine and Tires.dll
+C:\iliyan\proggraming\task\4. Car Engine and Tires\4. Car Engine and Tires\bin\Debug\net8.0\4. Car Engine and Tires.pdb
+C:\iliyan\proggraming\task\4. Car Engine and Tires\4. Car Engine and Tires\obj\Debug\net8.0\4. Car Engine and Tires.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\4. Car Engine and Tires\4. Car Engine and Tires\obj\Debug\net8.0\4. Car Engine and Tires.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\4. Car Engine and Tires\4. Car Engine and Tires\obj\Debug\net8.0\4. Car Engine and Tires.AssemblyInfo.cs
+C:\iliyan\proggraming\task\4. Car Engine and Tires\4. Car Engine and Tires\obj\Debug\net8.0\4. Car Engine and Tires.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\4. Car Engine and Tires\4. Car Engine and Tires\obj\Debug\net8.0\4. Car Engine and Tires.dll
+C:\iliyan\proggraming\task\4. Car Engine and Tires\4. Car Engine and Tires\obj\Debug\net8.0\refint\4. Car Engine and Tires.dll
+C:\iliyan\proggraming\task\4. Car Engine and Tires\4. Car Engine and Tires\obj\Debug\net8.0\4. Car Engine and Tires.pdb
+C:\iliyan\proggraming\task\4. Car Engine and Tires\4. Car Engine and Tires\obj\Debug\net8.0\4. Car Engine and Tires.genruntimeconfig.cache
+C:\iliyan\proggraming\task\4. Car Engine and Tires\4. Car Engine and Tires\obj\Debug\net8.0\ref\4. Car Engine and Tires.dll

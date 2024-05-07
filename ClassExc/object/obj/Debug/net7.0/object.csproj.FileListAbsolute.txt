@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\ClassExc\object\bin\Debug\net7.0\object.exe
+C:\iliyan\proggraming\task\ClassExc\object\bin\Debug\net7.0\object.deps.json
+C:\iliyan\proggraming\task\ClassExc\object\bin\Debug\net7.0\object.runtimeconfig.json
+C:\iliyan\proggraming\task\ClassExc\object\bin\Debug\net7.0\object.dll
+C:\iliyan\proggraming\task\ClassExc\object\bin\Debug\net7.0\object.pdb
+C:\iliyan\proggraming\task\ClassExc\object\obj\Debug\net7.0\object.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\ClassExc\object\obj\Debug\net7.0\object.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\ClassExc\object\obj\Debug\net7.0\object.AssemblyInfo.cs
+C:\iliyan\proggraming\task\ClassExc\object\obj\Debug\net7.0\object.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\ClassExc\object\obj\Debug\net7.0\object.dll
+C:\iliyan\proggraming\task\ClassExc\object\obj\Debug\net7.0\refint\object.dll
+C:\iliyan\proggraming\task\ClassExc\object\obj\Debug\net7.0\object.pdb
+C:\iliyan\proggraming\task\ClassExc\object\obj\Debug\net7.0\object.genruntimeconfig.cache
+C:\iliyan\proggraming\task\ClassExc\object\obj\Debug\net7.0\ref\object.dll

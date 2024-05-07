@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\iliyan\\proggraming\\task\\SwordDamage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62149F59-46B4-454F-BC46-F4C29711081C}|SwordDamage\\SwordDamage.csproj|c:\\iliyan\\proggraming\\task\\sworddamage\\sworddamage\\swordart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62149F59-46B4-454F-BC46-F4C29711081C}|SwordDamage\\SwordDamage.csproj|solutionrelative:sworddamage\\swordart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62149F59-46B4-454F-BC46-F4C29711081C}|SwordDamage\\SwordDamage.csproj|c:\\iliyan\\proggraming\\task\\sworddamage\\sworddamage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62149F59-46B4-454F-BC46-F4C29711081C}|SwordDamage\\SwordDamage.csproj|solutionrelative:sworddamage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SwordArt.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SwordDamage\\SwordDamage\\SwordArt.cs",
+              "RelativeDocumentMoniker": "SwordDamage\\SwordArt.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SwordDamage\\SwordDamage\\SwordArt.cs",
+              "RelativeToolTip": "SwordDamage\\SwordArt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T06:05:17.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SwordDamage\\SwordDamage\\Program.cs",
+              "RelativeDocumentMoniker": "SwordDamage\\Program.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SwordDamage\\SwordDamage\\Program.cs",
+              "RelativeToolTip": "SwordDamage\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T06:05:15.198Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

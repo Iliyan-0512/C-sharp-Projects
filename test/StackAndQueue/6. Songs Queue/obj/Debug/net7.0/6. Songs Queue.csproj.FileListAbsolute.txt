@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\test\StackAndQueue\6. Songs Queue\bin\Debug\net7.0\6. Songs Queue.exe
+C:\iliyan\proggraming\task\test\StackAndQueue\6. Songs Queue\bin\Debug\net7.0\6. Songs Queue.deps.json
+C:\iliyan\proggraming\task\test\StackAndQueue\6. Songs Queue\bin\Debug\net7.0\6. Songs Queue.runtimeconfig.json
+C:\iliyan\proggraming\task\test\StackAndQueue\6. Songs Queue\bin\Debug\net7.0\6. Songs Queue.dll
+C:\iliyan\proggraming\task\test\StackAndQueue\6. Songs Queue\bin\Debug\net7.0\6. Songs Queue.pdb
+C:\iliyan\proggraming\task\test\StackAndQueue\6. Songs Queue\obj\Debug\net7.0\6. Songs Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\test\StackAndQueue\6. Songs Queue\obj\Debug\net7.0\6. Songs Queue.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\test\StackAndQueue\6. Songs Queue\obj\Debug\net7.0\6. Songs Queue.AssemblyInfo.cs
+C:\iliyan\proggraming\task\test\StackAndQueue\6. Songs Queue\obj\Debug\net7.0\6. Songs Queue.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\test\StackAndQueue\6. Songs Queue\obj\Debug\net7.0\6. Songs Queue.dll
+C:\iliyan\proggraming\task\test\StackAndQueue\6. Songs Queue\obj\Debug\net7.0\refint\6. Songs Queue.dll
+C:\iliyan\proggraming\task\test\StackAndQueue\6. Songs Queue\obj\Debug\net7.0\6. Songs Queue.pdb
+C:\iliyan\proggraming\task\test\StackAndQueue\6. Songs Queue\obj\Debug\net7.0\6. Songs Queue.genruntimeconfig.cache
+C:\iliyan\proggraming\task\test\StackAndQueue\6. Songs Queue\obj\Debug\net7.0\ref\6. Songs Queue.dll

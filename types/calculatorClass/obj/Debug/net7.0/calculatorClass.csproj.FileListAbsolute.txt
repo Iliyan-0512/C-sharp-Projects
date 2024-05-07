@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\types\calculatorClass\obj\Debug\net7.0\calculatorClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\types\calculatorClass\obj\Debug\net7.0\calculatorClass.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\types\calculatorClass\obj\Debug\net7.0\calculatorClass.AssemblyInfo.cs
+C:\iliyan\proggraming\task\types\calculatorClass\obj\Debug\net7.0\calculatorClass.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\types\calculatorClass\bin\Debug\net7.0\calculatorClass.exe
+C:\iliyan\proggraming\task\types\calculatorClass\bin\Debug\net7.0\calculatorClass.deps.json
+C:\iliyan\proggraming\task\types\calculatorClass\bin\Debug\net7.0\calculatorClass.runtimeconfig.json
+C:\iliyan\proggraming\task\types\calculatorClass\bin\Debug\net7.0\calculatorClass.dll
+C:\iliyan\proggraming\task\types\calculatorClass\bin\Debug\net7.0\calculatorClass.pdb
+C:\iliyan\proggraming\task\types\calculatorClass\obj\Debug\net7.0\calculatorClass.dll
+C:\iliyan\proggraming\task\types\calculatorClass\obj\Debug\net7.0\refint\calculatorClass.dll
+C:\iliyan\proggraming\task\types\calculatorClass\obj\Debug\net7.0\calculatorClass.pdb
+C:\iliyan\proggraming\task\types\calculatorClass\obj\Debug\net7.0\calculatorClass.genruntimeconfig.cache
+C:\iliyan\proggraming\task\types\calculatorClass\obj\Debug\net7.0\ref\calculatorClass.dll
