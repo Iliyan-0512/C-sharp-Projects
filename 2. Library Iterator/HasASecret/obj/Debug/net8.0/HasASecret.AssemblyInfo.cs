@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HasASecret")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab8bea5d99a1634312ea6c04e6426f36b218840e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd08875bebc90790e9d776085da274f39c087faa")]
 [assembly: System.Reflection.AssemblyProductAttribute("HasASecret")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HasASecret")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -27,6 +27,6 @@ public class Book
 
     public override string ToString()
     {
-        return $"{Title} written in {Year} ";
+        return $"{Title} written in {Year}. ";
     }
 }
