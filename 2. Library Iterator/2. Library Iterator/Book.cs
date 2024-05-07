@@ -24,4 +24,9 @@ public class Book
             return this.authors.AsReadOnly();
         }
     }
+
+    public override string ToString()
+    {
+        return $"{Title} written in {Year} ";
+    }
 }
