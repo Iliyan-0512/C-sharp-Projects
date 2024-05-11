@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\Inhearitance\Inhearitance\bin\Debug\net8.0\Inhearitance.exe
+C:\iliyan\proggraming\task\Inhearitance\Inhearitance\bin\Debug\net8.0\Inhearitance.deps.json
+C:\iliyan\proggraming\task\Inhearitance\Inhearitance\bin\Debug\net8.0\Inhearitance.runtimeconfig.json
+C:\iliyan\proggraming\task\Inhearitance\Inhearitance\bin\Debug\net8.0\Inhearitance.dll
+C:\iliyan\proggraming\task\Inhearitance\Inhearitance\bin\Debug\net8.0\Inhearitance.pdb
+C:\iliyan\proggraming\task\Inhearitance\Inhearitance\obj\Debug\net8.0\Inhearitance.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\Inhearitance\Inhearitance\obj\Debug\net8.0\Inhearitance.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\Inhearitance\Inhearitance\obj\Debug\net8.0\Inhearitance.AssemblyInfo.cs
+C:\iliyan\proggraming\task\Inhearitance\Inhearitance\obj\Debug\net8.0\Inhearitance.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\Inhearitance\Inhearitance\obj\Debug\net8.0\Inhearitance.sourcelink.json
+C:\iliyan\proggraming\task\Inhearitance\Inhearitance\obj\Debug\net8.0\Inhearitance.dll
+C:\iliyan\proggraming\task\Inhearitance\Inhearitance\obj\Debug\net8.0\refint\Inhearitance.dll
+C:\iliyan\proggraming\task\Inhearitance\Inhearitance\obj\Debug\net8.0\Inhearitance.pdb
+C:\iliyan\proggraming\task\Inhearitance\Inhearitance\obj\Debug\net8.0\Inhearitance.genruntimeconfig.cache
+C:\iliyan\proggraming\task\Inhearitance\Inhearitance\obj\Debug\net8.0\ref\Inhearitance.dll
