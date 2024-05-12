@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\Inhearitance\3. Hierarchical Inheritance\bin\Debug\net8.0\3. Hierarchical Inheritance.exe
+C:\iliyan\proggraming\task\Inhearitance\3. Hierarchical Inheritance\bin\Debug\net8.0\3. Hierarchical Inheritance.deps.json
+C:\iliyan\proggraming\task\Inhearitance\3. Hierarchical Inheritance\bin\Debug\net8.0\3. Hierarchical Inheritance.runtimeconfig.json
+C:\iliyan\proggraming\task\Inhearitance\3. Hierarchical Inheritance\bin\Debug\net8.0\3. Hierarchical Inheritance.dll
+C:\iliyan\proggraming\task\Inhearitance\3. Hierarchical Inheritance\bin\Debug\net8.0\3. Hierarchical Inheritance.pdb
+C:\iliyan\proggraming\task\Inhearitance\3. Hierarchical Inheritance\obj\Debug\net8.0\3. Hierarchical Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\Inhearitance\3. Hierarchical Inheritance\obj\Debug\net8.0\3. Hierarchical Inheritance.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\Inhearitance\3. Hierarchical Inheritance\obj\Debug\net8.0\3. Hierarchical Inheritance.AssemblyInfo.cs
+C:\iliyan\proggraming\task\Inhearitance\3. Hierarchical Inheritance\obj\Debug\net8.0\3. Hierarchical Inheritance.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\Inhearitance\3. Hierarchical Inheritance\obj\Debug\net8.0\3. Hierarchical Inheritance.sourcelink.json
+C:\iliyan\proggraming\task\Inhearitance\3. Hierarchical Inheritance\obj\Debug\net8.0\3. Hierarchical Inheritance.dll
+C:\iliyan\proggraming\task\Inhearitance\3. Hierarchical Inheritance\obj\Debug\net8.0\refint\3. Hierarchical Inheritance.dll
+C:\iliyan\proggraming\task\Inhearitance\3. Hierarchical Inheritance\obj\Debug\net8.0\3. Hierarchical Inheritance.pdb
+C:\iliyan\proggraming\task\Inhearitance\3. Hierarchical Inheritance\obj\Debug\net8.0\3. Hierarchical Inheritance.genruntimeconfig.cache
+C:\iliyan\proggraming\task\Inhearitance\3. Hierarchical Inheritance\obj\Debug\net8.0\ref\3. Hierarchical Inheritance.dll
