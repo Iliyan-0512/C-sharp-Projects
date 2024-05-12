@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\Inhearitance\2. Multiple Inheritance\bin\Debug\net8.0\2. Multiple Inheritance.exe
+C:\iliyan\proggraming\task\Inhearitance\2. Multiple Inheritance\bin\Debug\net8.0\2. Multiple Inheritance.deps.json
+C:\iliyan\proggraming\task\Inhearitance\2. Multiple Inheritance\bin\Debug\net8.0\2. Multiple Inheritance.runtimeconfig.json
+C:\iliyan\proggraming\task\Inhearitance\2. Multiple Inheritance\bin\Debug\net8.0\2. Multiple Inheritance.dll
+C:\iliyan\proggraming\task\Inhearitance\2. Multiple Inheritance\bin\Debug\net8.0\2. Multiple Inheritance.pdb
+C:\iliyan\proggraming\task\Inhearitance\2. Multiple Inheritance\obj\Debug\net8.0\2. Multiple Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\Inhearitance\2. Multiple Inheritance\obj\Debug\net8.0\2. Multiple Inheritance.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\Inhearitance\2. Multiple Inheritance\obj\Debug\net8.0\2. Multiple Inheritance.AssemblyInfo.cs
+C:\iliyan\proggraming\task\Inhearitance\2. Multiple Inheritance\obj\Debug\net8.0\2. Multiple Inheritance.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\Inhearitance\2. Multiple Inheritance\obj\Debug\net8.0\2. Multiple Inheritance.sourcelink.json
+C:\iliyan\proggraming\task\Inhearitance\2. Multiple Inheritance\obj\Debug\net8.0\2. Multiple Inheritance.dll
+C:\iliyan\proggraming\task\Inhearitance\2. Multiple Inheritance\obj\Debug\net8.0\refint\2. Multiple Inheritance.dll
+C:\iliyan\proggraming\task\Inhearitance\2. Multiple Inheritance\obj\Debug\net8.0\2. Multiple Inheritance.pdb
+C:\iliyan\proggraming\task\Inhearitance\2. Multiple Inheritance\obj\Debug\net8.0\2. Multiple Inheritance.genruntimeconfig.cache
+C:\iliyan\proggraming\task\Inhearitance\2. Multiple Inheritance\obj\Debug\net8.0\ref\2. Multiple Inheritance.dll
