@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\Inhearitance\4. Random List\obj\Debug\net8.0\4. Random List.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\Inhearitance\4. Random List\obj\Debug\net8.0\4. Random List.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\Inhearitance\4. Random List\obj\Debug\net8.0\4. Random List.AssemblyInfo.cs
+C:\iliyan\proggraming\task\Inhearitance\4. Random List\obj\Debug\net8.0\4. Random List.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\Inhearitance\4. Random List\obj\Debug\net8.0\4. Random List.sourcelink.json
+C:\iliyan\proggraming\task\Inhearitance\4. Random List\bin\Debug\net8.0\4. Random List.exe
+C:\iliyan\proggraming\task\Inhearitance\4. Random List\bin\Debug\net8.0\4. Random List.deps.json
+C:\iliyan\proggraming\task\Inhearitance\4. Random List\bin\Debug\net8.0\4. Random List.runtimeconfig.json
+C:\iliyan\proggraming\task\Inhearitance\4. Random List\bin\Debug\net8.0\4. Random List.dll
+C:\iliyan\proggraming\task\Inhearitance\4. Random List\bin\Debug\net8.0\4. Random List.pdb
+C:\iliyan\proggraming\task\Inhearitance\4. Random List\obj\Debug\net8.0\4. Random List.dll
+C:\iliyan\proggraming\task\Inhearitance\4. Random List\obj\Debug\net8.0\refint\4. Random List.dll
+C:\iliyan\proggraming\task\Inhearitance\4. Random List\obj\Debug\net8.0\4. Random List.pdb
+C:\iliyan\proggraming\task\Inhearitance\4. Random List\obj\Debug\net8.0\4. Random List.genruntimeconfig.cache
+C:\iliyan\proggraming\task\Inhearitance\4. Random List\obj\Debug\net8.0\ref\4. Random List.dll
