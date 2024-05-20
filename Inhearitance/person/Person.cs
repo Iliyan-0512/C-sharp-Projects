@@ -13,6 +13,7 @@ namespace Person
         public Person(int age,string name) 
         {
             this.Age = age;
+           
             this.Name = name;
         }
         public override string ToString()
@@ -23,6 +24,7 @@ namespace Person
                
 
         }
+        
 
 
     }
