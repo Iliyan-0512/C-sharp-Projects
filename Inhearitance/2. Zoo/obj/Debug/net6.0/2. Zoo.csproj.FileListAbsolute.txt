@@ -1,0 +1,5 @@
+C:\iliyan\proggraming\task\Inhearitance\2. Zoo\obj\Debug\net6.0\2. Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\Inhearitance\2. Zoo\obj\Debug\net6.0\2. Zoo.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\Inhearitance\2. Zoo\obj\Debug\net6.0\2. Zoo.AssemblyInfo.cs
+C:\iliyan\proggraming\task\Inhearitance\2. Zoo\obj\Debug\net6.0\2. Zoo.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\Inhearitance\2. Zoo\obj\Debug\net6.0\2. Zoo.sourcelink.json
