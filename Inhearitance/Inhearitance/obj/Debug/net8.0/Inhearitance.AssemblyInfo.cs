@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Inhearitance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+816b095b4fecdc6c31aed9ea82cb94dd11866942")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0b1d93ee1a2ff8ce97e869b2c4d79ba4dcee260")]
 [assembly: System.Reflection.AssemblyProductAttribute("Inhearitance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Inhearitance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

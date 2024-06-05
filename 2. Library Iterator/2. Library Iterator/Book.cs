@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-public class Book
+public class Book: IComparable<Book>
 {
     private List<string> authors;
 
@@ -23,6 +23,15 @@ public class Book
         {
             return this.authors.AsReadOnly();
         }
+    }
+    public int CompareTo(Book other)
+    {
+        int result=this.Year.CompareTo(other.Year);
+        if(result==0)
+        {
+            result=this.Title.CompareTo(other.Title);
+        }
+        return result;
     }
 
     public override string ToString()

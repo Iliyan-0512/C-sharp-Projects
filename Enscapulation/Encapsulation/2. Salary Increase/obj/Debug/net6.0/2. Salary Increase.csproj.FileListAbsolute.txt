@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\2. Salary Increase\bin\Debug\net6.0\2. Salary Increase.exe
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\2. Salary Increase\bin\Debug\net6.0\2. Salary Increase.deps.json
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\2. Salary Increase\bin\Debug\net6.0\2. Salary Increase.runtimeconfig.json
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\2. Salary Increase\bin\Debug\net6.0\2. Salary Increase.dll
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\2. Salary Increase\bin\Debug\net6.0\2. Salary Increase.pdb
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\2. Salary Increase\obj\Debug\net6.0\2. Salary Increase.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\2. Salary Increase\obj\Debug\net6.0\2. Salary Increase.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\2. Salary Increase\obj\Debug\net6.0\2. Salary Increase.AssemblyInfo.cs
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\2. Salary Increase\obj\Debug\net6.0\2. Salary Increase.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\2. Salary Increase\obj\Debug\net6.0\2. Salary Increase.sourcelink.json
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\2. Salary Increase\obj\Debug\net6.0\2. Salary Increase.dll
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\2. Salary Increase\obj\Debug\net6.0\refint\2. Salary Increase.dll
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\2. Salary Increase\obj\Debug\net6.0\2. Salary Increase.pdb
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\2. Salary Increase\obj\Debug\net6.0\2. Salary Increase.genruntimeconfig.cache
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\2. Salary Increase\obj\Debug\net6.0\ref\2. Salary Increase.dll

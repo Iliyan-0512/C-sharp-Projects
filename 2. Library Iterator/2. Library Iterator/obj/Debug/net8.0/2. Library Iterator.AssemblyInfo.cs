@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2. Library Iterator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab8bea5d99a1634312ea6c04e6426f36b218840e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+816b095b4fecdc6c31aed9ea82cb94dd11866942")]
 [assembly: System.Reflection.AssemblyProductAttribute("2. Library Iterator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2. Library Iterator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\iliyan\\proggraming\\task\\Inhearitance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{15CE543B-D2A5-48FB-87C1-DEF7D19C4174}|Inhearitance\\Inhearitance.csproj|c:\\iliyan\\proggraming\\task\\inhearitance\\inhearitance\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15CE543B-D2A5-48FB-87C1-DEF7D19C4174}|Inhearitance\\Inhearitance.csproj|solutionrelative:inhearitance\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8466B32-51A9-4324-8B72-F18254B55DE4}|4. Need for Speed\\4. Need for Speed.csproj|c:\\iliyan\\proggraming\\task\\inhearitance\\4. need for speed\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8466B32-51A9-4324-8B72-F18254B55DE4}|4. Need for Speed\\4. Need for Speed.csproj|solutionrelative:4. need for speed\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15CE543B-D2A5-48FB-87C1-DEF7D19C4174}|Inhearitance\\Inhearitance.csproj|c:\\iliyan\\proggraming\\task\\inhearitance\\inhearitance\\animals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15CE543B-D2A5-48FB-87C1-DEF7D19C4174}|Inhearitance\\Inhearitance.csproj|solutionrelative:inhearitance\\animals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15CE543B-D2A5-48FB-87C1-DEF7D19C4174}|Inhearitance\\Inhearitance.csproj|c:\\iliyan\\proggraming\\task\\inhearitance\\inhearitance\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15CE543B-D2A5-48FB-87C1-DEF7D19C4174}|Inhearitance\\Inhearitance.csproj|solutionrelative:inhearitance\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8466B32-51A9-4324-8B72-F18254B55DE4}|4. Need for Speed\\4. Need for Speed.csproj|c:\\iliyan\\proggraming\\task\\inhearitance\\4. need for speed\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8466B32-51A9-4324-8B72-F18254B55DE4}|4. Need for Speed\\4. Need for Speed.csproj|solutionrelative:4. need for speed\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Dog.cs",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Inhearitance\\Inhearitance\\Dog.cs",
-              "RelativeDocumentMoniker": "Inhearitance\\Dog.cs",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\Inhearitance\\Inhearitance\\Dog.cs",
-              "RelativeToolTip": "Inhearitance\\Dog.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "DocumentIndex": 0,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Inhearitance\\4. Need for Speed\\Vehicle.cs",
+              "RelativeDocumentMoniker": "4. Need for Speed\\Vehicle.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\Inhearitance\\4. Need for Speed\\Vehicle.cs",
+              "RelativeToolTip": "4. Need for Speed\\Vehicle.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwBQAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T06:41:30.033Z",
+              "WhenOpened": "2024-05-22T10:48:21.498Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Animals.cs",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Inhearitance\\Inhearitance\\Animals.cs",
-              "RelativeDocumentMoniker": "Inhearitance\\Animals.cs",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\Inhearitance\\Inhearitance\\Animals.cs",
-              "RelativeToolTip": "Inhearitance\\Animals.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T06:41:04.589Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "StartUp.cs",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Inhearitance\\Inhearitance\\StartUp.cs",
-              "RelativeDocumentMoniker": "Inhearitance\\StartUp.cs",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\Inhearitance\\Inhearitance\\StartUp.cs",
-              "RelativeToolTip": "Inhearitance\\StartUp.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAiwA4AAAAPAAAA",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Inhearitance\\4. Need for Speed\\StartUp.cs",
+              "RelativeDocumentMoniker": "4. Need for Speed\\StartUp.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\Inhearitance\\4. Need for Speed\\StartUp.cs",
+              "RelativeToolTip": "4. Need for Speed\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T20:25:16.507Z",
+              "WhenOpened": "2024-05-21T13:36:58.984Z",
               "EditorCaption": ""
             }
           ]

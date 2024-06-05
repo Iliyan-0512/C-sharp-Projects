@@ -11,6 +11,9 @@ class Program
         Library libraryOne = new Library();
         Library libraryTwo = new Library(bookOne, bookTwo, bookThree);
 
-       
+       foreach(var book in libraryTwo)
+        {
+            Console.WriteLine(book);
+        }
     }
 }

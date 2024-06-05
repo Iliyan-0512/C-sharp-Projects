@@ -10,3 +10,6 @@ for (int i = 0; i <10; i++)
 {
     Console.WriteLine(list.GetRandomElement());
 }
+var myStack = new StackOfStrings();
+Console.WriteLine(myStack.IsEmpty());
+myStack.AddRange(list);

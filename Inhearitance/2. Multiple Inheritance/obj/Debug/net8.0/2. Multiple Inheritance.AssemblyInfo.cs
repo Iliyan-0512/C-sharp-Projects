@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2. Multiple Inheritance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0b1d93ee1a2ff8ce97e869b2c4d79ba4dcee260")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78cfe93cdb7773b84d84342a4f662507982656cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("2. Multiple Inheritance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2. Multiple Inheritance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

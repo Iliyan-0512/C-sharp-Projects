@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\Encapsulation\bin\Debug\net6.0\Encapsulation.exe
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\Encapsulation\bin\Debug\net6.0\Encapsulation.deps.json
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\Encapsulation\bin\Debug\net6.0\Encapsulation.runtimeconfig.json
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\Encapsulation\bin\Debug\net6.0\Encapsulation.dll
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\Encapsulation\bin\Debug\net6.0\Encapsulation.pdb
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfo.cs
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.sourcelink.json
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.dll
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\Encapsulation\obj\Debug\net6.0\refint\Encapsulation.dll
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.pdb
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.genruntimeconfig.cache
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\Encapsulation\obj\Debug\net6.0\ref\Encapsulation.dll
