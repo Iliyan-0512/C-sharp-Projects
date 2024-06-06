@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{4E553D00-1C62-47AB-AE0B-79683369019F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Salary Increase", "2. Salary Increase\2. Salary Increase.csproj", "{EA580313-E1CA-4EF5-822B-B91E7575F555}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Salary Increase", "2. Salary Increase\2. Salary Increase.csproj", "{EA580313-E1CA-4EF5-822B-B91E7575F555}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Validation of Data", "3. Validation of Data\3. Validation of Data.csproj", "{0F933E5E-1F92-4F45-8E9B-4BB79A232788}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{EA580313-E1CA-4EF5-822B-B91E7575F555}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA580313-E1CA-4EF5-822B-B91E7575F555}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA580313-E1CA-4EF5-822B-B91E7575F555}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F933E5E-1F92-4F45-8E9B-4BB79A232788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F933E5E-1F92-4F45-8E9B-4BB79A232788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F933E5E-1F92-4F45-8E9B-4BB79A232788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F933E5E-1F92-4F45-8E9B-4BB79A232788}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

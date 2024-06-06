@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\iliyan\\proggraming\\task\\Enscapulation\\Encapsulation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA580313-E1CA-4EF5-822B-B91E7575F555}|2. Salary Increase\\2. Salary Increase.csproj|c:\\iliyan\\proggraming\\task\\enscapulation\\encapsulation\\2. salary increase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA580313-E1CA-4EF5-822B-B91E7575F555}|2. Salary Increase\\2. Salary Increase.csproj|solutionrelative:2. salary increase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F933E5E-1F92-4F45-8E9B-4BB79A232788}|3. Validation of Data\\3. Validation of Data.csproj|c:\\iliyan\\proggraming\\task\\enscapulation\\encapsulation\\3. validation of data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F933E5E-1F92-4F45-8E9B-4BB79A232788}|3. Validation of Data\\3. Validation of Data.csproj|solutionrelative:3. validation of data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA580313-E1CA-4EF5-822B-B91E7575F555}|2. Salary Increase\\2. Salary Increase.csproj|c:\\iliyan\\proggraming\\task\\enscapulation\\encapsulation\\2. salary increase\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA580313-E1CA-4EF5-822B-B91E7575F555}|2. Salary Increase\\2. Salary Increase.csproj|solutionrelative:2. salary increase\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E553D00-1C62-47AB-AE0B-79683369019F}|Encapsulation\\Encapsulation.csproj|c:\\iliyan\\proggraming\\task\\enscapulation\\encapsulation\\encapsulation\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E553D00-1C62-47AB-AE0B-79683369019F}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F933E5E-1F92-4F45-8E9B-4BB79A232788}|3. Validation of Data\\3. Validation of Data.csproj|c:\\iliyan\\proggraming\\task\\enscapulation\\encapsulation\\3. validation of data\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F933E5E-1F92-4F45-8E9B-4BB79A232788}|3. Validation of Data\\3. Validation of Data.csproj|solutionrelative:3. validation of data\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StartUp.cs",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Enscapulation\\Encapsulation\\Encapsulation\\StartUp.cs",
-              "RelativeDocumentMoniker": "Encapsulation\\StartUp.cs",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\Enscapulation\\Encapsulation\\Encapsulation\\StartUp.cs",
-              "RelativeToolTip": "Encapsulation\\StartUp.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T18:57:45.81Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Person.cs",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Enscapulation\\Encapsulation\\2. Salary Increase\\Person.cs",
-              "RelativeDocumentMoniker": "2. Salary Increase\\Person.cs",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\Enscapulation\\Encapsulation\\2. Salary Increase\\Person.cs",
-              "RelativeToolTip": "2. Salary Increase\\Person.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAcwBMAAAAhAAAA",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Enscapulation\\Encapsulation\\3. Validation of Data\\Person.cs",
+              "RelativeDocumentMoniker": "3. Validation of Data\\Person.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\Enscapulation\\Encapsulation\\3. Validation of Data\\Person.cs",
+              "RelativeToolTip": "3. Validation of Data\\Person.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAQwFoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T15:44:18.498Z",
+              "WhenOpened": "2024-06-06T07:10:15.798Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Enscapulation\\Encapsulation\\2. Salary Increase\\Program.cs",
-              "RelativeDocumentMoniker": "2. Salary Increase\\Program.cs",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\Enscapulation\\Encapsulation\\2. Salary Increase\\Program.cs",
-              "RelativeToolTip": "2. Salary Increase\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA4AAAAkAAAA",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Enscapulation\\Encapsulation\\3. Validation of Data\\Program.cs",
+              "RelativeDocumentMoniker": "3. Validation of Data\\Program.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\Enscapulation\\Encapsulation\\3. Validation of Data\\Program.cs",
+              "RelativeToolTip": "3. Validation of Data\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAowCYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T15:40:34.68Z",
+              "WhenOpened": "2024-06-06T07:09:13.292Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\3. Validation of Data\bin\Debug\net6.0\3. Validation of Data.exe
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\3. Validation of Data\bin\Debug\net6.0\3. Validation of Data.deps.json
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\3. Validation of Data\bin\Debug\net6.0\3. Validation of Data.runtimeconfig.json
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\3. Validation of Data\bin\Debug\net6.0\3. Validation of Data.dll
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\3. Validation of Data\bin\Debug\net6.0\3. Validation of Data.pdb
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\3. Validation of Data\obj\Debug\net6.0\3. Validation of Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\3. Validation of Data\obj\Debug\net6.0\3. Validation of Data.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\3. Validation of Data\obj\Debug\net6.0\3. Validation of Data.AssemblyInfo.cs
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\3. Validation of Data\obj\Debug\net6.0\3. Validation of Data.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\3. Validation of Data\obj\Debug\net6.0\3. Validation of Data.sourcelink.json
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\3. Validation of Data\obj\Debug\net6.0\3. Validation of Data.dll
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\3. Validation of Data\obj\Debug\net6.0\refint\3. Validation of Data.dll
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\3. Validation of Data\obj\Debug\net6.0\3. Validation of Data.pdb
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\3. Validation of Data\obj\Debug\net6.0\3. Validation of Data.genruntimeconfig.cache
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\3. Validation of Data\obj\Debug\net6.0\ref\3. Validation of Data.dll
