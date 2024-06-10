@@ -11,34 +11,58 @@ namespace Shoping
         private string name;
         private decimal money;
         private List<Product> bags;
-         public string Name
+
+        public string Name
         {
-            get { return name; } 
+            get { return name; }
             set
             {
-                if(name ==string.Empty)
+                if (string.IsNullOrWhiteSpace(value))
                 {
                     throw new ArgumentException("Name cannot be empty");
                 }
+                name = value;
             }
         }
+
         public decimal Money
         {
             get { return money; }
             set
             {
-                if(value<0)
+                if (value < 0)
                 {
                     throw new ArgumentException("Money cannot be negative");
                 }
+                money = value;
             }
         }
-        public Person(string name, decimal money, List<Product> bags)
+
+        public IReadOnlyList<Product> Bags
+        {
+            get { return this.bags.AsReadOnly(); }
+        }
+
+        public Person(string name, decimal money)
         {
             Name = name;
             Money = money;
-            this.bags = bags;
-            
+            this.bags = new List<Product>();
+        }
+
+        public void BuyProduct(Product product)
+        {
+            if (this.money >= product.Cost)
+            {
+                this.money -= product.Cost;
+                this.bags.Add(product);
+                Console.WriteLine($"{this.name} bought {product.Name}");
+            }
+            else
+            {
+                Console.WriteLine($"{this.name} can't afford {product.Name}");
+            }
         }
     }
 }
+    
