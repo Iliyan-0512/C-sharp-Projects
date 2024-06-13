@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\iliyan\\proggraming\\task\\Interfaces and Abstraction\\1. Shapes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA1FBD8-E42D-4137-B318-ECCDC23D7DA0}|1. Shapes\\1. Shapes.csproj|c:\\iliyan\\proggraming\\task\\interfaces and abstraction\\1. shapes\\1. shapes\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA1FBD8-E42D-4137-B318-ECCDC23D7DA0}|1. Shapes\\1. Shapes.csproj|solutionrelative:1. shapes\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA1FBD8-E42D-4137-B318-ECCDC23D7DA0}|1. Shapes\\1. Shapes.csproj|c:\\iliyan\\proggraming\\task\\interfaces and abstraction\\1. shapes\\1. shapes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA1FBD8-E42D-4137-B318-ECCDC23D7DA0}|1. Shapes\\1. Shapes.csproj|solutionrelative:1. shapes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA1FBD8-E42D-4137-B318-ECCDC23D7DA0}|1. Shapes\\1. Shapes.csproj|c:\\iliyan\\proggraming\\task\\interfaces and abstraction\\1. shapes\\1. shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA1FBD8-E42D-4137-B318-ECCDC23D7DA0}|1. Shapes\\1. Shapes.csproj|solutionrelative:1. shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA1FBD8-E42D-4137-B318-ECCDC23D7DA0}|1. Shapes\\1. Shapes.csproj|c:\\iliyan\\proggraming\\task\\interfaces and abstraction\\1. shapes\\1. shapes\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA1FBD8-E42D-4137-B318-ECCDC23D7DA0}|1. Shapes\\1. Shapes.csproj|solutionrelative:1. shapes\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Interfaces and Abstraction\\1. Shapes\\1. Shapes\\Circle.cs",
+              "RelativeDocumentMoniker": "1. Shapes\\Circle.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\Interfaces and Abstraction\\1. Shapes\\1. Shapes\\Circle.cs",
+              "RelativeToolTip": "1. Shapes\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:07:44.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Interfaces and Abstraction\\1. Shapes\\1. Shapes\\Rectangle.cs",
+              "RelativeDocumentMoniker": "1. Shapes\\Rectangle.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\Interfaces and Abstraction\\1. Shapes\\1. Shapes\\Rectangle.cs",
+              "RelativeToolTip": "1. Shapes\\Rectangle.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAcwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:00:50.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IDrawable.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Interfaces and Abstraction\\1. Shapes\\1. Shapes\\IDrawable.cs",
+              "RelativeDocumentMoniker": "1. Shapes\\IDrawable.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\Interfaces and Abstraction\\1. Shapes\\1. Shapes\\IDrawable.cs",
+              "RelativeToolTip": "1. Shapes\\IDrawable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:00:07.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Interfaces and Abstraction\\1. Shapes\\1. Shapes\\StartUp.cs",
+              "RelativeDocumentMoniker": "1. Shapes\\StartUp.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\Interfaces and Abstraction\\1. Shapes\\1. Shapes\\StartUp.cs",
+              "RelativeToolTip": "1. Shapes\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:42:12.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
