@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\Interfaces and Abstraction\2. Cars\bin\Debug\net6.0\2. Cars.exe
+C:\iliyan\proggraming\task\Interfaces and Abstraction\2. Cars\bin\Debug\net6.0\2. Cars.deps.json
+C:\iliyan\proggraming\task\Interfaces and Abstraction\2. Cars\bin\Debug\net6.0\2. Cars.runtimeconfig.json
+C:\iliyan\proggraming\task\Interfaces and Abstraction\2. Cars\bin\Debug\net6.0\2. Cars.dll
+C:\iliyan\proggraming\task\Interfaces and Abstraction\2. Cars\bin\Debug\net6.0\2. Cars.pdb
+C:\iliyan\proggraming\task\Interfaces and Abstraction\2. Cars\obj\Debug\net6.0\2. Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\Interfaces and Abstraction\2. Cars\obj\Debug\net6.0\2. Cars.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\Interfaces and Abstraction\2. Cars\obj\Debug\net6.0\2. Cars.AssemblyInfo.cs
+C:\iliyan\proggraming\task\Interfaces and Abstraction\2. Cars\obj\Debug\net6.0\2. Cars.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\Interfaces and Abstraction\2. Cars\obj\Debug\net6.0\2. Cars.sourcelink.json
+C:\iliyan\proggraming\task\Interfaces and Abstraction\2. Cars\obj\Debug\net6.0\2. Cars.dll
+C:\iliyan\proggraming\task\Interfaces and Abstraction\2. Cars\obj\Debug\net6.0\refint\2. Cars.dll
+C:\iliyan\proggraming\task\Interfaces and Abstraction\2. Cars\obj\Debug\net6.0\2. Cars.pdb
+C:\iliyan\proggraming\task\Interfaces and Abstraction\2. Cars\obj\Debug\net6.0\2. Cars.genruntimeconfig.cache
+C:\iliyan\proggraming\task\Interfaces and Abstraction\2. Cars\obj\Debug\net6.0\ref\2. Cars.dll
