@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\Interfaces and Abstraction\3. Telephony\obj\Debug\net6.0\3. Telephony.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\Interfaces and Abstraction\3. Telephony\obj\Debug\net6.0\3. Telephony.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\Interfaces and Abstraction\3. Telephony\obj\Debug\net6.0\3. Telephony.AssemblyInfo.cs
+C:\iliyan\proggraming\task\Interfaces and Abstraction\3. Telephony\obj\Debug\net6.0\3. Telephony.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\Interfaces and Abstraction\3. Telephony\obj\Debug\net6.0\3. Telephony.sourcelink.json
+C:\iliyan\proggraming\task\Interfaces and Abstraction\3. Telephony\bin\Debug\net6.0\3. Telephony.exe
+C:\iliyan\proggraming\task\Interfaces and Abstraction\3. Telephony\bin\Debug\net6.0\3. Telephony.deps.json
+C:\iliyan\proggraming\task\Interfaces and Abstraction\3. Telephony\bin\Debug\net6.0\3. Telephony.runtimeconfig.json
+C:\iliyan\proggraming\task\Interfaces and Abstraction\3. Telephony\bin\Debug\net6.0\3. Telephony.dll
+C:\iliyan\proggraming\task\Interfaces and Abstraction\3. Telephony\bin\Debug\net6.0\3. Telephony.pdb
+C:\iliyan\proggraming\task\Interfaces and Abstraction\3. Telephony\obj\Debug\net6.0\3. Telephony.dll
+C:\iliyan\proggraming\task\Interfaces and Abstraction\3. Telephony\obj\Debug\net6.0\refint\3. Telephony.dll
+C:\iliyan\proggraming\task\Interfaces and Abstraction\3. Telephony\obj\Debug\net6.0\3. Telephony.pdb
+C:\iliyan\proggraming\task\Interfaces and Abstraction\3. Telephony\obj\Debug\net6.0\3. Telephony.genruntimeconfig.cache
+C:\iliyan\proggraming\task\Interfaces and Abstraction\3. Telephony\obj\Debug\net6.0\ref\3. Telephony.dll
