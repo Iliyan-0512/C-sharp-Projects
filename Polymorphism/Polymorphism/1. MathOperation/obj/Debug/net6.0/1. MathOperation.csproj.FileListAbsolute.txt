@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\1. MathOperation\bin\Debug\net6.0\1. MathOperation.exe
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\1. MathOperation\bin\Debug\net6.0\1. MathOperation.deps.json
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\1. MathOperation\bin\Debug\net6.0\1. MathOperation.runtimeconfig.json
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\1. MathOperation\bin\Debug\net6.0\1. MathOperation.dll
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\1. MathOperation\bin\Debug\net6.0\1. MathOperation.pdb
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\1. MathOperation\obj\Debug\net6.0\1. MathOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\1. MathOperation\obj\Debug\net6.0\1. MathOperation.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\1. MathOperation\obj\Debug\net6.0\1. MathOperation.AssemblyInfo.cs
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\1. MathOperation\obj\Debug\net6.0\1. MathOperation.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\1. MathOperation\obj\Debug\net6.0\1. MathOperation.sourcelink.json
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\1. MathOperation\obj\Debug\net6.0\1. MathOperation.dll
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\1. MathOperation\obj\Debug\net6.0\refint\1. MathOperation.dll
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\1. MathOperation\obj\Debug\net6.0\1. MathOperation.pdb
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\1. MathOperation\obj\Debug\net6.0\1. MathOperation.genruntimeconfig.cache
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\1. MathOperation\obj\Debug\net6.0\ref\1. MathOperation.dll
