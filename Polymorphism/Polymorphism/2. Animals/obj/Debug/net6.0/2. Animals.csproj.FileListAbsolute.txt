@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\2. Animals\bin\Debug\net6.0\2. Animals.exe
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\2. Animals\bin\Debug\net6.0\2. Animals.deps.json
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\2. Animals\bin\Debug\net6.0\2. Animals.runtimeconfig.json
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\2. Animals\bin\Debug\net6.0\2. Animals.dll
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\2. Animals\bin\Debug\net6.0\2. Animals.pdb
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\2. Animals\obj\Debug\net6.0\2. Animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\2. Animals\obj\Debug\net6.0\2. Animals.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\2. Animals\obj\Debug\net6.0\2. Animals.AssemblyInfo.cs
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\2. Animals\obj\Debug\net6.0\2. Animals.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\2. Animals\obj\Debug\net6.0\2. Animals.sourcelink.json
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\2. Animals\obj\Debug\net6.0\2. Animals.dll
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\2. Animals\obj\Debug\net6.0\refint\2. Animals.dll
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\2. Animals\obj\Debug\net6.0\2. Animals.pdb
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\2. Animals\obj\Debug\net6.0\2. Animals.genruntimeconfig.cache
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\2. Animals\obj\Debug\net6.0\ref\2. Animals.dll
