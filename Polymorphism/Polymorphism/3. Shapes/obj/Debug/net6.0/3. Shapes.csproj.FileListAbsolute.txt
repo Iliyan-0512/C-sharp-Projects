@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\3. Shapes\bin\Debug\net6.0\3. Shapes.exe
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\3. Shapes\bin\Debug\net6.0\3. Shapes.deps.json
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\3. Shapes\bin\Debug\net6.0\3. Shapes.runtimeconfig.json
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\3. Shapes\bin\Debug\net6.0\3. Shapes.dll
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\3. Shapes\bin\Debug\net6.0\3. Shapes.pdb
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\3. Shapes\obj\Debug\net6.0\3. Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\3. Shapes\obj\Debug\net6.0\3. Shapes.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\3. Shapes\obj\Debug\net6.0\3. Shapes.AssemblyInfo.cs
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\3. Shapes\obj\Debug\net6.0\3. Shapes.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\3. Shapes\obj\Debug\net6.0\3. Shapes.sourcelink.json
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\3. Shapes\obj\Debug\net6.0\3. Shapes.dll
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\3. Shapes\obj\Debug\net6.0\refint\3. Shapes.dll
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\3. Shapes\obj\Debug\net6.0\3. Shapes.pdb
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\3. Shapes\obj\Debug\net6.0\3. Shapes.genruntimeconfig.cache
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\3. Shapes\obj\Debug\net6.0\ref\3. Shapes.dll
