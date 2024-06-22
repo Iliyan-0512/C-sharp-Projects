@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\1. Vehicles\bin\Debug\net6.0\1. Vehicles.exe
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\1. Vehicles\bin\Debug\net6.0\1. Vehicles.deps.json
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\1. Vehicles\bin\Debug\net6.0\1. Vehicles.runtimeconfig.json
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\1. Vehicles\bin\Debug\net6.0\1. Vehicles.dll
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\1. Vehicles\bin\Debug\net6.0\1. Vehicles.pdb
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\1. Vehicles\obj\Debug\net6.0\1. Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\1. Vehicles\obj\Debug\net6.0\1. Vehicles.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\1. Vehicles\obj\Debug\net6.0\1. Vehicles.AssemblyInfo.cs
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\1. Vehicles\obj\Debug\net6.0\1. Vehicles.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\1. Vehicles\obj\Debug\net6.0\1. Vehicles.sourcelink.json
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\1. Vehicles\obj\Debug\net6.0\1. Vehicles.dll
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\1. Vehicles\obj\Debug\net6.0\refint\1. Vehicles.dll
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\1. Vehicles\obj\Debug\net6.0\1. Vehicles.pdb
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\1. Vehicles\obj\Debug\net6.0\1. Vehicles.genruntimeconfig.cache
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\1. Vehicles\obj\Debug\net6.0\ref\1. Vehicles.dll
