@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\3. Raiding\bin\Debug\net6.0\3. Raiding.exe
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\3. Raiding\bin\Debug\net6.0\3. Raiding.deps.json
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\3. Raiding\bin\Debug\net6.0\3. Raiding.runtimeconfig.json
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\3. Raiding\bin\Debug\net6.0\3. Raiding.dll
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\3. Raiding\bin\Debug\net6.0\3. Raiding.pdb
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\3. Raiding\obj\Debug\net6.0\3. Raiding.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\3. Raiding\obj\Debug\net6.0\3. Raiding.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\3. Raiding\obj\Debug\net6.0\3. Raiding.AssemblyInfo.cs
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\3. Raiding\obj\Debug\net6.0\3. Raiding.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\3. Raiding\obj\Debug\net6.0\3. Raiding.sourcelink.json
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\3. Raiding\obj\Debug\net6.0\3. Raiding.dll
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\3. Raiding\obj\Debug\net6.0\refint\3. Raiding.dll
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\3. Raiding\obj\Debug\net6.0\3. Raiding.pdb
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\3. Raiding\obj\Debug\net6.0\3. Raiding.genruntimeconfig.cache
+C:\iliyan\proggraming\task\Polymorphism\Polymorphism\3. Raiding\obj\Debug\net6.0\ref\3. Raiding.dll
