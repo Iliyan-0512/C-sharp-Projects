@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\Exceptions and Error Handling\bin\Debug\net6.0\Exceptions and Error Handling.exe
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\Exceptions and Error Handling\bin\Debug\net6.0\Exceptions and Error Handling.deps.json
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\Exceptions and Error Handling\bin\Debug\net6.0\Exceptions and Error Handling.runtimeconfig.json
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\Exceptions and Error Handling\bin\Debug\net6.0\Exceptions and Error Handling.dll
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\Exceptions and Error Handling\bin\Debug\net6.0\Exceptions and Error Handling.pdb
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\Exceptions and Error Handling\obj\Debug\net6.0\Exceptions and Error Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\Exceptions and Error Handling\obj\Debug\net6.0\Exceptions and Error Handling.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\Exceptions and Error Handling\obj\Debug\net6.0\Exceptions and Error Handling.AssemblyInfo.cs
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\Exceptions and Error Handling\obj\Debug\net6.0\Exceptions and Error Handling.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\Exceptions and Error Handling\obj\Debug\net6.0\Exceptions and Error Handling.sourcelink.json
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\Exceptions and Error Handling\obj\Debug\net6.0\Exceptions and Error Handling.dll
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\Exceptions and Error Handling\obj\Debug\net6.0\refint\Exceptions and Error Handling.dll
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\Exceptions and Error Handling\obj\Debug\net6.0\Exceptions and Error Handling.pdb
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\Exceptions and Error Handling\obj\Debug\net6.0\Exceptions and Error Handling.genruntimeconfig.cache
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\Exceptions and Error Handling\obj\Debug\net6.0\ref\Exceptions and Error Handling.dll
