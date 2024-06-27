@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\3. Cards\bin\Debug\net6.0\3. Cards.exe
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\3. Cards\bin\Debug\net6.0\3. Cards.deps.json
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\3. Cards\bin\Debug\net6.0\3. Cards.runtimeconfig.json
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\3. Cards\bin\Debug\net6.0\3. Cards.dll
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\3. Cards\bin\Debug\net6.0\3. Cards.pdb
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\3. Cards\obj\Debug\net6.0\3. Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\3. Cards\obj\Debug\net6.0\3. Cards.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\3. Cards\obj\Debug\net6.0\3. Cards.AssemblyInfo.cs
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\3. Cards\obj\Debug\net6.0\3. Cards.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\3. Cards\obj\Debug\net6.0\3. Cards.sourcelink.json
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\3. Cards\obj\Debug\net6.0\3. Cards.dll
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\3. Cards\obj\Debug\net6.0\refint\3. Cards.dll
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\3. Cards\obj\Debug\net6.0\3. Cards.pdb
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\3. Cards\obj\Debug\net6.0\3. Cards.genruntimeconfig.cache
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\3. Cards\obj\Debug\net6.0\ref\3. Cards.dll
