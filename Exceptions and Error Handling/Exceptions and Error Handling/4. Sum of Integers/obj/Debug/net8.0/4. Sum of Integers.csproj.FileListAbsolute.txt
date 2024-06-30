@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\4. Sum of Integers\bin\Debug\net8.0\4. Sum of Integers.exe
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\4. Sum of Integers\bin\Debug\net8.0\4. Sum of Integers.deps.json
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\4. Sum of Integers\bin\Debug\net8.0\4. Sum of Integers.runtimeconfig.json
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\4. Sum of Integers\bin\Debug\net8.0\4. Sum of Integers.dll
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\4. Sum of Integers\bin\Debug\net8.0\4. Sum of Integers.pdb
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\4. Sum of Integers\obj\Debug\net8.0\4. Sum of Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\4. Sum of Integers\obj\Debug\net8.0\4. Sum of Integers.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\4. Sum of Integers\obj\Debug\net8.0\4. Sum of Integers.AssemblyInfo.cs
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\4. Sum of Integers\obj\Debug\net8.0\4. Sum of Integers.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\4. Sum of Integers\obj\Debug\net8.0\4. Sum of Integers.sourcelink.json
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\4. Sum of Integers\obj\Debug\net8.0\4. Sum of Integers.dll
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\4. Sum of Integers\obj\Debug\net8.0\refint\4. Sum of Integers.dll
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\4. Sum of Integers\obj\Debug\net8.0\4. Sum of Integers.pdb
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\4. Sum of Integers\obj\Debug\net8.0\4. Sum of Integers.genruntimeconfig.cache
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\4. Sum of Integers\obj\Debug\net8.0\ref\4. Sum of Integers.dll
