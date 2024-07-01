@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\5. Play Catch\bin\Debug\net8.0\5. Play Catch.exe
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\5. Play Catch\bin\Debug\net8.0\5. Play Catch.deps.json
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\5. Play Catch\bin\Debug\net8.0\5. Play Catch.runtimeconfig.json
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\5. Play Catch\bin\Debug\net8.0\5. Play Catch.dll
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\5. Play Catch\bin\Debug\net8.0\5. Play Catch.pdb
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\5. Play Catch\obj\Debug\net8.0\5. Play Catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\5. Play Catch\obj\Debug\net8.0\5. Play Catch.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\5. Play Catch\obj\Debug\net8.0\5. Play Catch.AssemblyInfo.cs
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\5. Play Catch\obj\Debug\net8.0\5. Play Catch.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\5. Play Catch\obj\Debug\net8.0\5. Play Catch.sourcelink.json
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\5. Play Catch\obj\Debug\net8.0\5. Play Catch.dll
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\5. Play Catch\obj\Debug\net8.0\refint\5. Play Catch.dll
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\5. Play Catch\obj\Debug\net8.0\5. Play Catch.pdb
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\5. Play Catch\obj\Debug\net8.0\5. Play Catch.genruntimeconfig.cache
+C:\iliyan\proggraming\task\Exceptions and Error Handling\Exceptions and Error Handling\5. Play Catch\obj\Debug\net8.0\ref\5. Play Catch.dll
