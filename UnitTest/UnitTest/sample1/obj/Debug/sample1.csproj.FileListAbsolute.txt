@@ -1,0 +1,2 @@
+C:\iliyan\proggraming\task\UnitTest\UnitTest\sample1\obj\Debug\sample1.csproj.AssemblyReference.cache
+C:\iliyan\proggraming\task\UnitTest\UnitTest\sample1\obj\Debug\sample1.csproj.CoreCompileInputs.cache
