@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\lambda\taskAlog\garden\Grading\Grading\bin\Debug\net8.0\Grading.exe
+C:\iliyan\proggraming\task\lambda\taskAlog\garden\Grading\Grading\bin\Debug\net8.0\Grading.deps.json
+C:\iliyan\proggraming\task\lambda\taskAlog\garden\Grading\Grading\bin\Debug\net8.0\Grading.runtimeconfig.json
+C:\iliyan\proggraming\task\lambda\taskAlog\garden\Grading\Grading\bin\Debug\net8.0\Grading.dll
+C:\iliyan\proggraming\task\lambda\taskAlog\garden\Grading\Grading\bin\Debug\net8.0\Grading.pdb
+C:\iliyan\proggraming\task\lambda\taskAlog\garden\Grading\Grading\obj\Debug\net8.0\Grading.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\lambda\taskAlog\garden\Grading\Grading\obj\Debug\net8.0\Grading.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\lambda\taskAlog\garden\Grading\Grading\obj\Debug\net8.0\Grading.AssemblyInfo.cs
+C:\iliyan\proggraming\task\lambda\taskAlog\garden\Grading\Grading\obj\Debug\net8.0\Grading.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\lambda\taskAlog\garden\Grading\Grading\obj\Debug\net8.0\Grading.sourcelink.json
+C:\iliyan\proggraming\task\lambda\taskAlog\garden\Grading\Grading\obj\Debug\net8.0\Grading.dll
+C:\iliyan\proggraming\task\lambda\taskAlog\garden\Grading\Grading\obj\Debug\net8.0\refint\Grading.dll
+C:\iliyan\proggraming\task\lambda\taskAlog\garden\Grading\Grading\obj\Debug\net8.0\Grading.pdb
+C:\iliyan\proggraming\task\lambda\taskAlog\garden\Grading\Grading\obj\Debug\net8.0\Grading.genruntimeconfig.cache
+C:\iliyan\proggraming\task\lambda\taskAlog\garden\Grading\Grading\obj\Debug\net8.0\ref\Grading.dll

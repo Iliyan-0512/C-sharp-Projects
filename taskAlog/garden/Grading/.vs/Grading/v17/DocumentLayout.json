@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\iliyan\\proggraming\\task\\lambda\\taskAlog\\garden\\Grading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E27C686-D805-45A1-B0E6-84F9FB646376}|Grading\\Grading.csproj|c:\\iliyan\\proggraming\\task\\lambda\\taskalog\\garden\\grading\\grading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E27C686-D805-45A1-B0E6-84F9FB646376}|Grading\\Grading.csproj|solutionrelative:grading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\lambda\\taskAlog\\garden\\Grading\\Grading\\Program.cs",
+              "RelativeDocumentMoniker": "Grading\\Program.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\lambda\\taskAlog\\garden\\Grading\\Grading\\Program.cs",
+              "RelativeToolTip": "Grading\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T11:27:06.725Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
