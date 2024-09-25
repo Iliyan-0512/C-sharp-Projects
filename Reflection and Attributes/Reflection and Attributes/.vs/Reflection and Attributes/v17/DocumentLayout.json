@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\iliyan\\proggraming\\task\\Reflection and Attributes\\Reflection and Attributes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C473D033-6C28-4B6E-8100-48B28EC93922}|5. Create Attribute\\5. Create Attribute.csproj|c:\\iliyan\\proggraming\\task\\reflection and attributes\\reflection and attributes\\5. create attribute\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C473D033-6C28-4B6E-8100-48B28EC93922}|5. Create Attribute\\5. Create Attribute.csproj|solutionrelative:5. create attribute\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C473D033-6C28-4B6E-8100-48B28EC93922}|5. Create Attribute\\5. Create Attribute.csproj|c:\\iliyan\\proggraming\\task\\reflection and attributes\\reflection and attributes\\5. create attribute\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C473D033-6C28-4B6E-8100-48B28EC93922}|5. Create Attribute\\5. Create Attribute.csproj|solutionrelative:5. create attribute\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Reflection and Attributes\\Reflection and Attributes\\5. Create Attribute\\Program.cs",
+              "RelativeDocumentMoniker": "5. Create Attribute\\Program.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\Reflection and Attributes\\Reflection and Attributes\\5. Create Attribute\\Program.cs",
+              "RelativeToolTip": "5. Create Attribute\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:11:56.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Reflection and Attributes\\Reflection and Attributes\\5. Create Attribute\\Author.cs",
+              "RelativeDocumentMoniker": "5. Create Attribute\\Author.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\Reflection and Attributes\\Reflection and Attributes\\5. Create Attribute\\Author.cs",
+              "RelativeToolTip": "5. Create Attribute\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:11:49.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

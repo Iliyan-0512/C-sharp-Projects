@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\iliyan\\proggraming\\task\\Interfaces and Abstraction\\EasyTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8867624-4966-4623-BDFC-0EC0B8A3CDD8}|EasyTask\\EasyTask.csproj|c:\\iliyan\\proggraming\\task\\interfaces and abstraction\\easytask\\easytask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8867624-4966-4623-BDFC-0EC0B8A3CDD8}|EasyTask\\EasyTask.csproj|solutionrelative:easytask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8867624-4966-4623-BDFC-0EC0B8A3CDD8}|EasyTask\\EasyTask.csproj|c:\\iliyan\\proggraming\\task\\interfaces and abstraction\\easytask\\easytask\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8867624-4966-4623-BDFC-0EC0B8A3CDD8}|EasyTask\\EasyTask.csproj|solutionrelative:easytask\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8867624-4966-4623-BDFC-0EC0B8A3CDD8}|EasyTask\\EasyTask.csproj|c:\\iliyan\\proggraming\\task\\interfaces and abstraction\\easytask\\easytask\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8867624-4966-4623-BDFC-0EC0B8A3CDD8}|EasyTask\\EasyTask.csproj|solutionrelative:easytask\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8867624-4966-4623-BDFC-0EC0B8A3CDD8}|EasyTask\\EasyTask.csproj|c:\\iliyan\\proggraming\\task\\interfaces and abstraction\\easytask\\easytask\\ipet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8867624-4966-4623-BDFC-0EC0B8A3CDD8}|EasyTask\\EasyTask.csproj|solutionrelative:easytask\\ipet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPet.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Interfaces and Abstraction\\EasyTask\\EasyTask\\IPet.cs",
+              "RelativeDocumentMoniker": "EasyTask\\IPet.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\Interfaces and Abstraction\\EasyTask\\EasyTask\\IPet.cs",
+              "RelativeToolTip": "EasyTask\\IPet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T20:07:26.519Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Interfaces and Abstraction\\EasyTask\\EasyTask\\Cat.cs",
+              "RelativeDocumentMoniker": "EasyTask\\Cat.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\Interfaces and Abstraction\\EasyTask\\EasyTask\\Cat.cs",
+              "RelativeToolTip": "EasyTask\\Cat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T20:38:10.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Interfaces and Abstraction\\EasyTask\\EasyTask\\Dog.cs",
+              "RelativeDocumentMoniker": "EasyTask\\Dog.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\Interfaces and Abstraction\\EasyTask\\EasyTask\\Dog.cs",
+              "RelativeToolTip": "EasyTask\\Dog.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T20:37:56.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Interfaces and Abstraction\\EasyTask\\EasyTask\\Program.cs",
+              "RelativeDocumentMoniker": "EasyTask\\Program.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\Interfaces and Abstraction\\EasyTask\\EasyTask\\Program.cs",
+              "RelativeToolTip": "EasyTask\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T20:06:48.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

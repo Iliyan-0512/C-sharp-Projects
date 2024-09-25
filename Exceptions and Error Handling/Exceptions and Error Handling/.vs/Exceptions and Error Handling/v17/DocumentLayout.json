@@ -1,12 +1,53 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\iliyan\\proggraming\\task\\Exceptions and Error Handling\\Exceptions and Error Handling\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A314519C-E4B8-46F7-84E9-A7ECD62DC18B}|5. Play Catch\\5. Play Catch.csproj|c:\\iliyan\\proggraming\\task\\exceptions and error handling\\exceptions and error handling\\5. play catch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A314519C-E4B8-46F7-84E9-A7ECD62DC18B}|5. Play Catch\\5. Play Catch.csproj|solutionrelative:5. play catch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E4C653-8074-4D7E-87D6-74CD92A57041}|4. Sum of Integers\\4. Sum of Integers.csproj|c:\\iliyan\\proggraming\\task\\exceptions and error handling\\exceptions and error handling\\4. sum of integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E4C653-8074-4D7E-87D6-74CD92A57041}|4. Sum of Integers\\4. Sum of Integers.csproj|solutionrelative:4. sum of integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Exceptions and Error Handling\\Exceptions and Error Handling\\4. Sum of Integers\\Program.cs",
+              "RelativeDocumentMoniker": "4. Sum of Integers\\Program.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\Exceptions and Error Handling\\Exceptions and Error Handling\\4. Sum of Integers\\Program.cs",
+              "RelativeToolTip": "4. Sum of Integers\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T14:35:11.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Exceptions and Error Handling\\Exceptions and Error Handling\\5. Play Catch\\Program.cs",
+              "RelativeDocumentMoniker": "5. Play Catch\\Program.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\Exceptions and Error Handling\\Exceptions and Error Handling\\5. Play Catch\\Program.cs",
+              "RelativeToolTip": "5. Play Catch\\Program.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAYwEEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T12:52:51.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

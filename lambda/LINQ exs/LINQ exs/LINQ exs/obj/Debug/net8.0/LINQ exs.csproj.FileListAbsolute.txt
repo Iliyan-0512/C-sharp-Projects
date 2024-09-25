@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\lambda\LINQ exs\LINQ exs\LINQ exs\bin\Debug\net8.0\LINQ exs.exe
+C:\iliyan\proggraming\task\lambda\LINQ exs\LINQ exs\LINQ exs\bin\Debug\net8.0\LINQ exs.deps.json
+C:\iliyan\proggraming\task\lambda\LINQ exs\LINQ exs\LINQ exs\bin\Debug\net8.0\LINQ exs.runtimeconfig.json
+C:\iliyan\proggraming\task\lambda\LINQ exs\LINQ exs\LINQ exs\bin\Debug\net8.0\LINQ exs.dll
+C:\iliyan\proggraming\task\lambda\LINQ exs\LINQ exs\LINQ exs\bin\Debug\net8.0\LINQ exs.pdb
+C:\iliyan\proggraming\task\lambda\LINQ exs\LINQ exs\LINQ exs\obj\Debug\net8.0\LINQ exs.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\lambda\LINQ exs\LINQ exs\LINQ exs\obj\Debug\net8.0\LINQ exs.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\lambda\LINQ exs\LINQ exs\LINQ exs\obj\Debug\net8.0\LINQ exs.AssemblyInfo.cs
+C:\iliyan\proggraming\task\lambda\LINQ exs\LINQ exs\LINQ exs\obj\Debug\net8.0\LINQ exs.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\lambda\LINQ exs\LINQ exs\LINQ exs\obj\Debug\net8.0\LINQ exs.sourcelink.json
+C:\iliyan\proggraming\task\lambda\LINQ exs\LINQ exs\LINQ exs\obj\Debug\net8.0\LINQ exs.dll
+C:\iliyan\proggraming\task\lambda\LINQ exs\LINQ exs\LINQ exs\obj\Debug\net8.0\refint\LINQ exs.dll
+C:\iliyan\proggraming\task\lambda\LINQ exs\LINQ exs\LINQ exs\obj\Debug\net8.0\LINQ exs.pdb
+C:\iliyan\proggraming\task\lambda\LINQ exs\LINQ exs\LINQ exs\obj\Debug\net8.0\LINQ exs.genruntimeconfig.cache
+C:\iliyan\proggraming\task\lambda\LINQ exs\LINQ exs\LINQ exs\obj\Debug\net8.0\ref\LINQ exs.dll

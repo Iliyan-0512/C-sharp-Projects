@@ -21,7 +21,7 @@ namespace MyApp
                     {
                         int index = int.Parse(arr[1]);
                         int element = int.Parse(arr[2]);
-                        
+
                         if (index >= 0 && index <= arr.Length)
                         {
 
@@ -36,7 +36,7 @@ namespace MyApp
                     {
                         int startIndex = int.Parse(arr[1]);
                         int endIndex = int.Parse(arr[2]);
-                       
+
                         if (startIndex >= 0 && endIndex < number.Count && startIndex <= endIndex)
                         {
                             Console.WriteLine(string.Join(" ", number.Skip(startIndex).Take(endIndex - startIndex + 1)));

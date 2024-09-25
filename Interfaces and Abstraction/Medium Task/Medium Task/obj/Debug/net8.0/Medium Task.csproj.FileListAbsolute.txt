@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\Interfaces and Abstraction\Medium Task\Medium Task\bin\Debug\net8.0\Medium Task.exe
+C:\iliyan\proggraming\task\Interfaces and Abstraction\Medium Task\Medium Task\bin\Debug\net8.0\Medium Task.deps.json
+C:\iliyan\proggraming\task\Interfaces and Abstraction\Medium Task\Medium Task\bin\Debug\net8.0\Medium Task.runtimeconfig.json
+C:\iliyan\proggraming\task\Interfaces and Abstraction\Medium Task\Medium Task\bin\Debug\net8.0\Medium Task.dll
+C:\iliyan\proggraming\task\Interfaces and Abstraction\Medium Task\Medium Task\bin\Debug\net8.0\Medium Task.pdb
+C:\iliyan\proggraming\task\Interfaces and Abstraction\Medium Task\Medium Task\obj\Debug\net8.0\Medium Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\Interfaces and Abstraction\Medium Task\Medium Task\obj\Debug\net8.0\Medium Task.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\Interfaces and Abstraction\Medium Task\Medium Task\obj\Debug\net8.0\Medium Task.AssemblyInfo.cs
+C:\iliyan\proggraming\task\Interfaces and Abstraction\Medium Task\Medium Task\obj\Debug\net8.0\Medium Task.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\Interfaces and Abstraction\Medium Task\Medium Task\obj\Debug\net8.0\Medium Task.sourcelink.json
+C:\iliyan\proggraming\task\Interfaces and Abstraction\Medium Task\Medium Task\obj\Debug\net8.0\Medium Task.dll
+C:\iliyan\proggraming\task\Interfaces and Abstraction\Medium Task\Medium Task\obj\Debug\net8.0\refint\Medium Task.dll
+C:\iliyan\proggraming\task\Interfaces and Abstraction\Medium Task\Medium Task\obj\Debug\net8.0\Medium Task.pdb
+C:\iliyan\proggraming\task\Interfaces and Abstraction\Medium Task\Medium Task\obj\Debug\net8.0\Medium Task.genruntimeconfig.cache
+C:\iliyan\proggraming\task\Interfaces and Abstraction\Medium Task\Medium Task\obj\Debug\net8.0\ref\Medium Task.dll

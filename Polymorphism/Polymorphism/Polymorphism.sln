@@ -3,7 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{0D37D9FE-781D-4396-A5F5-B67B1CF3EC1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{0D37D9FE-781D-4396-A5F5-B67B1CF3EC1E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. MathOperation", "1. MathOperation\1. MathOperation.csproj", "{C4388F79-21DE-4F7C-9564-58A7A65247FE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Animals", "2. Animals\2. Animals.csproj", "{160F5396-C15F-4413-9DB8-26CCFE83121E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Shapes", "3. Shapes\3. Shapes.csproj", "{15BC7DC2-C077-4621-85F3-E2840E628663}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Vehicles", "1. Vehicles\1. Vehicles.csproj", "{BCCB0002-0C21-451E-B140-0E0B01768B9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Raiding", "3. Raiding\3. Raiding.csproj", "{07F6A9AC-0DB3-480C-868E-5B515272B757}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +25,26 @@ Global
 		{0D37D9FE-781D-4396-A5F5-B67B1CF3EC1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D37D9FE-781D-4396-A5F5-B67B1CF3EC1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D37D9FE-781D-4396-A5F5-B67B1CF3EC1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4388F79-21DE-4F7C-9564-58A7A65247FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4388F79-21DE-4F7C-9564-58A7A65247FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4388F79-21DE-4F7C-9564-58A7A65247FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4388F79-21DE-4F7C-9564-58A7A65247FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{160F5396-C15F-4413-9DB8-26CCFE83121E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{160F5396-C15F-4413-9DB8-26CCFE83121E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{160F5396-C15F-4413-9DB8-26CCFE83121E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{160F5396-C15F-4413-9DB8-26CCFE83121E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15BC7DC2-C077-4621-85F3-E2840E628663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15BC7DC2-C077-4621-85F3-E2840E628663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15BC7DC2-C077-4621-85F3-E2840E628663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15BC7DC2-C077-4621-85F3-E2840E628663}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCCB0002-0C21-451E-B140-0E0B01768B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCCB0002-0C21-451E-B140-0E0B01768B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCCB0002-0C21-451E-B140-0E0B01768B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCCB0002-0C21-451E-B140-0E0B01768B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07F6A9AC-0DB3-480C-868E-5B515272B757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F6A9AC-0DB3-480C-868E-5B515272B757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F6A9AC-0DB3-480C-868E-5B515272B757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F6A9AC-0DB3-480C-868E-5B515272B757}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

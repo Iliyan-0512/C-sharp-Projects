@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\4. First and Reserve Team\obj\Debug\net6.0\4. First and Reserve Team.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\4. First and Reserve Team\obj\Debug\net6.0\4. First and Reserve Team.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\4. First and Reserve Team\obj\Debug\net6.0\4. First and Reserve Team.AssemblyInfo.cs
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\4. First and Reserve Team\obj\Debug\net6.0\4. First and Reserve Team.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\4. First and Reserve Team\obj\Debug\net6.0\4. First and Reserve Team.sourcelink.json
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\4. First and Reserve Team\bin\Debug\net6.0\4. First and Reserve Team.exe
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\4. First and Reserve Team\bin\Debug\net6.0\4. First and Reserve Team.deps.json
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\4. First and Reserve Team\bin\Debug\net6.0\4. First and Reserve Team.runtimeconfig.json
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\4. First and Reserve Team\bin\Debug\net6.0\4. First and Reserve Team.dll
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\4. First and Reserve Team\bin\Debug\net6.0\4. First and Reserve Team.pdb
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\4. First and Reserve Team\obj\Debug\net6.0\4. First and Reserve Team.dll
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\4. First and Reserve Team\obj\Debug\net6.0\refint\4. First and Reserve Team.dll
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\4. First and Reserve Team\obj\Debug\net6.0\4. First and Reserve Team.pdb
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\4. First and Reserve Team\obj\Debug\net6.0\4. First and Reserve Team.genruntimeconfig.cache
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\4. First and Reserve Team\obj\Debug\net6.0\ref\4. First and Reserve Team.dll

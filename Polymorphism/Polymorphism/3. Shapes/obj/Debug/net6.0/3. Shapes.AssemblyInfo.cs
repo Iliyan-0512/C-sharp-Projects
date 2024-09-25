@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("3. Shapes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d817783259422b81f1caf2437401ce4fc2cbbc4f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89c51bb691ba388c872b15993814d1cf3e816188")]
 [assembly: System.Reflection.AssemblyProductAttribute("3. Shapes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("3. Shapes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

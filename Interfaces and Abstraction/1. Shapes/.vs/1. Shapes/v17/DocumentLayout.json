@@ -3,20 +3,19 @@
   "WorkspaceRootPath": "C:\\iliyan\\proggraming\\task\\Interfaces and Abstraction\\1. Shapes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0DA1FBD8-E42D-4137-B318-ECCDC23D7DA0}|1. Shapes\\1. Shapes.csproj|c:\\iliyan\\proggraming\\task\\interfaces and abstraction\\1. shapes\\1. shapes\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DA1FBD8-E42D-4137-B318-ECCDC23D7DA0}|1. Shapes\\1. Shapes.csproj|solutionrelative:1. shapes\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B9F2CB5-5131-46EE-BE95-3FC018705C0D}|..\\3. Telephony\\3. Telephony.csproj|c:\\iliyan\\proggraming\\task\\interfaces and abstraction\\3. telephony\\stationary phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DA1FBD8-E42D-4137-B318-ECCDC23D7DA0}|1. Shapes\\1. Shapes.csproj|c:\\iliyan\\proggraming\\task\\interfaces and abstraction\\1. shapes\\1. shapes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DA1FBD8-E42D-4137-B318-ECCDC23D7DA0}|1. Shapes\\1. Shapes.csproj|solutionrelative:1. shapes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B9F2CB5-5131-46EE-BE95-3FC018705C0D}|..\\3. Telephony\\3. Telephony.csproj|c:\\iliyan\\proggraming\\task\\interfaces and abstraction\\3. telephony\\icallable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DA1FBD8-E42D-4137-B318-ECCDC23D7DA0}|1. Shapes\\1. Shapes.csproj|c:\\iliyan\\proggraming\\task\\interfaces and abstraction\\1. shapes\\1. shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DA1FBD8-E42D-4137-B318-ECCDC23D7DA0}|1. Shapes\\1. Shapes.csproj|solutionrelative:1. shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B9F2CB5-5131-46EE-BE95-3FC018705C0D}|..\\3. Telephony\\3. Telephony.csproj|c:\\iliyan\\proggraming\\task\\interfaces and abstraction\\3. telephony\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DA1FBD8-E42D-4137-B318-ECCDC23D7DA0}|1. Shapes\\1. Shapes.csproj|c:\\iliyan\\proggraming\\task\\interfaces and abstraction\\1. shapes\\1. shapes\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DA1FBD8-E42D-4137-B318-ECCDC23D7DA0}|1. Shapes\\1. Shapes.csproj|solutionrelative:1. shapes\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B9F2CB5-5131-46EE-BE95-3FC018705C0D}|..\\3. Telephony\\3. Telephony.csproj|c:\\iliyan\\proggraming\\task\\interfaces and abstraction\\3. telephony\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B9F2CB5-5131-46EE-BE95-3FC018705C0D}|..\\3. Telephony\\3. Telephony.csproj|c:\\iliyan\\proggraming\\task\\interfaces and abstraction\\3. telephony\\ibrowsable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,54 +29,67 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Circle.cs",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Interfaces and Abstraction\\1. Shapes\\1. Shapes\\Circle.cs",
-              "RelativeDocumentMoniker": "1. Shapes\\Circle.cs",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\Interfaces and Abstraction\\1. Shapes\\1. Shapes\\Circle.cs",
-              "RelativeToolTip": "1. Shapes\\Circle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "IBrowsable.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Interfaces and Abstraction\\3. Telephony\\IBrowsable.cs",
+              "RelativeDocumentMoniker": "..\\3. Telephony\\IBrowsable.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\Interfaces and Abstraction\\3. Telephony\\IBrowsable.cs",
+              "RelativeToolTip": "..\\3. Telephony\\IBrowsable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T05:07:44.06Z",
+              "WhenOpened": "2024-06-14T16:33:14.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Rectangle.cs",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Interfaces and Abstraction\\1. Shapes\\1. Shapes\\Rectangle.cs",
-              "RelativeDocumentMoniker": "1. Shapes\\Rectangle.cs",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\Interfaces and Abstraction\\1. Shapes\\1. Shapes\\Rectangle.cs",
-              "RelativeToolTip": "1. Shapes\\Rectangle.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAcwDoAAAAAAAAA",
+              "Title": "ICallable.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Interfaces and Abstraction\\3. Telephony\\ICallable.cs",
+              "RelativeDocumentMoniker": "..\\3. Telephony\\ICallable.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\Interfaces and Abstraction\\3. Telephony\\ICallable.cs",
+              "RelativeToolTip": "..\\3. Telephony\\ICallable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T05:00:50.92Z",
+              "WhenOpened": "2024-06-14T16:32:20.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IDrawable.cs",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Interfaces and Abstraction\\1. Shapes\\1. Shapes\\IDrawable.cs",
-              "RelativeDocumentMoniker": "1. Shapes\\IDrawable.cs",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\Interfaces and Abstraction\\1. Shapes\\1. Shapes\\IDrawable.cs",
-              "RelativeToolTip": "1. Shapes\\IDrawable.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Title": "Stationary phone.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Interfaces and Abstraction\\3. Telephony\\Stationary phone.cs",
+              "RelativeDocumentMoniker": "..\\3. Telephony\\Stationary phone.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\Interfaces and Abstraction\\3. Telephony\\Stationary phone.cs",
+              "RelativeToolTip": "..\\3. Telephony\\Stationary phone.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAmwB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T05:00:07.644Z",
+              "WhenOpened": "2024-06-14T13:01:58.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Smartphone.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Interfaces and Abstraction\\3. Telephony\\Smartphone.cs",
+              "RelativeDocumentMoniker": "..\\3. Telephony\\Smartphone.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\Interfaces and Abstraction\\3. Telephony\\Smartphone.cs",
+              "RelativeToolTip": "..\\3. Telephony\\Smartphone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T13:01:23.277Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "StartUp.cs",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Interfaces and Abstraction\\1. Shapes\\1. Shapes\\StartUp.cs",
-              "RelativeDocumentMoniker": "1. Shapes\\StartUp.cs",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\Interfaces and Abstraction\\1. Shapes\\1. Shapes\\StartUp.cs",
-              "RelativeToolTip": "1. Shapes\\StartUp.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Interfaces and Abstraction\\3. Telephony\\StartUp.cs",
+              "RelativeDocumentMoniker": "..\\3. Telephony\\StartUp.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\Interfaces and Abstraction\\3. Telephony\\StartUp.cs",
+              "RelativeToolTip": "..\\3. Telephony\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T11:42:12.179Z",
+              "WhenOpened": "2024-06-14T12:42:40.376Z",
               "EditorCaption": ""
             }
           ]

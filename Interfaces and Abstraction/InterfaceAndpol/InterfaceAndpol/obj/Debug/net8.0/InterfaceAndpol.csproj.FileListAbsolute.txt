@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\Interfaces and Abstraction\InterfaceAndpol\InterfaceAndpol\bin\Debug\net8.0\InterfaceAndpol.exe
+C:\iliyan\proggraming\task\Interfaces and Abstraction\InterfaceAndpol\InterfaceAndpol\bin\Debug\net8.0\InterfaceAndpol.deps.json
+C:\iliyan\proggraming\task\Interfaces and Abstraction\InterfaceAndpol\InterfaceAndpol\bin\Debug\net8.0\InterfaceAndpol.runtimeconfig.json
+C:\iliyan\proggraming\task\Interfaces and Abstraction\InterfaceAndpol\InterfaceAndpol\bin\Debug\net8.0\InterfaceAndpol.dll
+C:\iliyan\proggraming\task\Interfaces and Abstraction\InterfaceAndpol\InterfaceAndpol\bin\Debug\net8.0\InterfaceAndpol.pdb
+C:\iliyan\proggraming\task\Interfaces and Abstraction\InterfaceAndpol\InterfaceAndpol\obj\Debug\net8.0\InterfaceAndpol.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\Interfaces and Abstraction\InterfaceAndpol\InterfaceAndpol\obj\Debug\net8.0\InterfaceAndpol.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\Interfaces and Abstraction\InterfaceAndpol\InterfaceAndpol\obj\Debug\net8.0\InterfaceAndpol.AssemblyInfo.cs
+C:\iliyan\proggraming\task\Interfaces and Abstraction\InterfaceAndpol\InterfaceAndpol\obj\Debug\net8.0\InterfaceAndpol.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\Interfaces and Abstraction\InterfaceAndpol\InterfaceAndpol\obj\Debug\net8.0\InterfaceAndpol.sourcelink.json
+C:\iliyan\proggraming\task\Interfaces and Abstraction\InterfaceAndpol\InterfaceAndpol\obj\Debug\net8.0\InterfaceAndpol.dll
+C:\iliyan\proggraming\task\Interfaces and Abstraction\InterfaceAndpol\InterfaceAndpol\obj\Debug\net8.0\refint\InterfaceAndpol.dll
+C:\iliyan\proggraming\task\Interfaces and Abstraction\InterfaceAndpol\InterfaceAndpol\obj\Debug\net8.0\InterfaceAndpol.pdb
+C:\iliyan\proggraming\task\Interfaces and Abstraction\InterfaceAndpol\InterfaceAndpol\obj\Debug\net8.0\InterfaceAndpol.genruntimeconfig.cache
+C:\iliyan\proggraming\task\Interfaces and Abstraction\InterfaceAndpol\InterfaceAndpol\obj\Debug\net8.0\ref\InterfaceAndpol.dll

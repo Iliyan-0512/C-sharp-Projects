@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Reflection and Attributes/1.0.0": {
+        "runtime": {
+          "Reflection and Attributes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Reflection and Attributes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

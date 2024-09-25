@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\2. Animal Farm\bin\Debug\net6.0\3. Shopping Spree.exe
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\2. Animal Farm\bin\Debug\net6.0\3. Shopping Spree.deps.json
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\2. Animal Farm\bin\Debug\net6.0\3. Shopping Spree.runtimeconfig.json
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\2. Animal Farm\bin\Debug\net6.0\3. Shopping Spree.dll
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\2. Animal Farm\bin\Debug\net6.0\3. Shopping Spree.pdb
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\2. Animal Farm\obj\Debug\net6.0\3. Shopping Spree.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\2. Animal Farm\obj\Debug\net6.0\3. Shopping Spree.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\2. Animal Farm\obj\Debug\net6.0\3. Shopping Spree.AssemblyInfo.cs
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\2. Animal Farm\obj\Debug\net6.0\3. Shopping Spree.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\2. Animal Farm\obj\Debug\net6.0\3. Shopping Spree.sourcelink.json
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\2. Animal Farm\obj\Debug\net6.0\3. Shopping Spree.dll
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\2. Animal Farm\obj\Debug\net6.0\refint\3. Shopping Spree.dll
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\2. Animal Farm\obj\Debug\net6.0\3. Shopping Spree.pdb
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\2. Animal Farm\obj\Debug\net6.0\3. Shopping Spree.genruntimeconfig.cache
+C:\iliyan\proggraming\task\Enscapulation\Encapsulation\2. Animal Farm\obj\Debug\net6.0\ref\3. Shopping Spree.dll

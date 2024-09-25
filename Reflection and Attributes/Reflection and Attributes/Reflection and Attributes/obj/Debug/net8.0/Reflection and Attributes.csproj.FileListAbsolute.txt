@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\Reflection and Attributes\Reflection and Attributes\Reflection and Attributes\bin\Debug\net8.0\Reflection and Attributes.exe
+C:\iliyan\proggraming\task\Reflection and Attributes\Reflection and Attributes\Reflection and Attributes\bin\Debug\net8.0\Reflection and Attributes.deps.json
+C:\iliyan\proggraming\task\Reflection and Attributes\Reflection and Attributes\Reflection and Attributes\bin\Debug\net8.0\Reflection and Attributes.runtimeconfig.json
+C:\iliyan\proggraming\task\Reflection and Attributes\Reflection and Attributes\Reflection and Attributes\bin\Debug\net8.0\Reflection and Attributes.dll
+C:\iliyan\proggraming\task\Reflection and Attributes\Reflection and Attributes\Reflection and Attributes\bin\Debug\net8.0\Reflection and Attributes.pdb
+C:\iliyan\proggraming\task\Reflection and Attributes\Reflection and Attributes\Reflection and Attributes\obj\Debug\net8.0\Reflection and Attributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\Reflection and Attributes\Reflection and Attributes\Reflection and Attributes\obj\Debug\net8.0\Reflection and Attributes.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\Reflection and Attributes\Reflection and Attributes\Reflection and Attributes\obj\Debug\net8.0\Reflection and Attributes.AssemblyInfo.cs
+C:\iliyan\proggraming\task\Reflection and Attributes\Reflection and Attributes\Reflection and Attributes\obj\Debug\net8.0\Reflection and Attributes.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\Reflection and Attributes\Reflection and Attributes\Reflection and Attributes\obj\Debug\net8.0\Reflection and Attributes.sourcelink.json
+C:\iliyan\proggraming\task\Reflection and Attributes\Reflection and Attributes\Reflection and Attributes\obj\Debug\net8.0\Reflection and Attributes.dll
+C:\iliyan\proggraming\task\Reflection and Attributes\Reflection and Attributes\Reflection and Attributes\obj\Debug\net8.0\refint\Reflection and Attributes.dll
+C:\iliyan\proggraming\task\Reflection and Attributes\Reflection and Attributes\Reflection and Attributes\obj\Debug\net8.0\Reflection and Attributes.pdb
+C:\iliyan\proggraming\task\Reflection and Attributes\Reflection and Attributes\Reflection and Attributes\obj\Debug\net8.0\Reflection and Attributes.genruntimeconfig.cache
+C:\iliyan\proggraming\task\Reflection and Attributes\Reflection and Attributes\Reflection and Attributes\obj\Debug\net8.0\ref\Reflection and Attributes.dll
