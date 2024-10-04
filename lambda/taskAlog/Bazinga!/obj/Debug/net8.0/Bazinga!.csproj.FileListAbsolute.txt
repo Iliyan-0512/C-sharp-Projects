@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\lambda\taskAlog\Bazinga!\obj\Debug\net8.0\Bazinga!.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\lambda\taskAlog\Bazinga!\obj\Debug\net8.0\Bazinga!.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\lambda\taskAlog\Bazinga!\obj\Debug\net8.0\Bazinga!.AssemblyInfo.cs
+C:\iliyan\proggraming\task\lambda\taskAlog\Bazinga!\obj\Debug\net8.0\Bazinga!.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\lambda\taskAlog\Bazinga!\obj\Debug\net8.0\Bazinga!.sourcelink.json
+C:\iliyan\proggraming\task\lambda\taskAlog\Bazinga!\bin\Debug\net8.0\Bazinga!.exe
+C:\iliyan\proggraming\task\lambda\taskAlog\Bazinga!\bin\Debug\net8.0\Bazinga!.deps.json
+C:\iliyan\proggraming\task\lambda\taskAlog\Bazinga!\bin\Debug\net8.0\Bazinga!.runtimeconfig.json
+C:\iliyan\proggraming\task\lambda\taskAlog\Bazinga!\bin\Debug\net8.0\Bazinga!.dll
+C:\iliyan\proggraming\task\lambda\taskAlog\Bazinga!\bin\Debug\net8.0\Bazinga!.pdb
+C:\iliyan\proggraming\task\lambda\taskAlog\Bazinga!\obj\Debug\net8.0\Bazinga!.dll
+C:\iliyan\proggraming\task\lambda\taskAlog\Bazinga!\obj\Debug\net8.0\refint\Bazinga!.dll
+C:\iliyan\proggraming\task\lambda\taskAlog\Bazinga!\obj\Debug\net8.0\Bazinga!.pdb
+C:\iliyan\proggraming\task\lambda\taskAlog\Bazinga!\obj\Debug\net8.0\Bazinga!.genruntimeconfig.cache
+C:\iliyan\proggraming\task\lambda\taskAlog\Bazinga!\obj\Debug\net8.0\ref\Bazinga!.dll
