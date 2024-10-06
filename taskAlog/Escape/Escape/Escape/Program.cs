@@ -4,59 +4,44 @@ class Program
 {
     static void Main()
     {
+        // Четене на дължината на коридора
         int N = int.Parse(Console.ReadLine());
-        char[] ASCLL = Console.ReadLine().ToArray();
+        // Четене на коридора
+        string corridor = Console.ReadLine();
 
         // Намиране на позицията на Ели
-        int ellPosition = -1;
-        for (int i = 0; i < N; i++)
-        {
-            if (ASCLL[i] == 'E')
-            {
-                ellPosition = i; // Запомни позицията на Ели
-                break;
-            }
-        }
+        int ellPosition = corridor.IndexOf('E');
 
-        // Изчисляване на минималния брой препятствия
-        int obstaclesToDestroyLeft = 0;
-        int obstaclesToDestroyRight = 0;
-
-        // Проверка наляво от Ели
-        for (int i = ellPosition - 1; i >= 0; i--)
-        {
-            if (ASCLL[i] == '#')
-            {
-                obstaclesToDestroyLeft++;
-            }
-            // Стоп при среща на отворено пространство
-            if (ASCLL[i] == '.')
-            {
-                continue; // Продължавай да проверяваш
-            }
-            // Стоп при достигане на края на коридора
-            break;
-        }
-
-        // Проверка надясно от Ели
-        for (int i = ellPosition + 1; i < N; i++)
-        {
-            if (ASCLL[i] == '#')
-            {
-                obstaclesToDestroyRight++;
-            }
-            // Стоп при среща на отворено пространство
-            if (ASCLL[i] == '.')
-            {
-                continue; // Продължавай да проверяваш
-            }
-            // Стоп при достигане на края на коридора
-            break;
-        }
+        // Изчисляване на минималния брой препятствия наляво и надясно
+        int obstaclesToDestroyLeft = CountObstacles(corridor, ellPosition - 1, -1);
+        int obstaclesToDestroyRight = CountObstacles(corridor, ellPosition + 1, 1);
 
         // Минимален брой препятствия
-        int obstaclesToDestroy = Math.Min(obstaclesToDestroyLeft, obstaclesToDestroyRight);
+        int minObstacles = Math.Min(obstaclesToDestroyLeft, obstaclesToDestroyRight);
 
-        Console.WriteLine(obstaclesToDestroy);
+        // Отпечатване на резултата
+        Console.WriteLine(minObstacles);
+    }
+
+    // Функция за броене на препятствия
+    static int CountObstacles(string corridor, int startIndex, int direction)
+    {
+        int count = 0;
+        // Итерираме в посоката на движение
+        while (startIndex >= 0 && startIndex < corridor.Length)
+        {
+            if (corridor[startIndex] == '#')
+            {
+                count++;
+            }
+            // Спираме при открито пространство
+            if (corridor[startIndex] == '.')
+            {
+                break; // Спираме, когато намерим свободно пространство
+            }
+            // Преместваме се в посоката
+            startIndex += direction;
+        }
+        return count;
     }
 }
