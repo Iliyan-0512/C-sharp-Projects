@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\iliyan\\proggraming\\task\\1. Recursive Array Sum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADAF9E3-38FC-44CC-98CA-502D93F277EC}|Recursion\\Recursion.csproj|c:\\iliyan\\proggraming\\task\\1. recursive array sum\\recursion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADAF9E3-38FC-44CC-98CA-502D93F277EC}|Recursion\\Recursion.csproj|solutionrelative:recursion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\1. Recursive Array Sum\\Recursion\\Program.cs",
+              "RelativeDocumentMoniker": "Recursion\\Program.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\1. Recursive Array Sum\\Recursion\\Program.cs",
+              "RelativeToolTip": "Recursion\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:46:44.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
