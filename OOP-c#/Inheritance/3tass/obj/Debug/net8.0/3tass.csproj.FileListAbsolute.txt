@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\OOP-c#\Inheritance\3tass\bin\Debug\net8.0\3tass.exe
+C:\iliyan\proggraming\task\OOP-c#\Inheritance\3tass\bin\Debug\net8.0\3tass.deps.json
+C:\iliyan\proggraming\task\OOP-c#\Inheritance\3tass\bin\Debug\net8.0\3tass.runtimeconfig.json
+C:\iliyan\proggraming\task\OOP-c#\Inheritance\3tass\bin\Debug\net8.0\3tass.dll
+C:\iliyan\proggraming\task\OOP-c#\Inheritance\3tass\bin\Debug\net8.0\3tass.pdb
+C:\iliyan\proggraming\task\OOP-c#\Inheritance\3tass\obj\Debug\net8.0\3tass.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\OOP-c#\Inheritance\3tass\obj\Debug\net8.0\3tass.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\OOP-c#\Inheritance\3tass\obj\Debug\net8.0\3tass.AssemblyInfo.cs
+C:\iliyan\proggraming\task\OOP-c#\Inheritance\3tass\obj\Debug\net8.0\3tass.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\OOP-c#\Inheritance\3tass\obj\Debug\net8.0\3tass.sourcelink.json
+C:\iliyan\proggraming\task\OOP-c#\Inheritance\3tass\obj\Debug\net8.0\3tass.dll
+C:\iliyan\proggraming\task\OOP-c#\Inheritance\3tass\obj\Debug\net8.0\refint\3tass.dll
+C:\iliyan\proggraming\task\OOP-c#\Inheritance\3tass\obj\Debug\net8.0\3tass.pdb
+C:\iliyan\proggraming\task\OOP-c#\Inheritance\3tass\obj\Debug\net8.0\3tass.genruntimeconfig.cache
+C:\iliyan\proggraming\task\OOP-c#\Inheritance\3tass\obj\Debug\net8.0\ref\3tass.dll

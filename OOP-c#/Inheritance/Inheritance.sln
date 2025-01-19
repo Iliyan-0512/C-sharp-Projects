@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{30CD72F7-8FB7-406D-BC6C-8B1B203B902F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\Inheritance.csproj", "{30CD72F7-8FB7-406D-BC6C-8B1B203B902F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample", "Sample\Sample.csproj", "{A6A66CE5-F640-4142-ACE8-83597DEB6930}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3tass", "3tass\3tass.csproj", "{A932275A-913C-4DF8-9128-4F11759FED5A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{30CD72F7-8FB7-406D-BC6C-8B1B203B902F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30CD72F7-8FB7-406D-BC6C-8B1B203B902F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30CD72F7-8FB7-406D-BC6C-8B1B203B902F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6A66CE5-F640-4142-ACE8-83597DEB6930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6A66CE5-F640-4142-ACE8-83597DEB6930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6A66CE5-F640-4142-ACE8-83597DEB6930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6A66CE5-F640-4142-ACE8-83597DEB6930}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A932275A-913C-4DF8-9128-4F11759FED5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A932275A-913C-4DF8-9128-4F11759FED5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A932275A-913C-4DF8-9128-4F11759FED5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A932275A-913C-4DF8-9128-4F11759FED5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

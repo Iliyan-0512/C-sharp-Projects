@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\iliyan\\proggraming\\task\\OOP-c#\\Inheritance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30CD72F7-8FB7-406D-BC6C-8B1B203B902F}|Inheritance\\Inheritance.csproj|c:\\iliyan\\proggraming\\task\\oop-c#\\inheritance\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30CD72F7-8FB7-406D-BC6C-8B1B203B902F}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A932275A-913C-4DF8-9128-4F11759FED5A}|3tass\\3tass.csproj|c:\\iliyan\\proggraming\\task\\oop-c#\\inheritance\\3tass\\jewelthief.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A932275A-913C-4DF8-9128-4F11759FED5A}|3tass\\3tass.csproj|solutionrelative:3tass\\jewelthief.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A932275A-913C-4DF8-9128-4F11759FED5A}|3tass\\3tass.csproj|c:\\iliyan\\proggraming\\task\\oop-c#\\inheritance\\3tass\\locksmith.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A932275A-913C-4DF8-9128-4F11759FED5A}|3tass\\3tass.csproj|solutionrelative:3tass\\locksmith.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A932275A-913C-4DF8-9128-4F11759FED5A}|3tass\\3tass.csproj|c:\\iliyan\\proggraming\\task\\oop-c#\\inheritance\\3tass\\safecontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A932275A-913C-4DF8-9128-4F11759FED5A}|3tass\\3tass.csproj|solutionrelative:3tass\\safecontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A932275A-913C-4DF8-9128-4F11759FED5A}|3tass\\3tass.csproj|c:\\iliyan\\proggraming\\task\\oop-c#\\inheritance\\3tass\\safe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A932275A-913C-4DF8-9128-4F11759FED5A}|3tass\\3tass.csproj|solutionrelative:3tass\\safe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A932275A-913C-4DF8-9128-4F11759FED5A}|3tass\\3tass.csproj|c:\\iliyan\\proggraming\\task\\oop-c#\\inheritance\\3tass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A932275A-913C-4DF8-9128-4F11759FED5A}|3tass\\3tass.csproj|solutionrelative:3tass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +35,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\OOP-c#\\Inheritance\\Inheritance\\Program.cs",
-              "RelativeDocumentMoniker": "Inheritance\\Program.cs",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\OOP-c#\\Inheritance\\Inheritance\\Program.cs",
-              "RelativeToolTip": "Inheritance\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Title": "JewelThief.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\OOP-c#\\Inheritance\\3tass\\JewelThief.cs",
+              "RelativeDocumentMoniker": "3tass\\JewelThief.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\OOP-c#\\Inheritance\\3tass\\JewelThief.cs",
+              "RelativeToolTip": "3tass\\JewelThief.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T21:44:11.332Z",
+              "WhenOpened": "2025-01-19T12:49:00.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Locksmith.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\OOP-c#\\Inheritance\\3tass\\Locksmith.cs",
+              "RelativeDocumentMoniker": "3tass\\Locksmith.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\OOP-c#\\Inheritance\\3tass\\Locksmith.cs",
+              "RelativeToolTip": "3tass\\Locksmith.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwBEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T12:48:38.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SafeContent.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\OOP-c#\\Inheritance\\3tass\\SafeContent.cs",
+              "RelativeDocumentMoniker": "3tass\\SafeContent.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\OOP-c#\\Inheritance\\3tass\\SafeContent.cs",
+              "RelativeToolTip": "3tass\\SafeContent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T12:47:17.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Safe.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\OOP-c#\\Inheritance\\3tass\\Safe.cs",
+              "RelativeDocumentMoniker": "3tass\\Safe.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\OOP-c#\\Inheritance\\3tass\\Safe.cs",
+              "RelativeToolTip": "3tass\\Safe.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAowA4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T12:44:29.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\OOP-c#\\Inheritance\\3tass\\Program.cs",
+              "RelativeDocumentMoniker": "3tass\\Program.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\OOP-c#\\Inheritance\\3tass\\Program.cs",
+              "RelativeToolTip": "3tass\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T12:44:05.129Z",
               "EditorCaption": ""
             }
           ]
