@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\OOP-c#\SimulatorForAnimal\SimulatorForAnimal\obj\Debug\net8.0\SimulatorForAnimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\OOP-c#\SimulatorForAnimal\SimulatorForAnimal\obj\Debug\net8.0\SimulatorForAnimal.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\OOP-c#\SimulatorForAnimal\SimulatorForAnimal\obj\Debug\net8.0\SimulatorForAnimal.AssemblyInfo.cs
+C:\iliyan\proggraming\task\OOP-c#\SimulatorForAnimal\SimulatorForAnimal\obj\Debug\net8.0\SimulatorForAnimal.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\OOP-c#\SimulatorForAnimal\SimulatorForAnimal\obj\Debug\net8.0\SimulatorForAnimal.sourcelink.json
+C:\iliyan\proggraming\task\OOP-c#\SimulatorForAnimal\SimulatorForAnimal\bin\Debug\net8.0\SimulatorForAnimal.exe
+C:\iliyan\proggraming\task\OOP-c#\SimulatorForAnimal\SimulatorForAnimal\bin\Debug\net8.0\SimulatorForAnimal.deps.json
+C:\iliyan\proggraming\task\OOP-c#\SimulatorForAnimal\SimulatorForAnimal\bin\Debug\net8.0\SimulatorForAnimal.runtimeconfig.json
+C:\iliyan\proggraming\task\OOP-c#\SimulatorForAnimal\SimulatorForAnimal\bin\Debug\net8.0\SimulatorForAnimal.dll
+C:\iliyan\proggraming\task\OOP-c#\SimulatorForAnimal\SimulatorForAnimal\bin\Debug\net8.0\SimulatorForAnimal.pdb
+C:\iliyan\proggraming\task\OOP-c#\SimulatorForAnimal\SimulatorForAnimal\obj\Debug\net8.0\SimulatorForAnimal.dll
+C:\iliyan\proggraming\task\OOP-c#\SimulatorForAnimal\SimulatorForAnimal\obj\Debug\net8.0\refint\SimulatorForAnimal.dll
+C:\iliyan\proggraming\task\OOP-c#\SimulatorForAnimal\SimulatorForAnimal\obj\Debug\net8.0\SimulatorForAnimal.pdb
+C:\iliyan\proggraming\task\OOP-c#\SimulatorForAnimal\SimulatorForAnimal\obj\Debug\net8.0\SimulatorForAnimal.genruntimeconfig.cache
+C:\iliyan\proggraming\task\OOP-c#\SimulatorForAnimal\SimulatorForAnimal\obj\Debug\net8.0\ref\SimulatorForAnimal.dll
