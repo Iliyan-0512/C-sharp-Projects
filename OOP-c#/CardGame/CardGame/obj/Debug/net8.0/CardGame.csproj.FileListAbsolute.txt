@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\OOP-c#\CardGame\CardGame\bin\Debug\net8.0\CardGame.exe
+C:\iliyan\proggraming\task\OOP-c#\CardGame\CardGame\bin\Debug\net8.0\CardGame.deps.json
+C:\iliyan\proggraming\task\OOP-c#\CardGame\CardGame\bin\Debug\net8.0\CardGame.runtimeconfig.json
+C:\iliyan\proggraming\task\OOP-c#\CardGame\CardGame\bin\Debug\net8.0\CardGame.dll
+C:\iliyan\proggraming\task\OOP-c#\CardGame\CardGame\bin\Debug\net8.0\CardGame.pdb
+C:\iliyan\proggraming\task\OOP-c#\CardGame\CardGame\obj\Debug\net8.0\CardGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\OOP-c#\CardGame\CardGame\obj\Debug\net8.0\CardGame.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\OOP-c#\CardGame\CardGame\obj\Debug\net8.0\CardGame.AssemblyInfo.cs
+C:\iliyan\proggraming\task\OOP-c#\CardGame\CardGame\obj\Debug\net8.0\CardGame.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\OOP-c#\CardGame\CardGame\obj\Debug\net8.0\CardGame.sourcelink.json
+C:\iliyan\proggraming\task\OOP-c#\CardGame\CardGame\obj\Debug\net8.0\CardGame.dll
+C:\iliyan\proggraming\task\OOP-c#\CardGame\CardGame\obj\Debug\net8.0\refint\CardGame.dll
+C:\iliyan\proggraming\task\OOP-c#\CardGame\CardGame\obj\Debug\net8.0\CardGame.pdb
+C:\iliyan\proggraming\task\OOP-c#\CardGame\CardGame\obj\Debug\net8.0\CardGame.genruntimeconfig.cache
+C:\iliyan\proggraming\task\OOP-c#\CardGame\CardGame\obj\Debug\net8.0\ref\CardGame.dll
