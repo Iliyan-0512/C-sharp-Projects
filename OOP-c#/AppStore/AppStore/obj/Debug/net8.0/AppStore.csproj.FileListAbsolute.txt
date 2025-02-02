@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\OOP-c#\AppStore\AppStore\bin\Debug\net8.0\AppStore.exe
+C:\iliyan\proggraming\task\OOP-c#\AppStore\AppStore\bin\Debug\net8.0\AppStore.deps.json
+C:\iliyan\proggraming\task\OOP-c#\AppStore\AppStore\bin\Debug\net8.0\AppStore.runtimeconfig.json
+C:\iliyan\proggraming\task\OOP-c#\AppStore\AppStore\bin\Debug\net8.0\AppStore.dll
+C:\iliyan\proggraming\task\OOP-c#\AppStore\AppStore\bin\Debug\net8.0\AppStore.pdb
+C:\iliyan\proggraming\task\OOP-c#\AppStore\AppStore\obj\Debug\net8.0\AppStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\OOP-c#\AppStore\AppStore\obj\Debug\net8.0\AppStore.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\OOP-c#\AppStore\AppStore\obj\Debug\net8.0\AppStore.AssemblyInfo.cs
+C:\iliyan\proggraming\task\OOP-c#\AppStore\AppStore\obj\Debug\net8.0\AppStore.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\OOP-c#\AppStore\AppStore\obj\Debug\net8.0\AppStore.sourcelink.json
+C:\iliyan\proggraming\task\OOP-c#\AppStore\AppStore\obj\Debug\net8.0\AppStore.dll
+C:\iliyan\proggraming\task\OOP-c#\AppStore\AppStore\obj\Debug\net8.0\refint\AppStore.dll
+C:\iliyan\proggraming\task\OOP-c#\AppStore\AppStore\obj\Debug\net8.0\AppStore.pdb
+C:\iliyan\proggraming\task\OOP-c#\AppStore\AppStore\obj\Debug\net8.0\AppStore.genruntimeconfig.cache
+C:\iliyan\proggraming\task\OOP-c#\AppStore\AppStore\obj\Debug\net8.0\ref\AppStore.dll
