@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\iliyan\\proggraming\\task\\OOP-c#\\To-do list\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78A080A8-D826-460A-980F-FF301EF96ADC}|To-do list\\To-do list.csproj|c:\\iliyan\\proggraming\\task\\oop-c#\\to-do list\\to-do list\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A080A8-D826-460A-980F-FF301EF96ADC}|To-do list\\To-do list.csproj|solutionrelative:to-do list\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A080A8-D826-460A-980F-FF301EF96ADC}|To-do list\\To-do list.csproj|c:\\iliyan\\proggraming\\task\\oop-c#\\to-do list\\to-do list\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A080A8-D826-460A-980F-FF301EF96ADC}|To-do list\\To-do list.csproj|solutionrelative:to-do list\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A080A8-D826-460A-980F-FF301EF96ADC}|To-do list\\To-do list.csproj|c:\\iliyan\\proggraming\\task\\oop-c#\\to-do list\\to-do list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A080A8-D826-460A-980F-FF301EF96ADC}|To-do list\\To-do list.csproj|solutionrelative:to-do list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToDoList.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\OOP-c#\\To-do list\\To-do list\\ToDoList.cs",
+              "RelativeDocumentMoniker": "To-do list\\ToDoList.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\OOP-c#\\To-do list\\To-do list\\ToDoList.cs",
+              "RelativeToolTip": "To-do list\\ToDoList.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T20:43:20.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\OOP-c#\\To-do list\\To-do list\\TaskItem.cs",
+              "RelativeDocumentMoniker": "To-do list\\TaskItem.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\OOP-c#\\To-do list\\To-do list\\TaskItem.cs",
+              "RelativeToolTip": "To-do list\\TaskItem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T22:02:15.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\OOP-c#\\To-do list\\To-do list\\Program.cs",
+              "RelativeDocumentMoniker": "To-do list\\Program.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\OOP-c#\\To-do list\\To-do list\\Program.cs",
+              "RelativeToolTip": "To-do list\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T22:01:57.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
