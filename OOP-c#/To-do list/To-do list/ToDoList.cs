@@ -16,7 +16,7 @@ namespace To_do_list
 
         public void AddTask(TaskItem task)
         {
-            Tasks.Add(task); // Добавяне на TaskItem вместо грешния new Task()
+            Tasks.Add(task); 
         }
 
         public void RemoveTask(string title)
