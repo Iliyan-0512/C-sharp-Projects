@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\OOP-c#\LinqExs\LinqExs\bin\Debug\net8.0\LinqExs.exe
+C:\iliyan\proggraming\task\OOP-c#\LinqExs\LinqExs\bin\Debug\net8.0\LinqExs.deps.json
+C:\iliyan\proggraming\task\OOP-c#\LinqExs\LinqExs\bin\Debug\net8.0\LinqExs.runtimeconfig.json
+C:\iliyan\proggraming\task\OOP-c#\LinqExs\LinqExs\bin\Debug\net8.0\LinqExs.dll
+C:\iliyan\proggraming\task\OOP-c#\LinqExs\LinqExs\bin\Debug\net8.0\LinqExs.pdb
+C:\iliyan\proggraming\task\OOP-c#\LinqExs\LinqExs\obj\Debug\net8.0\LinqExs.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\OOP-c#\LinqExs\LinqExs\obj\Debug\net8.0\LinqExs.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\OOP-c#\LinqExs\LinqExs\obj\Debug\net8.0\LinqExs.AssemblyInfo.cs
+C:\iliyan\proggraming\task\OOP-c#\LinqExs\LinqExs\obj\Debug\net8.0\LinqExs.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\OOP-c#\LinqExs\LinqExs\obj\Debug\net8.0\LinqExs.sourcelink.json
+C:\iliyan\proggraming\task\OOP-c#\LinqExs\LinqExs\obj\Debug\net8.0\LinqExs.dll
+C:\iliyan\proggraming\task\OOP-c#\LinqExs\LinqExs\obj\Debug\net8.0\refint\LinqExs.dll
+C:\iliyan\proggraming\task\OOP-c#\LinqExs\LinqExs\obj\Debug\net8.0\LinqExs.pdb
+C:\iliyan\proggraming\task\OOP-c#\LinqExs\LinqExs\obj\Debug\net8.0\LinqExs.genruntimeconfig.cache
+C:\iliyan\proggraming\task\OOP-c#\LinqExs\LinqExs\obj\Debug\net8.0\ref\LinqExs.dll
