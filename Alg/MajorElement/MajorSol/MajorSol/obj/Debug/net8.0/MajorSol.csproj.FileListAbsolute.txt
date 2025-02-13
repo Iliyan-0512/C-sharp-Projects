@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\Alg\MajorElement\MajorSol\MajorSol\obj\Debug\net8.0\MajorSol.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\Alg\MajorElement\MajorSol\MajorSol\obj\Debug\net8.0\MajorSol.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\Alg\MajorElement\MajorSol\MajorSol\obj\Debug\net8.0\MajorSol.AssemblyInfo.cs
+C:\iliyan\proggraming\task\Alg\MajorElement\MajorSol\MajorSol\obj\Debug\net8.0\MajorSol.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\Alg\MajorElement\MajorSol\MajorSol\obj\Debug\net8.0\MajorSol.sourcelink.json
+C:\iliyan\proggraming\task\Alg\MajorElement\MajorSol\MajorSol\bin\Debug\net8.0\MajorSol.exe
+C:\iliyan\proggraming\task\Alg\MajorElement\MajorSol\MajorSol\bin\Debug\net8.0\MajorSol.deps.json
+C:\iliyan\proggraming\task\Alg\MajorElement\MajorSol\MajorSol\bin\Debug\net8.0\MajorSol.runtimeconfig.json
+C:\iliyan\proggraming\task\Alg\MajorElement\MajorSol\MajorSol\bin\Debug\net8.0\MajorSol.dll
+C:\iliyan\proggraming\task\Alg\MajorElement\MajorSol\MajorSol\bin\Debug\net8.0\MajorSol.pdb
+C:\iliyan\proggraming\task\Alg\MajorElement\MajorSol\MajorSol\obj\Debug\net8.0\MajorSol.dll
+C:\iliyan\proggraming\task\Alg\MajorElement\MajorSol\MajorSol\obj\Debug\net8.0\refint\MajorSol.dll
+C:\iliyan\proggraming\task\Alg\MajorElement\MajorSol\MajorSol\obj\Debug\net8.0\MajorSol.pdb
+C:\iliyan\proggraming\task\Alg\MajorElement\MajorSol\MajorSol\obj\Debug\net8.0\MajorSol.genruntimeconfig.cache
+C:\iliyan\proggraming\task\Alg\MajorElement\MajorSol\MajorSol\obj\Debug\net8.0\ref\MajorSol.dll
