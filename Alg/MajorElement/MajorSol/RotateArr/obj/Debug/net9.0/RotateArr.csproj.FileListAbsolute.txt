@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\Alg\MajorElement\MajorSol\RotateArr\bin\Debug\net9.0\RotateArr.exe
+C:\iliyan\proggraming\task\Alg\MajorElement\MajorSol\RotateArr\bin\Debug\net9.0\RotateArr.deps.json
+C:\iliyan\proggraming\task\Alg\MajorElement\MajorSol\RotateArr\bin\Debug\net9.0\RotateArr.runtimeconfig.json
+C:\iliyan\proggraming\task\Alg\MajorElement\MajorSol\RotateArr\bin\Debug\net9.0\RotateArr.dll
+C:\iliyan\proggraming\task\Alg\MajorElement\MajorSol\RotateArr\bin\Debug\net9.0\RotateArr.pdb
+C:\iliyan\proggraming\task\Alg\MajorElement\MajorSol\RotateArr\obj\Debug\net9.0\RotateArr.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\Alg\MajorElement\MajorSol\RotateArr\obj\Debug\net9.0\RotateArr.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\Alg\MajorElement\MajorSol\RotateArr\obj\Debug\net9.0\RotateArr.AssemblyInfo.cs
+C:\iliyan\proggraming\task\Alg\MajorElement\MajorSol\RotateArr\obj\Debug\net9.0\RotateArr.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\Alg\MajorElement\MajorSol\RotateArr\obj\Debug\net9.0\RotateArr.sourcelink.json
+C:\iliyan\proggraming\task\Alg\MajorElement\MajorSol\RotateArr\obj\Debug\net9.0\RotateArr.dll
+C:\iliyan\proggraming\task\Alg\MajorElement\MajorSol\RotateArr\obj\Debug\net9.0\refint\RotateArr.dll
+C:\iliyan\proggraming\task\Alg\MajorElement\MajorSol\RotateArr\obj\Debug\net9.0\RotateArr.pdb
+C:\iliyan\proggraming\task\Alg\MajorElement\MajorSol\RotateArr\obj\Debug\net9.0\RotateArr.genruntimeconfig.cache
+C:\iliyan\proggraming\task\Alg\MajorElement\MajorSol\RotateArr\obj\Debug\net9.0\ref\RotateArr.dll
