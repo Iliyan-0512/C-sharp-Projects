@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\RandomNumber\RandomNumber\bin\Debug\net9.0\RandomNumber.exe
+C:\iliyan\proggraming\task\RandomNumber\RandomNumber\bin\Debug\net9.0\RandomNumber.deps.json
+C:\iliyan\proggraming\task\RandomNumber\RandomNumber\bin\Debug\net9.0\RandomNumber.runtimeconfig.json
+C:\iliyan\proggraming\task\RandomNumber\RandomNumber\bin\Debug\net9.0\RandomNumber.dll
+C:\iliyan\proggraming\task\RandomNumber\RandomNumber\bin\Debug\net9.0\RandomNumber.pdb
+C:\iliyan\proggraming\task\RandomNumber\RandomNumber\obj\Debug\net9.0\RandomNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\RandomNumber\RandomNumber\obj\Debug\net9.0\RandomNumber.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\RandomNumber\RandomNumber\obj\Debug\net9.0\RandomNumber.AssemblyInfo.cs
+C:\iliyan\proggraming\task\RandomNumber\RandomNumber\obj\Debug\net9.0\RandomNumber.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\RandomNumber\RandomNumber\obj\Debug\net9.0\RandomNumber.sourcelink.json
+C:\iliyan\proggraming\task\RandomNumber\RandomNumber\obj\Debug\net9.0\RandomNumber.dll
+C:\iliyan\proggraming\task\RandomNumber\RandomNumber\obj\Debug\net9.0\refint\RandomNumber.dll
+C:\iliyan\proggraming\task\RandomNumber\RandomNumber\obj\Debug\net9.0\RandomNumber.pdb
+C:\iliyan\proggraming\task\RandomNumber\RandomNumber\obj\Debug\net9.0\RandomNumber.genruntimeconfig.cache
+C:\iliyan\proggraming\task\RandomNumber\RandomNumber\obj\Debug\net9.0\ref\RandomNumber.dll
