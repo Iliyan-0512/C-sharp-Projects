@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\out_parameters\out_parameters\bin\Debug\net9.0\out_parameters.exe
+C:\iliyan\proggraming\task\out_parameters\out_parameters\bin\Debug\net9.0\out_parameters.deps.json
+C:\iliyan\proggraming\task\out_parameters\out_parameters\bin\Debug\net9.0\out_parameters.runtimeconfig.json
+C:\iliyan\proggraming\task\out_parameters\out_parameters\bin\Debug\net9.0\out_parameters.dll
+C:\iliyan\proggraming\task\out_parameters\out_parameters\bin\Debug\net9.0\out_parameters.pdb
+C:\iliyan\proggraming\task\out_parameters\out_parameters\obj\Debug\net9.0\out_parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\out_parameters\out_parameters\obj\Debug\net9.0\out_parameters.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\out_parameters\out_parameters\obj\Debug\net9.0\out_parameters.AssemblyInfo.cs
+C:\iliyan\proggraming\task\out_parameters\out_parameters\obj\Debug\net9.0\out_parameters.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\out_parameters\out_parameters\obj\Debug\net9.0\out_parameters.sourcelink.json
+C:\iliyan\proggraming\task\out_parameters\out_parameters\obj\Debug\net9.0\out_parameters.dll
+C:\iliyan\proggraming\task\out_parameters\out_parameters\obj\Debug\net9.0\refint\out_parameters.dll
+C:\iliyan\proggraming\task\out_parameters\out_parameters\obj\Debug\net9.0\out_parameters.pdb
+C:\iliyan\proggraming\task\out_parameters\out_parameters\obj\Debug\net9.0\out_parameters.genruntimeconfig.cache
+C:\iliyan\proggraming\task\out_parameters\out_parameters\obj\Debug\net9.0\ref\out_parameters.dll
