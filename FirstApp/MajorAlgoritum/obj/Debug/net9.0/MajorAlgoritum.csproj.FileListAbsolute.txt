@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\FirstApp\MajorAlgoritum\bin\Debug\net9.0\MajorAlgoritum.exe
+C:\iliyan\proggraming\task\FirstApp\MajorAlgoritum\bin\Debug\net9.0\MajorAlgoritum.deps.json
+C:\iliyan\proggraming\task\FirstApp\MajorAlgoritum\bin\Debug\net9.0\MajorAlgoritum.runtimeconfig.json
+C:\iliyan\proggraming\task\FirstApp\MajorAlgoritum\bin\Debug\net9.0\MajorAlgoritum.dll
+C:\iliyan\proggraming\task\FirstApp\MajorAlgoritum\bin\Debug\net9.0\MajorAlgoritum.pdb
+C:\iliyan\proggraming\task\FirstApp\MajorAlgoritum\obj\Debug\net9.0\MajorAlgoritum.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\FirstApp\MajorAlgoritum\obj\Debug\net9.0\MajorAlgoritum.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\FirstApp\MajorAlgoritum\obj\Debug\net9.0\MajorAlgoritum.AssemblyInfo.cs
+C:\iliyan\proggraming\task\FirstApp\MajorAlgoritum\obj\Debug\net9.0\MajorAlgoritum.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\FirstApp\MajorAlgoritum\obj\Debug\net9.0\MajorAlgoritum.sourcelink.json
+C:\iliyan\proggraming\task\FirstApp\MajorAlgoritum\obj\Debug\net9.0\MajorAlgoritum.dll
+C:\iliyan\proggraming\task\FirstApp\MajorAlgoritum\obj\Debug\net9.0\refint\MajorAlgoritum.dll
+C:\iliyan\proggraming\task\FirstApp\MajorAlgoritum\obj\Debug\net9.0\MajorAlgoritum.pdb
+C:\iliyan\proggraming\task\FirstApp\MajorAlgoritum\obj\Debug\net9.0\MajorAlgoritum.genruntimeconfig.cache
+C:\iliyan\proggraming\task\FirstApp\MajorAlgoritum\obj\Debug\net9.0\ref\MajorAlgoritum.dll
