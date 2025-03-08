@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\FirstApp\EditCode\bin\Debug\net9.0\EditCode.exe
+C:\iliyan\proggraming\task\FirstApp\EditCode\bin\Debug\net9.0\EditCode.deps.json
+C:\iliyan\proggraming\task\FirstApp\EditCode\bin\Debug\net9.0\EditCode.runtimeconfig.json
+C:\iliyan\proggraming\task\FirstApp\EditCode\bin\Debug\net9.0\EditCode.dll
+C:\iliyan\proggraming\task\FirstApp\EditCode\bin\Debug\net9.0\EditCode.pdb
+C:\iliyan\proggraming\task\FirstApp\EditCode\obj\Debug\net9.0\EditCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\FirstApp\EditCode\obj\Debug\net9.0\EditCode.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\FirstApp\EditCode\obj\Debug\net9.0\EditCode.AssemblyInfo.cs
+C:\iliyan\proggraming\task\FirstApp\EditCode\obj\Debug\net9.0\EditCode.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\FirstApp\EditCode\obj\Debug\net9.0\EditCode.sourcelink.json
+C:\iliyan\proggraming\task\FirstApp\EditCode\obj\Debug\net9.0\EditCode.dll
+C:\iliyan\proggraming\task\FirstApp\EditCode\obj\Debug\net9.0\refint\EditCode.dll
+C:\iliyan\proggraming\task\FirstApp\EditCode\obj\Debug\net9.0\EditCode.pdb
+C:\iliyan\proggraming\task\FirstApp\EditCode\obj\Debug\net9.0\EditCode.genruntimeconfig.cache
+C:\iliyan\proggraming\task\FirstApp\EditCode\obj\Debug\net9.0\ref\EditCode.dll
