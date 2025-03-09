@@ -1,0 +1,17 @@
+C:\iliyan\proggraming\task\Shapes\Shapes\bin\Debug\net9.0-windows\Shapes.exe
+C:\iliyan\proggraming\task\Shapes\Shapes\bin\Debug\net9.0-windows\Shapes.deps.json
+C:\iliyan\proggraming\task\Shapes\Shapes\bin\Debug\net9.0-windows\Shapes.runtimeconfig.json
+C:\iliyan\proggraming\task\Shapes\Shapes\bin\Debug\net9.0-windows\Shapes.dll
+C:\iliyan\proggraming\task\Shapes\Shapes\bin\Debug\net9.0-windows\Shapes.pdb
+C:\iliyan\proggraming\task\Shapes\Shapes\obj\Debug\net9.0-windows\Shapes.Form1.resources
+C:\iliyan\proggraming\task\Shapes\Shapes\obj\Debug\net9.0-windows\Shapes.csproj.GenerateResource.cache
+C:\iliyan\proggraming\task\Shapes\Shapes\obj\Debug\net9.0-windows\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\Shapes\Shapes\obj\Debug\net9.0-windows\Shapes.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\Shapes\Shapes\obj\Debug\net9.0-windows\Shapes.AssemblyInfo.cs
+C:\iliyan\proggraming\task\Shapes\Shapes\obj\Debug\net9.0-windows\Shapes.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\Shapes\Shapes\obj\Debug\net9.0-windows\Shapes.sourcelink.json
+C:\iliyan\proggraming\task\Shapes\Shapes\obj\Debug\net9.0-windows\Shapes.dll
+C:\iliyan\proggraming\task\Shapes\Shapes\obj\Debug\net9.0-windows\refint\Shapes.dll
+C:\iliyan\proggraming\task\Shapes\Shapes\obj\Debug\net9.0-windows\Shapes.pdb
+C:\iliyan\proggraming\task\Shapes\Shapes\obj\Debug\net9.0-windows\Shapes.genruntimeconfig.cache
+C:\iliyan\proggraming\task\Shapes\Shapes\obj\Debug\net9.0-windows\ref\Shapes.dll
