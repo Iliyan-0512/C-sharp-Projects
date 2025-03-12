@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\ENumrable\ENumrable\bin\Debug\net9.0\ENumrable.exe
+C:\iliyan\proggraming\task\ENumrable\ENumrable\bin\Debug\net9.0\ENumrable.deps.json
+C:\iliyan\proggraming\task\ENumrable\ENumrable\bin\Debug\net9.0\ENumrable.runtimeconfig.json
+C:\iliyan\proggraming\task\ENumrable\ENumrable\bin\Debug\net9.0\ENumrable.dll
+C:\iliyan\proggraming\task\ENumrable\ENumrable\bin\Debug\net9.0\ENumrable.pdb
+C:\iliyan\proggraming\task\ENumrable\ENumrable\obj\Debug\net9.0\ENumrable.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\ENumrable\ENumrable\obj\Debug\net9.0\ENumrable.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\ENumrable\ENumrable\obj\Debug\net9.0\ENumrable.AssemblyInfo.cs
+C:\iliyan\proggraming\task\ENumrable\ENumrable\obj\Debug\net9.0\ENumrable.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\ENumrable\ENumrable\obj\Debug\net9.0\ENumrable.sourcelink.json
+C:\iliyan\proggraming\task\ENumrable\ENumrable\obj\Debug\net9.0\ENumrable.dll
+C:\iliyan\proggraming\task\ENumrable\ENumrable\obj\Debug\net9.0\refint\ENumrable.dll
+C:\iliyan\proggraming\task\ENumrable\ENumrable\obj\Debug\net9.0\ENumrable.pdb
+C:\iliyan\proggraming\task\ENumrable\ENumrable\obj\Debug\net9.0\ENumrable.genruntimeconfig.cache
+C:\iliyan\proggraming\task\ENumrable\ENumrable\obj\Debug\net9.0\ref\ENumrable.dll

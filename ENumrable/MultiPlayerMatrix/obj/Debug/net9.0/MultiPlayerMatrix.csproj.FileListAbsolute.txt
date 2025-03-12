@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\ENumrable\MultiPlayerMatrix\bin\Debug\net9.0\MultiPlayerMatrix.exe
+C:\iliyan\proggraming\task\ENumrable\MultiPlayerMatrix\bin\Debug\net9.0\MultiPlayerMatrix.deps.json
+C:\iliyan\proggraming\task\ENumrable\MultiPlayerMatrix\bin\Debug\net9.0\MultiPlayerMatrix.runtimeconfig.json
+C:\iliyan\proggraming\task\ENumrable\MultiPlayerMatrix\bin\Debug\net9.0\MultiPlayerMatrix.dll
+C:\iliyan\proggraming\task\ENumrable\MultiPlayerMatrix\bin\Debug\net9.0\MultiPlayerMatrix.pdb
+C:\iliyan\proggraming\task\ENumrable\MultiPlayerMatrix\obj\Debug\net9.0\MultiPlayerMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\ENumrable\MultiPlayerMatrix\obj\Debug\net9.0\MultiPlayerMatrix.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\ENumrable\MultiPlayerMatrix\obj\Debug\net9.0\MultiPlayerMatrix.AssemblyInfo.cs
+C:\iliyan\proggraming\task\ENumrable\MultiPlayerMatrix\obj\Debug\net9.0\MultiPlayerMatrix.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\ENumrable\MultiPlayerMatrix\obj\Debug\net9.0\MultiPlayerMatrix.sourcelink.json
+C:\iliyan\proggraming\task\ENumrable\MultiPlayerMatrix\obj\Debug\net9.0\MultiPlayerMatrix.dll
+C:\iliyan\proggraming\task\ENumrable\MultiPlayerMatrix\obj\Debug\net9.0\refint\MultiPlayerMatrix.dll
+C:\iliyan\proggraming\task\ENumrable\MultiPlayerMatrix\obj\Debug\net9.0\MultiPlayerMatrix.pdb
+C:\iliyan\proggraming\task\ENumrable\MultiPlayerMatrix\obj\Debug\net9.0\MultiPlayerMatrix.genruntimeconfig.cache
+C:\iliyan\proggraming\task\ENumrable\MultiPlayerMatrix\obj\Debug\net9.0\ref\MultiPlayerMatrix.dll
