@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\SWU\task_3_27\task_3_27\bin\Debug\net9.0\task_3_27.exe
+C:\iliyan\proggraming\task\SWU\task_3_27\task_3_27\bin\Debug\net9.0\task_3_27.deps.json
+C:\iliyan\proggraming\task\SWU\task_3_27\task_3_27\bin\Debug\net9.0\task_3_27.runtimeconfig.json
+C:\iliyan\proggraming\task\SWU\task_3_27\task_3_27\bin\Debug\net9.0\task_3_27.dll
+C:\iliyan\proggraming\task\SWU\task_3_27\task_3_27\bin\Debug\net9.0\task_3_27.pdb
+C:\iliyan\proggraming\task\SWU\task_3_27\task_3_27\obj\Debug\net9.0\task_3_27.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\SWU\task_3_27\task_3_27\obj\Debug\net9.0\task_3_27.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\SWU\task_3_27\task_3_27\obj\Debug\net9.0\task_3_27.AssemblyInfo.cs
+C:\iliyan\proggraming\task\SWU\task_3_27\task_3_27\obj\Debug\net9.0\task_3_27.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\SWU\task_3_27\task_3_27\obj\Debug\net9.0\task_3_27.sourcelink.json
+C:\iliyan\proggraming\task\SWU\task_3_27\task_3_27\obj\Debug\net9.0\task_3_27.dll
+C:\iliyan\proggraming\task\SWU\task_3_27\task_3_27\obj\Debug\net9.0\refint\task_3_27.dll
+C:\iliyan\proggraming\task\SWU\task_3_27\task_3_27\obj\Debug\net9.0\task_3_27.pdb
+C:\iliyan\proggraming\task\SWU\task_3_27\task_3_27\obj\Debug\net9.0\task_3_27.genruntimeconfig.cache
+C:\iliyan\proggraming\task\SWU\task_3_27\task_3_27\obj\Debug\net9.0\ref\task_3_27.dll
