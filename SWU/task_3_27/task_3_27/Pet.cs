@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace task_3_27
 {
-    internal class Pet
+    internal class Pet: IComparable<Pet>
     {
         public string Name { get; set; }
         public int Age { get; set; }
@@ -17,6 +17,10 @@ namespace task_3_27
             Name = name;
             Age = age;
             Type = type;
+        }
+        public int CompareTo(Pet other)
+        {
+            return this.Age.CompareTo(other.Age);
         }
         public override string ToString()
         {

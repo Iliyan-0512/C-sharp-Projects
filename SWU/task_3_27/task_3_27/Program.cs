@@ -26,11 +26,19 @@ internal class Program
         Pet snake = new Pet(nameSnake, ageS, typeS);
         pets.Add(snake);
 
-        pets.OrderBy(pets => pets.Age).ToList();
-        foreach (Pet item in pets)
+        //pets=pets.OrderBy(pets => pets.Age).ToList();
+        //foreach (Pet item in pets)
+        //{
+        //    Console.WriteLine(item.ToString());
+        //}
+
+        pets.Sort();
+        foreach (Pet pet in pets)
         {
-            Console.WriteLine(item.ToString());
+            Console.WriteLine(pet.ToString());
         }
+
+
 
 
     }
