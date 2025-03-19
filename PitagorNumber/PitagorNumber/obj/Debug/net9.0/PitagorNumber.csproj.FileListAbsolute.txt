@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\PitagorNumber\PitagorNumber\bin\Debug\net9.0\PitagorNumber.exe
+C:\iliyan\proggraming\task\PitagorNumber\PitagorNumber\bin\Debug\net9.0\PitagorNumber.deps.json
+C:\iliyan\proggraming\task\PitagorNumber\PitagorNumber\bin\Debug\net9.0\PitagorNumber.runtimeconfig.json
+C:\iliyan\proggraming\task\PitagorNumber\PitagorNumber\bin\Debug\net9.0\PitagorNumber.dll
+C:\iliyan\proggraming\task\PitagorNumber\PitagorNumber\bin\Debug\net9.0\PitagorNumber.pdb
+C:\iliyan\proggraming\task\PitagorNumber\PitagorNumber\obj\Debug\net9.0\PitagorNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\PitagorNumber\PitagorNumber\obj\Debug\net9.0\PitagorNumber.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\PitagorNumber\PitagorNumber\obj\Debug\net9.0\PitagorNumber.AssemblyInfo.cs
+C:\iliyan\proggraming\task\PitagorNumber\PitagorNumber\obj\Debug\net9.0\PitagorNumber.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\PitagorNumber\PitagorNumber\obj\Debug\net9.0\PitagorNumber.sourcelink.json
+C:\iliyan\proggraming\task\PitagorNumber\PitagorNumber\obj\Debug\net9.0\PitagorNumber.dll
+C:\iliyan\proggraming\task\PitagorNumber\PitagorNumber\obj\Debug\net9.0\refint\PitagorNumber.dll
+C:\iliyan\proggraming\task\PitagorNumber\PitagorNumber\obj\Debug\net9.0\PitagorNumber.pdb
+C:\iliyan\proggraming\task\PitagorNumber\PitagorNumber\obj\Debug\net9.0\PitagorNumber.genruntimeconfig.cache
+C:\iliyan\proggraming\task\PitagorNumber\PitagorNumber\obj\Debug\net9.0\ref\PitagorNumber.dll

@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\PitagorNumber\Bankomat\bin\Debug\net9.0\Bankomat.exe
+C:\iliyan\proggraming\task\PitagorNumber\Bankomat\bin\Debug\net9.0\Bankomat.deps.json
+C:\iliyan\proggraming\task\PitagorNumber\Bankomat\bin\Debug\net9.0\Bankomat.runtimeconfig.json
+C:\iliyan\proggraming\task\PitagorNumber\Bankomat\bin\Debug\net9.0\Bankomat.dll
+C:\iliyan\proggraming\task\PitagorNumber\Bankomat\bin\Debug\net9.0\Bankomat.pdb
+C:\iliyan\proggraming\task\PitagorNumber\Bankomat\obj\Debug\net9.0\Bankomat.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\PitagorNumber\Bankomat\obj\Debug\net9.0\Bankomat.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\PitagorNumber\Bankomat\obj\Debug\net9.0\Bankomat.AssemblyInfo.cs
+C:\iliyan\proggraming\task\PitagorNumber\Bankomat\obj\Debug\net9.0\Bankomat.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\PitagorNumber\Bankomat\obj\Debug\net9.0\Bankomat.sourcelink.json
+C:\iliyan\proggraming\task\PitagorNumber\Bankomat\obj\Debug\net9.0\Bankomat.dll
+C:\iliyan\proggraming\task\PitagorNumber\Bankomat\obj\Debug\net9.0\refint\Bankomat.dll
+C:\iliyan\proggraming\task\PitagorNumber\Bankomat\obj\Debug\net9.0\Bankomat.pdb
+C:\iliyan\proggraming\task\PitagorNumber\Bankomat\obj\Debug\net9.0\Bankomat.genruntimeconfig.cache
+C:\iliyan\proggraming\task\PitagorNumber\Bankomat\obj\Debug\net9.0\ref\Bankomat.dll
