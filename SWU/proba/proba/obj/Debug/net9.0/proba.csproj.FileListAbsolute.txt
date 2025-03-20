@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\SWU\proba\proba\obj\Debug\net9.0\proba.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\SWU\proba\proba\obj\Debug\net9.0\proba.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\SWU\proba\proba\obj\Debug\net9.0\proba.AssemblyInfo.cs
+C:\iliyan\proggraming\task\SWU\proba\proba\obj\Debug\net9.0\proba.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\SWU\proba\proba\obj\Debug\net9.0\proba.sourcelink.json
+C:\iliyan\proggraming\task\SWU\proba\proba\bin\Debug\net9.0\proba.exe
+C:\iliyan\proggraming\task\SWU\proba\proba\bin\Debug\net9.0\proba.deps.json
+C:\iliyan\proggraming\task\SWU\proba\proba\bin\Debug\net9.0\proba.runtimeconfig.json
+C:\iliyan\proggraming\task\SWU\proba\proba\bin\Debug\net9.0\proba.dll
+C:\iliyan\proggraming\task\SWU\proba\proba\bin\Debug\net9.0\proba.pdb
+C:\iliyan\proggraming\task\SWU\proba\proba\obj\Debug\net9.0\proba.dll
+C:\iliyan\proggraming\task\SWU\proba\proba\obj\Debug\net9.0\refint\proba.dll
+C:\iliyan\proggraming\task\SWU\proba\proba\obj\Debug\net9.0\proba.pdb
+C:\iliyan\proggraming\task\SWU\proba\proba\obj\Debug\net9.0\proba.genruntimeconfig.cache
+C:\iliyan\proggraming\task\SWU\proba\proba\obj\Debug\net9.0\ref\proba.dll

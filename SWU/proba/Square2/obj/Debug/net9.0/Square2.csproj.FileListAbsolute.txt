@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\SWU\proba\Square2\bin\Debug\net9.0\Square2.exe
+C:\iliyan\proggraming\task\SWU\proba\Square2\bin\Debug\net9.0\Square2.deps.json
+C:\iliyan\proggraming\task\SWU\proba\Square2\bin\Debug\net9.0\Square2.runtimeconfig.json
+C:\iliyan\proggraming\task\SWU\proba\Square2\bin\Debug\net9.0\Square2.dll
+C:\iliyan\proggraming\task\SWU\proba\Square2\bin\Debug\net9.0\Square2.pdb
+C:\iliyan\proggraming\task\SWU\proba\Square2\obj\Debug\net9.0\Square2.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\SWU\proba\Square2\obj\Debug\net9.0\Square2.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\SWU\proba\Square2\obj\Debug\net9.0\Square2.AssemblyInfo.cs
+C:\iliyan\proggraming\task\SWU\proba\Square2\obj\Debug\net9.0\Square2.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\SWU\proba\Square2\obj\Debug\net9.0\Square2.sourcelink.json
+C:\iliyan\proggraming\task\SWU\proba\Square2\obj\Debug\net9.0\Square2.dll
+C:\iliyan\proggraming\task\SWU\proba\Square2\obj\Debug\net9.0\refint\Square2.dll
+C:\iliyan\proggraming\task\SWU\proba\Square2\obj\Debug\net9.0\Square2.pdb
+C:\iliyan\proggraming\task\SWU\proba\Square2\obj\Debug\net9.0\Square2.genruntimeconfig.cache
+C:\iliyan\proggraming\task\SWU\proba\Square2\obj\Debug\net9.0\ref\Square2.dll

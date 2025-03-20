@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\iliyan\\proggraming\\task\\SWU\\proba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB373ACE-19B6-4420-8102-31D637275D36}|Square2\\Square2.csproj|c:\\iliyan\\proggraming\\task\\swu\\proba\\square2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB373ACE-19B6-4420-8102-31D637275D36}|Square2\\Square2.csproj|solutionrelative:square2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1B299D-AE32-4A61-B9FE-1752340414D9}|proba\\proba.csproj|c:\\iliyan\\proggraming\\task\\swu\\proba\\proba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1B299D-AE32-4A61-B9FE-1752340414D9}|proba\\proba.csproj|solutionrelative:proba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\proba\\Square2\\Program.cs",
+              "RelativeDocumentMoniker": "Square2\\Program.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\proba\\Square2\\Program.cs",
+              "RelativeToolTip": "Square2\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T12:09:12.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\proba\\proba\\Program.cs",
+              "RelativeDocumentMoniker": "proba\\Program.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\proba\\proba\\Program.cs",
+              "RelativeToolTip": "proba\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:43:31.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
