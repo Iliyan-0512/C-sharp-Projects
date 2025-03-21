@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\Matrix\Matrix\bin\Debug\net9.0\Matrix.exe
+C:\iliyan\proggraming\task\Matrix\Matrix\bin\Debug\net9.0\Matrix.deps.json
+C:\iliyan\proggraming\task\Matrix\Matrix\bin\Debug\net9.0\Matrix.runtimeconfig.json
+C:\iliyan\proggraming\task\Matrix\Matrix\bin\Debug\net9.0\Matrix.dll
+C:\iliyan\proggraming\task\Matrix\Matrix\bin\Debug\net9.0\Matrix.pdb
+C:\iliyan\proggraming\task\Matrix\Matrix\obj\Debug\net9.0\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\Matrix\Matrix\obj\Debug\net9.0\Matrix.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\Matrix\Matrix\obj\Debug\net9.0\Matrix.AssemblyInfo.cs
+C:\iliyan\proggraming\task\Matrix\Matrix\obj\Debug\net9.0\Matrix.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\Matrix\Matrix\obj\Debug\net9.0\Matrix.sourcelink.json
+C:\iliyan\proggraming\task\Matrix\Matrix\obj\Debug\net9.0\Matrix.dll
+C:\iliyan\proggraming\task\Matrix\Matrix\obj\Debug\net9.0\refint\Matrix.dll
+C:\iliyan\proggraming\task\Matrix\Matrix\obj\Debug\net9.0\Matrix.pdb
+C:\iliyan\proggraming\task\Matrix\Matrix\obj\Debug\net9.0\Matrix.genruntimeconfig.cache
+C:\iliyan\proggraming\task\Matrix\Matrix\obj\Debug\net9.0\ref\Matrix.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\iliyan\\proggraming\\task\\Matrix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF30EC2-F7FA-4389-A938-4DD85985CBED}|Matrix\\Matrix.csproj|c:\\iliyan\\proggraming\\task\\matrix\\matrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF30EC2-F7FA-4389-A938-4DD85985CBED}|Matrix\\Matrix.csproj|solutionrelative:matrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF30EC2-F7FA-4389-A938-4DD85985CBED}|Matrix\\Matrix.csproj|c:\\iliyan\\proggraming\\task\\matrix\\matrix\\matrixtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF30EC2-F7FA-4389-A938-4DD85985CBED}|Matrix\\Matrix.csproj|solutionrelative:matrix\\matrixtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 449,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MatrixTask.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Matrix\\Matrix\\MatrixTask.cs",
+              "RelativeDocumentMoniker": "Matrix\\MatrixTask.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\Matrix\\Matrix\\MatrixTask.cs",
+              "RelativeToolTip": "Matrix\\MatrixTask.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:16:04.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Matrix\\Matrix\\Program.cs",
+              "RelativeDocumentMoniker": "Matrix\\Program.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\Matrix\\Matrix\\Program.cs",
+              "RelativeToolTip": "Matrix\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T22:32:13.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
