@@ -40,20 +40,51 @@ namespace Matrix
         public int[,] MultiplayMatrix(int[,] matrixA, int[,] matrixB)
         {
             int[,] matrixC;
-            int rowsA = matrixA.GetLength(0); 
-            int colsA = matrixA.GetLength(1); 
+            int rowsA = matrixA.GetLength(0);
+            int colsA = matrixA.GetLength(1);
             int colsB = matrixB.GetLength(1);
-            matrixC=new int[rowsA, colsB];
+            matrixC = new int[rowsA, colsB];
             for (int i = 0; i < rowsA; i++)
             {
                 for (int j = 0; j < colsB; j++)
                 {
 
-                    for(int k = 0; k < colsA; k++)
+                    for (int k = 0; k < colsA; k++)
                     {
                         matrixC[i, j] += matrixA[i, k] * matrixB[k, j];
                     }
                 }
+            }
+            return matrixC;
+        }
+        public int[,] MatrixAddition(int[,] matrixA, int[,] matrixB)
+        {
+            int[,] matrixC;
+            int colsA = matrixA.GetLength(0);
+            int rowsA = matrixA.GetLength(1);
+            matrixC= new int[rowsA, colsA];
+            for (int i = 0;i < rowsA; i++)
+            {
+                for(int j = 0;j < colsA; j++)
+                {
+                    matrixC[i, j] = matrixA[i, j]+ matrixB[i,j];
+                }
+            }
+            return matrixC;
+        }
+        public int[,] SubtractionMatrix(int[,]matrixA, int[,] matrixB)
+        {
+           int[,] matrixC;
+            int rowsA = matrixA.GetLength(0);
+            int colsA = matrixA.GetLength(1);
+            matrixC = new int[rowsA, colsA];
+            for(int i = 0; i < rowsA; i++)
+            {
+                for (int j = 0; j < colsA; j++)
+                {
+                    matrixC[i, j]= matrixA[i, j]-matrixB[i,j];
+                }
+
             }
             return matrixC;
         }

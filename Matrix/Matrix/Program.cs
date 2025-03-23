@@ -20,11 +20,22 @@ namespace matrix
 
             MatrixTask matrixProp = new MatrixTask(matrixA);
             Console.WriteLine("First Matrix");
+
             matrixProp.ReadMatrix(matrixA);
+            Console.WriteLine("===============");
             Console.WriteLine("Secound Matrix");
             matrixProp.ReadMatrix(matrixB);
+            Console.WriteLine("===============");
             int[,] matrixC = matrixProp.MultiplayMatrix(matrixA, matrixB);
             matrixProp.Print(matrixC);
+            Console.WriteLine("===============");
+
+            matrixC=matrixProp.MatrixAddition(matrixA, matrixB);
+            matrixProp.Print(matrixC);
+            Console.WriteLine("===============");
+            matrixC = matrixProp.SubtractionMatrix(matrixA, matrixB);
+            matrixProp.Print(matrixC);
+
         }
     }
 }
