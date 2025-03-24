@@ -42,11 +42,11 @@ namespace Matrix
             int[,] matrixC;
             int rowsA = matrixA.GetLength(0);
             int colsA = matrixA.GetLength(1);
-            int colsB = matrixB.GetLength(1);
-            matrixC = new int[rowsA, colsB];
+           
+            matrixC = new int[rowsA, colsA];
             for (int i = 0; i < rowsA; i++)
             {
-                for (int j = 0; j < colsB; j++)
+                for (int j = 0; j < colsA; j++)
                 {
 
                     for (int k = 0; k < colsA; k++)
