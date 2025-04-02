@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\iliyan\\proggraming\\task\\SWU\\BusinessTrip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A375CE7-1306-49F8-9242-1A9F77BF8641}|BusinessTrip\\BusinessTrip.csproj|c:\\iliyan\\proggraming\\task\\swu\\businesstrip\\businesstrip\\businesstrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A375CE7-1306-49F8-9242-1A9F77BF8641}|BusinessTrip\\BusinessTrip.csproj|solutionrelative:businesstrip\\businesstrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A375CE7-1306-49F8-9242-1A9F77BF8641}|BusinessTrip\\BusinessTrip.csproj|c:\\iliyan\\proggraming\\task\\swu\\businesstrip\\businesstrip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A375CE7-1306-49F8-9242-1A9F77BF8641}|BusinessTrip\\BusinessTrip.csproj|solutionrelative:businesstrip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A375CE7-1306-49F8-9242-1A9F77BF8641}|BusinessTrip\\BusinessTrip.csproj|c:\\iliyan\\proggraming\\task\\swu\\businesstrip\\businesstrip\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A375CE7-1306-49F8-9242-1A9F77BF8641}|BusinessTrip\\BusinessTrip.csproj|solutionrelative:businesstrip\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 449,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\BusinessTrip\\BusinessTrip\\Person.cs",
+              "RelativeDocumentMoniker": "BusinessTrip\\Person.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\BusinessTrip\\BusinessTrip\\Person.cs",
+              "RelativeToolTip": "BusinessTrip\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T11:25:48.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BusinessTrip.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\BusinessTrip\\BusinessTrip\\BusinessTrip.cs",
+              "RelativeDocumentMoniker": "BusinessTrip\\BusinessTrip.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\BusinessTrip\\BusinessTrip\\BusinessTrip.cs",
+              "RelativeToolTip": "BusinessTrip\\BusinessTrip.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:31:26.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\BusinessTrip\\BusinessTrip\\Program.cs",
+              "RelativeDocumentMoniker": "BusinessTrip\\Program.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\BusinessTrip\\BusinessTrip\\Program.cs",
+              "RelativeToolTip": "BusinessTrip\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:30:54.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\SWU\ExsEns\ExsEns\bin\Debug\net9.0\ExsEns.exe
+C:\iliyan\proggraming\task\SWU\ExsEns\ExsEns\bin\Debug\net9.0\ExsEns.deps.json
+C:\iliyan\proggraming\task\SWU\ExsEns\ExsEns\bin\Debug\net9.0\ExsEns.runtimeconfig.json
+C:\iliyan\proggraming\task\SWU\ExsEns\ExsEns\bin\Debug\net9.0\ExsEns.dll
+C:\iliyan\proggraming\task\SWU\ExsEns\ExsEns\bin\Debug\net9.0\ExsEns.pdb
+C:\iliyan\proggraming\task\SWU\ExsEns\ExsEns\obj\Debug\net9.0\ExsEns.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\SWU\ExsEns\ExsEns\obj\Debug\net9.0\ExsEns.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\SWU\ExsEns\ExsEns\obj\Debug\net9.0\ExsEns.AssemblyInfo.cs
+C:\iliyan\proggraming\task\SWU\ExsEns\ExsEns\obj\Debug\net9.0\ExsEns.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\SWU\ExsEns\ExsEns\obj\Debug\net9.0\ExsEns.sourcelink.json
+C:\iliyan\proggraming\task\SWU\ExsEns\ExsEns\obj\Debug\net9.0\ExsEns.dll
+C:\iliyan\proggraming\task\SWU\ExsEns\ExsEns\obj\Debug\net9.0\refint\ExsEns.dll
+C:\iliyan\proggraming\task\SWU\ExsEns\ExsEns\obj\Debug\net9.0\ExsEns.pdb
+C:\iliyan\proggraming\task\SWU\ExsEns\ExsEns\obj\Debug\net9.0\ExsEns.genruntimeconfig.cache
+C:\iliyan\proggraming\task\SWU\ExsEns\ExsEns\obj\Debug\net9.0\ref\ExsEns.dll

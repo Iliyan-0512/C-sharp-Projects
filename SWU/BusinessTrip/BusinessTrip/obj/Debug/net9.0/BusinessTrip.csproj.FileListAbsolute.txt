@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\SWU\BusinessTrip\BusinessTrip\bin\Debug\net9.0\BusinessTrip.exe
+C:\iliyan\proggraming\task\SWU\BusinessTrip\BusinessTrip\bin\Debug\net9.0\BusinessTrip.deps.json
+C:\iliyan\proggraming\task\SWU\BusinessTrip\BusinessTrip\bin\Debug\net9.0\BusinessTrip.runtimeconfig.json
+C:\iliyan\proggraming\task\SWU\BusinessTrip\BusinessTrip\bin\Debug\net9.0\BusinessTrip.dll
+C:\iliyan\proggraming\task\SWU\BusinessTrip\BusinessTrip\bin\Debug\net9.0\BusinessTrip.pdb
+C:\iliyan\proggraming\task\SWU\BusinessTrip\BusinessTrip\obj\Debug\net9.0\BusinessTrip.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\SWU\BusinessTrip\BusinessTrip\obj\Debug\net9.0\BusinessTrip.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\SWU\BusinessTrip\BusinessTrip\obj\Debug\net9.0\BusinessTrip.AssemblyInfo.cs
+C:\iliyan\proggraming\task\SWU\BusinessTrip\BusinessTrip\obj\Debug\net9.0\BusinessTrip.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\SWU\BusinessTrip\BusinessTrip\obj\Debug\net9.0\BusinessTrip.sourcelink.json
+C:\iliyan\proggraming\task\SWU\BusinessTrip\BusinessTrip\obj\Debug\net9.0\BusinessTrip.dll
+C:\iliyan\proggraming\task\SWU\BusinessTrip\BusinessTrip\obj\Debug\net9.0\refint\BusinessTrip.dll
+C:\iliyan\proggraming\task\SWU\BusinessTrip\BusinessTrip\obj\Debug\net9.0\BusinessTrip.pdb
+C:\iliyan\proggraming\task\SWU\BusinessTrip\BusinessTrip\obj\Debug\net9.0\BusinessTrip.genruntimeconfig.cache
+C:\iliyan\proggraming\task\SWU\BusinessTrip\BusinessTrip\obj\Debug\net9.0\ref\BusinessTrip.dll

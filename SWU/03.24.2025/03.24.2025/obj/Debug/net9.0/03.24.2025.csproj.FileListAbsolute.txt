@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\SWU\03.24.2025\03.24.2025\bin\Debug\net9.0\03.24.2025.exe
+C:\iliyan\proggraming\task\SWU\03.24.2025\03.24.2025\bin\Debug\net9.0\03.24.2025.deps.json
+C:\iliyan\proggraming\task\SWU\03.24.2025\03.24.2025\bin\Debug\net9.0\03.24.2025.runtimeconfig.json
+C:\iliyan\proggraming\task\SWU\03.24.2025\03.24.2025\bin\Debug\net9.0\03.24.2025.dll
+C:\iliyan\proggraming\task\SWU\03.24.2025\03.24.2025\bin\Debug\net9.0\03.24.2025.pdb
+C:\iliyan\proggraming\task\SWU\03.24.2025\03.24.2025\obj\Debug\net9.0\03.24.2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\SWU\03.24.2025\03.24.2025\obj\Debug\net9.0\03.24.2025.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\SWU\03.24.2025\03.24.2025\obj\Debug\net9.0\03.24.2025.AssemblyInfo.cs
+C:\iliyan\proggraming\task\SWU\03.24.2025\03.24.2025\obj\Debug\net9.0\03.24.2025.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\SWU\03.24.2025\03.24.2025\obj\Debug\net9.0\03.24.2025.sourcelink.json
+C:\iliyan\proggraming\task\SWU\03.24.2025\03.24.2025\obj\Debug\net9.0\03.24.2025.dll
+C:\iliyan\proggraming\task\SWU\03.24.2025\03.24.2025\obj\Debug\net9.0\refint\03.24.2025.dll
+C:\iliyan\proggraming\task\SWU\03.24.2025\03.24.2025\obj\Debug\net9.0\03.24.2025.pdb
+C:\iliyan\proggraming\task\SWU\03.24.2025\03.24.2025\obj\Debug\net9.0\03.24.2025.genruntimeconfig.cache
+C:\iliyan\proggraming\task\SWU\03.24.2025\03.24.2025\obj\Debug\net9.0\ref\03.24.2025.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\iliyan\\proggraming\\task\\SWU\\task_3_27\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{246B6657-C244-4A4F-B1B1-CD1F6D0ABA26}|task_3_27\\task_3_27.csproj|c:\\iliyan\\proggraming\\task\\swu\\task_3_27\\task_3_27\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{246B6657-C244-4A4F-B1B1-CD1F6D0ABA26}|task_3_27\\task_3_27.csproj|solutionrelative:task_3_27\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{246B6657-C244-4A4F-B1B1-CD1F6D0ABA26}|task_3_27\\task_3_27.csproj|c:\\iliyan\\proggraming\\task\\swu\\task_3_27\\task_3_27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{246B6657-C244-4A4F-B1B1-CD1F6D0ABA26}|task_3_27\\task_3_27.csproj|solutionrelative:task_3_27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\task_3_27\\task_3_27\\Program.cs",
+              "RelativeDocumentMoniker": "task_3_27\\Program.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\task_3_27\\task_3_27\\Program.cs",
+              "RelativeToolTip": "task_3_27\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:58:26.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\task_3_27\\task_3_27\\Pet.cs",
+              "RelativeDocumentMoniker": "task_3_27\\Pet.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\task_3_27\\task_3_27\\Pet.cs",
+              "RelativeToolTip": "task_3_27\\Pet.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:51:33.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
