@@ -1,0 +1,14 @@
+C:\iliyan\proggraming\task\SWU\MenuReflection\MenuLib\bin\Debug\net9.0\MenuLib.deps.json
+C:\iliyan\proggraming\task\SWU\MenuReflection\MenuLib\bin\Debug\net9.0\MenuLib.dll
+C:\iliyan\proggraming\task\SWU\MenuReflection\MenuLib\bin\Debug\net9.0\MenuLib.pdb
+C:\iliyan\proggraming\task\SWU\MenuReflection\MenuLib\obj\Debug\net9.0\MenuLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\SWU\MenuReflection\MenuLib\obj\Debug\net9.0\MenuLib.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\SWU\MenuReflection\MenuLib\obj\Debug\net9.0\MenuLib.AssemblyInfo.cs
+C:\iliyan\proggraming\task\SWU\MenuReflection\MenuLib\obj\Debug\net9.0\MenuLib.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\SWU\MenuReflection\MenuLib\obj\Debug\net9.0\MenuLib.sourcelink.json
+C:\iliyan\proggraming\task\SWU\MenuReflection\MenuLib\obj\Debug\net9.0\MenuLib.dll
+C:\iliyan\proggraming\task\SWU\MenuReflection\MenuLib\obj\Debug\net9.0\refint\MenuLib.dll
+C:\iliyan\proggraming\task\SWU\MenuReflection\MenuLib\obj\Debug\net9.0\MenuLib.pdb
+C:\iliyan\proggraming\task\SWU\MenuReflection\MenuLib\obj\Debug\net9.0\ref\MenuLib.dll
+C:\iliyan\proggraming\task\SWU\MenuReflection\MenuLib\bin\Debug\net9.0\MenuLib.xml
+C:\iliyan\proggraming\task\SWU\MenuReflection\MenuLib\obj\Debug\net9.0\MenuLib.xml

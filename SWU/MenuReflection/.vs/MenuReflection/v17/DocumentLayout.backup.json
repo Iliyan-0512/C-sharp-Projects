@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\iliyan\\proggraming\\task\\SWU\\MenuReflection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62638604-6E3F-460F-9829-F790FCE5BBF8}|MenuReflection\\MenuReflection.csproj|c:\\iliyan\\proggraming\\task\\swu\\menureflection\\menureflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62638604-6E3F-460F-9829-F790FCE5BBF8}|MenuReflection\\MenuReflection.csproj|solutionrelative:menureflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62638604-6E3F-460F-9829-F790FCE5BBF8}|MenuReflection\\MenuReflection.csproj|c:\\iliyan\\proggraming\\task\\swu\\menureflection\\menureflection\\menureflection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{62638604-6E3F-460F-9829-F790FCE5BBF8}|MenuReflection\\MenuReflection.csproj|solutionrelative:menureflection\\menureflection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94ACEBD0-52D1-49A9-AE3F-3933FF9C26C8}|MenuLib\\MenuLib.csproj|c:\\iliyan\\proggraming\\task\\swu\\menureflection\\menulib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94ACEBD0-52D1-49A9-AE3F-3933FF9C26C8}|MenuLib\\MenuLib.csproj|solutionrelative:menulib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94ACEBD0-52D1-49A9-AE3F-3933FF9C26C8}|MenuLib\\MenuLib.csproj|c:\\iliyan\\proggraming\\task\\swu\\menureflection\\menulib\\replmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94ACEBD0-52D1-49A9-AE3F-3933FF9C26C8}|MenuLib\\MenuLib.csproj|solutionrelative:menulib\\replmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94ACEBD0-52D1-49A9-AE3F-3933FF9C26C8}|MenuLib\\MenuLib.csproj|c:\\iliyan\\proggraming\\task\\swu\\menureflection\\menulib\\menuitemattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94ACEBD0-52D1-49A9-AE3F-3933FF9C26C8}|MenuLib\\MenuLib.csproj|solutionrelative:menulib\\menuitemattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94ACEBD0-52D1-49A9-AE3F-3933FF9C26C8}|MenuLib\\MenuLib.csproj|c:\\iliyan\\proggraming\\task\\swu\\menureflection\\menulib\\menulib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{94ACEBD0-52D1-49A9-AE3F-3933FF9C26C8}|MenuLib\\MenuLib.csproj|solutionrelative:menulib\\menulib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62638604-6E3F-460F-9829-F790FCE5BBF8}|MenuReflection\\MenuReflection.csproj|c:\\iliyan\\proggraming\\task\\swu\\menureflection\\menureflection\\menureflection.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{62638604-6E3F-460F-9829-F790FCE5BBF8}|MenuReflection\\MenuReflection.csproj|solutionrelative:menureflection\\menureflection.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuReflection.csproj",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\MenuReflection\\MenuReflection\\MenuReflection.csproj",
+              "RelativeDocumentMoniker": "MenuReflection\\MenuReflection.csproj",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\MenuReflection\\MenuReflection\\MenuReflection.csproj",
+              "RelativeToolTip": "MenuReflection\\MenuReflection.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-16T13:09:30.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReplMenu.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\MenuReflection\\MenuLib\\ReplMenu.cs",
+              "RelativeDocumentMoniker": "MenuLib\\ReplMenu.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\MenuReflection\\MenuLib\\ReplMenu.cs",
+              "RelativeToolTip": "MenuLib\\ReplMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T13:09:16.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuItemAttribute.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\MenuReflection\\MenuLib\\MenuItemAttribute.cs",
+              "RelativeDocumentMoniker": "MenuLib\\MenuItemAttribute.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\MenuReflection\\MenuLib\\MenuItemAttribute.cs",
+              "RelativeToolTip": "MenuLib\\MenuItemAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T13:09:09.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\MenuReflection\\MenuLib\\Class1.cs",
+              "RelativeDocumentMoniker": "MenuLib\\Class1.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\MenuReflection\\MenuLib\\Class1.cs",
+              "RelativeToolTip": "MenuLib\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T13:09:08.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuLib.csproj",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\MenuReflection\\MenuLib\\MenuLib.csproj",
+              "RelativeDocumentMoniker": "MenuLib\\MenuLib.csproj",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\MenuReflection\\MenuLib\\MenuLib.csproj",
+              "RelativeToolTip": "MenuLib\\MenuLib.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-16T13:09:07.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuReflection",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\MenuReflection\\MenuReflection\\MenuReflection.csproj",
+              "RelativeDocumentMoniker": "MenuReflection\\MenuReflection.csproj",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\MenuReflection\\MenuReflection\\MenuReflection.csproj",
+              "RelativeToolTip": "MenuReflection\\MenuReflection.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-16T12:06:55.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\MenuReflection\\MenuReflection\\Program.cs",
+              "RelativeDocumentMoniker": "MenuReflection\\Program.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\MenuReflection\\MenuReflection\\Program.cs",
+              "RelativeToolTip": "MenuReflection\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T10:53:04.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

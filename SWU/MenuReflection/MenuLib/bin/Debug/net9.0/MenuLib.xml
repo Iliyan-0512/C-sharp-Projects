@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MenuLib</name>
+    </assembly>
+    <members>
+        <!-- Badly formed XML comment ignored for member "M:MenuReflection.MenuItemAttribute.#ctor(System.String,System.Int32,System.Boolean)" -->
+        <member name="T:MenuReflection.ReplMenu">
+            <summary>
+            Menu based on methods marked with the MenuItem attribute.
+            </summary>
+        </member>
+        <member name="M:MenuReflection.ReplMenu.Run">
+            <summary>
+            Starts the menu and allows selecting an option.
+            </summary>
+        </member>
+    </members>
+</doc>
