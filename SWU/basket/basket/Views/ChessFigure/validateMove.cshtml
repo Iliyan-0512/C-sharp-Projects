@@ -1,0 +1,65 @@
+﻿@model List<string>
+
+@{
+	var validMoves = Model;
+}
+<style>
+	table {
+		border-collapse: collapse;
+	}
+
+	td {
+		width: 50px;
+		height: 50px;
+		text-align: center;
+		vertical-align: middle;
+		border: 1px solid black;
+		font-size: 24px;
+	}
+
+	.white {
+		background-color: #eee;
+	}
+
+	.black {
+		background-color: #888;
+	}
+
+	.valid {
+		background-color: lightgreen !important;
+	}
+
+	.selected {
+		background-color: lightskyblue !important;
+	}
+</style>
+@if (Model is null)
+{
+	<div>
+		not valid date
+	</div>
+}
+else
+{
+
+
+	<table>
+		@for (int row = 0; row < 8; row++)
+		{
+			<tr>
+				@for (int col = 0; col < 8; col++)
+				{
+					char colChar = (char)('A' + col);
+					int rowNum = 8 - row;
+					string pos = $"{colChar}{rowNum}";
+					string color = (row + col) % 2 == 0 ? "white" : "black";
+					string extraClass = validMoves.Contains(pos) ? "valid" : "";
+
+					<td class="@color @extraClass">
+						@pos
+					</td>
+				}
+			</tr>
+		}
+	</table>
+}
