@@ -41,23 +41,126 @@ namespace basket.Controllers
 
         private List<string> MoveRook(Move position)
         {
-            throw new NotImplementedException();
+            var validMoves = new List<string>();
+            string posString = position.ToString();
+            char columnChar = posString[0];
+            int row = int.Parse(posString[1].ToString());
+
+            int x = columnChar - 'A';
+            int y = 8 - row;
+            int[] dx = [1, 0, -1, 0];
+            int[] dy = [0, 1, 0, -1];
+            for (int dir = 0; dir < 4; dir++)
+            {
+                int newX = x + dx[dir];
+                int newY = y + dy[dir];
+
+                while (newX >= 0 && newX < 8 && newY >= 0 && newY < 8)
+                {
+                    char col = (char)('A' + newX);
+                    int rowNumber = 8 - newY;
+                    validMoves.Add($"{col}{rowNumber}");
+
+                    newX += dx[dir];
+                    newY += dy[dir];
+                }
+            }
+            return validMoves;
+
         }
 
         private List<string> MoveKing(Move position)
         {
-            throw new NotImplementedException();
+            var validMoves = new List<string>();
+            string posString = position.ToString();
+            char columnChar = posString[0];
+            int row = int.Parse(posString[1].ToString());
+
+            int x = columnChar - 'A';
+            int y = 8 - row;
+
+            int[] dx = { 1, 1, 0, -1, -1, -1, 0, 1 };
+            int[] dy = { 0, 1, 1, 1, 0, -1, -1, -1 };
+            for (int i = 0; i < dx.Length; i++)
+            {
+                int newX = x + dx[i];
+                int newY = y + dy[i];
+
+                if (newX >= 0 && newX < 8 && newY >= 0 && newY < 8)
+
+                {
+                    char col = (char)('A' + newX);
+                    int rowNumber = 8 - newY;
+                    validMoves.Add($"{col}{rowNumber}");
+                }
+            }
+            return validMoves;
+
+
+
         }
 
         private List<string> MovePawn(Move position)
         {
-            throw new NotImplementedException();
+            var validMoves = new List<string>();
+            string posString = position.ToString();
+            char columnChar = posString[0];
+            int row = int.Parse(posString[1].ToString());
+            int x = columnChar - 'A';
+            int y = 8 - row;
+
+
+            if (y - 1 >= 0)
+            {
+                char col = (char)('A' + x);
+                int rowNumber = 8 - (y - 1);
+                validMoves.Add($"{col}{rowNumber}");
+            }
+
+
+            if (row == 2 && y - 2 >= 0)
+            {
+                char col = (char)('A' + x);
+                int rowNumber = 8 - (y - 2);
+                validMoves.Add($"{col}{rowNumber}");
+            }
+
+            return validMoves;
         }
+
 
         private List<string> MoveQueen(Move position)
         {
-            throw new NotImplementedException();
+            var validMoves = new List<string>();
+            string posString = position.ToString();
+            char columnChar = posString[0];
+            int row = int.Parse(posString[1].ToString());
+            int x = columnChar - 'A';
+            int y = 8 - row;
+
+
+            int[] dx = { 1, 1, 0, -1, -1, -1, 0, 1 };
+            int[] dy = { 0, 1, 1, 1, 0, -1, -1, -1 };
+
+            for (int dir = 0; dir < 8; dir++)
+            {
+                int newX = x + dx[dir];
+                int newY = y + dy[dir];
+
+                while (newX >= 0 && newX < 8 && newY >= 0 && newY < 8)
+                {
+                    char col = (char)('A' + newX);
+                    int rowNumber = 8 - newY;
+                    validMoves.Add($"{col}{rowNumber}");
+
+                    newX += dx[dir];
+                    newY += dy[dir];
+                }
+            }
+
+            return validMoves;
         }
+
 
         private List<string> MoveBishop(Move position)
         {
@@ -78,12 +181,12 @@ namespace basket.Controllers
 
                 while (newX >= 0 && newX < 8 && newY >= 0 && newY < 8)
                 {
-                  
+
                     char col = (char)('A' + newX);
                     int rowNumber = 8 - newY;
                     validMoves.Add($"{col}{rowNumber}");
 
-                    
+
                     newX += dx[dir];
                     newY += dy[dir];
                 }
@@ -103,7 +206,7 @@ namespace basket.Controllers
 
             int x = columnChar - 'A';
             int y = 8 - row;
-            
+
 
             int[,] moves = new int[,]
             {
