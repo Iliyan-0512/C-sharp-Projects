@@ -3,80 +3,44 @@
   "WorkspaceRootPath": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|c:\\iliyan\\proggraming\\task\\swu\\basket\\basket\\controllers\\chessfigurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|solutionrelative:basket\\controllers\\chessfigurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|c:\\iliyan\\proggraming\\task\\swu\\basket\\basket\\controllers\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|solutionrelative:basket\\controllers\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|c:\\iliyan\\proggraming\\task\\swu\\basket\\basket\\controllers\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|solutionrelative:basket\\controllers\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|c:\\iliyan\\proggraming\\task\\swu\\basket\\basket\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|solutionrelative:basket\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|c:\\iliyan\\proggraming\\task\\swu\\basket\\basket\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|solutionrelative:basket\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|c:\\iliyan\\proggraming\\task\\swu\\basket\\basket\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|solutionrelative:basket\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|c:\\iliyan\\proggraming\\task\\swu\\basket\\basket\\views\\chessfigure\\validatemove.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|solutionrelative:basket\\views\\chessfigure\\validatemove.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|c:\\iliyan\\proggraming\\task\\swu\\basket\\basket\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|solutionrelative:basket\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|c:\\iliyan\\proggraming\\task\\swu\\basket\\basket\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|solutionrelative:basket\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|c:\\iliyan\\proggraming\\task\\swu\\basket\\basket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|solutionrelative:basket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|c:\\iliyan\\proggraming\\task\\swu\\basket\\basket\\views\\chessfigure\\validatemove.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|solutionrelative:basket\\views\\chessfigure\\validatemove.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|c:\\iliyan\\proggraming\\task\\swu\\basket\\basket\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|solutionrelative:basket\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|c:\\iliyan\\proggraming\\task\\swu\\basket\\basket\\views\\chessfigure\\_formpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|solutionrelative:basket\\views\\chessfigure\\_formpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|c:\\iliyan\\proggraming\\task\\swu\\basket\\basket\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|solutionrelative:basket\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|c:\\iliyan\\proggraming\\task\\swu\\basket\\basket\\controllers\\chessfigurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|solutionrelative:basket\\controllers\\chessfigurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|c:\\iliyan\\proggraming\\task\\swu\\basket\\basket\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|solutionrelative:basket\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|c:\\iliyan\\proggraming\\task\\swu\\basket\\basket\\views\\chessfigure\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|solutionrelative:basket\\views\\chessfigure\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|c:\\iliyan\\proggraming\\task\\swu\\basket\\basket\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|solutionrelative:basket\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|c:\\iliyan\\proggraming\\task\\swu\\basket\\basket\\views\\chessfigure\\_chessboardpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|solutionrelative:basket\\views\\chessfigure\\_chessboardpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|c:\\iliyan\\proggraming\\task\\swu\\basket\\basket\\models\\chessviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|solutionrelative:basket\\models\\chessviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|c:\\iliyan\\proggraming\\task\\swu\\basket\\basket\\models\\piecerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|solutionrelative:basket\\models\\piecerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|c:\\iliyan\\proggraming\\task\\swu\\basket\\basket\\views\\chessfigure\\validatemove.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|solutionrelative:basket\\views\\chessfigure\\validatemove.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|c:\\iliyan\\proggraming\\task\\swu\\basket\\basket\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|solutionrelative:basket\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|c:\\iliyan\\proggraming\\task\\swu\\basket\\basket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|solutionrelative:basket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|c:\\iliyan\\proggraming\\task\\swu\\basket\\basket\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|solutionrelative:basket\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|c:\\iliyan\\proggraming\\task\\swu\\basket\\basket\\views\\user\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|solutionrelative:basket\\views\\user\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|c:\\iliyan\\proggraming\\task\\swu\\basket\\basket\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{60CBD869-F6CC-4F15-B947-6BC037A95BAB}|basket\\basket.csproj|solutionrelative:basket\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,244 +50,137 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "basket\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "basket\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T21:54:38.689Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "validateMove.cshtml.cs",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Views\\ChessFigure\\validateMove.cshtml.cs",
-              "RelativeDocumentMoniker": "basket\\Views\\ChessFigure\\validateMove.cshtml.cs",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Views\\ChessFigure\\validateMove.cshtml.cs",
-              "RelativeToolTip": "basket\\Views\\ChessFigure\\validateMove.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T21:34:22.725Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "basket\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "basket\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T13:08:27.576Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Move.cs",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Controllers\\Move.cs",
-              "RelativeDocumentMoniker": "basket\\Controllers\\Move.cs",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Controllers\\Move.cs",
-              "RelativeToolTip": "basket\\Controllers\\Move.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T13:48:27.209Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "validateMove.cshtml",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Views\\ChessFigure\\validateMove.cshtml",
-              "RelativeDocumentMoniker": "basket\\Views\\ChessFigure\\validateMove.cshtml",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Views\\ChessFigure\\validateMove.cshtml",
-              "RelativeToolTip": "basket\\Views\\ChessFigure\\validateMove.cshtml",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwEEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T12:47:58.765Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Piece.cs",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Controllers\\Piece.cs",
-              "RelativeDocumentMoniker": "basket\\Controllers\\Piece.cs",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Controllers\\Piece.cs",
-              "RelativeToolTip": "basket\\Controllers\\Piece.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T12:15:13.967Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "basket\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "basket\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T09:23:10.315Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "basket\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "basket\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T12:10:22.72Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ChessFigureController.cs",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Controllers\\ChessFigureController.cs",
-              "RelativeDocumentMoniker": "basket\\Controllers\\ChessFigureController.cs",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Controllers\\ChessFigureController.cs*",
-              "RelativeToolTip": "basket\\Controllers\\ChessFigureController.cs*",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAwDQAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T12:09:03.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Views\\User\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "basket\\Views\\User\\Index.cshtml.cs",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Views\\User\\Index.cshtml.cs",
-              "RelativeToolTip": "basket\\Views\\User\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T11:34:52.574Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "basket\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Controllers\\UserController.cs",
-              "RelativeToolTip": "basket\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T11:24:08.379Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Models\\User.cs",
-              "RelativeDocumentMoniker": "basket\\Models\\User.cs",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Models\\User.cs",
-              "RelativeToolTip": "basket\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T11:23:16.581Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "basket\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Properties\\launchSettings.json",
-              "RelativeToolTip": "basket\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-30T11:19:28.632Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "basket\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "basket\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T11:15:00.067Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "basket\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "basket\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T11:08:46.178Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "basket\\Models\\Product.cs",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Models\\Product.cs",
-              "RelativeToolTip": "basket\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T11:08:03.455Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "basket\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "basket\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAByAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T09:23:31.251Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Program.cs",
               "RelativeDocumentMoniker": "basket\\Program.cs",
               "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Program.cs",
               "RelativeToolTip": "basket\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T08:49:36.666Z"
+              "WhenOpened": "2025-05-07T13:42:54.573Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\appsettings.json",
-              "RelativeDocumentMoniker": "basket\\appsettings.json",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\appsettings.json",
-              "RelativeToolTip": "basket\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-30T08:49:23.839Z"
+              "DocumentIndex": 1,
+              "Title": "ValidateMove.cshtml.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Views\\ChessFigure\\ValidateMove.cshtml.cs",
+              "RelativeDocumentMoniker": "basket\\Views\\ChessFigure\\ValidateMove.cshtml.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Views\\ChessFigure\\ValidateMove.cshtml.cs",
+              "RelativeToolTip": "basket\\Views\\ChessFigure\\ValidateMove.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:00:47.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ChessBoardPartial.cshtml",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Views\\ChessFigure\\_ChessBoardPartial.cshtml",
+              "RelativeDocumentMoniker": "basket\\Views\\ChessFigure\\_ChessBoardPartial.cshtml",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Views\\ChessFigure\\_ChessBoardPartial.cshtml",
+              "RelativeToolTip": "basket\\Views\\ChessFigure\\_ChessBoardPartial.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAD8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T12:58:06.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_FormPartial.cshtml",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Views\\ChessFigure\\_FormPartial.cshtml",
+              "RelativeDocumentMoniker": "basket\\Views\\ChessFigure\\_FormPartial.cshtml",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Views\\ChessFigure\\_FormPartial.cshtml",
+              "RelativeToolTip": "basket\\Views\\ChessFigure\\_FormPartial.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T12:57:15.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChessViewModel.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Models\\ChessViewModel.cs",
+              "RelativeDocumentMoniker": "basket\\Models\\ChessViewModel.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Models\\ChessViewModel.cs",
+              "RelativeToolTip": "basket\\Models\\ChessViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:54:37.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PieceRequest.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Models\\PieceRequest.cs",
+              "RelativeDocumentMoniker": "basket\\Models\\PieceRequest.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Models\\PieceRequest.cs",
+              "RelativeToolTip": "basket\\Models\\PieceRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:30:45.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "basket\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "basket\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T12:26:47.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Views\\ChessFigure\\Index.cshtml",
+              "RelativeDocumentMoniker": "basket\\Views\\ChessFigure\\Index.cshtml",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Views\\ChessFigure\\Index.cshtml",
+              "RelativeToolTip": "basket\\Views\\ChessFigure\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T12:20:19.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ValidateMove.cshtml",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Views\\ChessFigure\\ValidateMove.cshtml",
+              "RelativeDocumentMoniker": "basket\\Views\\ChessFigure\\ValidateMove.cshtml",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Views\\ChessFigure\\ValidateMove.cshtml",
+              "RelativeToolTip": "basket\\Views\\ChessFigure\\ValidateMove.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T12:14:17.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChessFigureController.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Controllers\\ChessFigureController.cs",
+              "RelativeDocumentMoniker": "basket\\Controllers\\ChessFigureController.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\Controllers\\ChessFigureController.cs",
+              "RelativeToolTip": "basket\\Controllers\\ChessFigureController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:14:13.606Z",
+              "EditorCaption": ""
             }
           ]
         }

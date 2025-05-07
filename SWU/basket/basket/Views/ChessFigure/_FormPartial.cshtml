@@ -1,0 +1,22 @@
+﻿@model PieceRequest
+
+@{
+
+}
+<h2>Position</h2>
+
+<form asp-action="Index" method="post">
+	<div>
+		<label asp-for="Piece"></label>
+		<input name="Request.Piece" asp-for="Piece" value="@Model.Piece" />
+		<span asp-validation-for="Piece" class="text-danger"></span>
+	</div>
+
+	<div>
+		<label asp-for="Position"></label>
+		<input  name="Request.Position" asp-for="Position" value="@Model.Position" />
+		<span asp-validation-for="Position" class="text-danger"></span>
+	</div>
+
+	<button type="submit">Изпрати</button>
+</form>

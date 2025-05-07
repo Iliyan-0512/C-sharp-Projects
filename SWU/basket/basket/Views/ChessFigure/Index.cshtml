@@ -1,0 +1,11 @@
+﻿@model ChessViewModel
+
+@{
+	ViewData["Title"] = "Chess Figure Move";
+}
+
+@Html.Partial("_FormPartial", Model.Request)
+@if (Model.Response is not null)
+{
+	@Html.Partial("_ChessBoardPartial", Model.Response)
+}

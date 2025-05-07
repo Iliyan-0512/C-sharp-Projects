@@ -1,4 +1,4 @@
-﻿namespace basket.Controllers
+﻿namespace basket.Enums
 {
     public enum Move
     {

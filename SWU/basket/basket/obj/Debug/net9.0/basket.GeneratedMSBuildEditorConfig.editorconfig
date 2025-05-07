@@ -20,8 +20,20 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/iliyan/proggraming/task/SWU/basket/basket/Views/ChessFigure/validateMove.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlc3NGaWd1cmVcdmFsaWRhdGVNb3ZlLmNzaHRtbA==
+[C:/iliyan/proggraming/task/SWU/basket/basket/Views/ChessFigure/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlc3NGaWd1cmVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/iliyan/proggraming/task/SWU/basket/basket/Views/ChessFigure/ValidateMove.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlc3NGaWd1cmVcVmFsaWRhdGVNb3ZlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/iliyan/proggraming/task/SWU/basket/basket/Views/ChessFigure/_ChessBoardPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlc3NGaWd1cmVcX0NoZXNzQm9hcmRQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/iliyan/proggraming/task/SWU/basket/basket/Views/ChessFigure/_FormPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlc3NGaWd1cmVcX0Zvcm1QYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/iliyan/proggraming/task/SWU/basket/basket/Views/Home/Index.cshtml]

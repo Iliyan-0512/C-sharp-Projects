@@ -1,7 +1,6 @@
 ﻿@model List<string>
-
+   
 @{
-	var validMoves = Model;
 }
 <style>
 	table {
@@ -62,7 +61,7 @@ else
 					int rowNum = 8 - row;
 					string pos = $"{colChar}{rowNum}";
 					string color = (row + col) % 2 == 0 ? "white" : "black";
-					string extraClass = validMoves.Contains(pos) ? "valid" : "";
+					string extraClass = Model.Contains(pos) ? "valid" : "";
 
 					<td class="@color @extraClass">
 						@pos

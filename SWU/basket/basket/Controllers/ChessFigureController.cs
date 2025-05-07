@@ -1,21 +1,29 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using basket.Enums;
+using basket.Models;
+using Microsoft.AspNetCore.Mvc;
 
 namespace basket.Controllers
 {
     public class ChessFigureController : Controller
     {
-        public IActionResult validateMove(Move? position, Piece? piece)
+        public IActionResult Index()
         {
-            if (position is null || piece is null)
+            var m=new ChessViewModel { Request = new PieceRequest(), Response = null };
+            return View(m);
+        }
+
+        [HttpPost]
+        public IActionResult Index(ChessViewModel input)
+        {
+            var result = new ChessViewModel { Request = input.Request, Response = null };
+            if (input.Request?.Position is null || input.Request?.Piece is null)
             {
-                return View(null);
+                return View(result);
             }
 
+            result.Response = GetValidMoves(input.Request.Piece.Value, input.Request.Position.Value);
 
-
-            var moves = GetValidMoves((Piece)piece, (Move)position);
-
-            return View(moves);
+            return View(result);
         }
 
         private List<string> GetValidMoves(Piece piece, Move position)
@@ -45,6 +53,7 @@ namespace basket.Controllers
             string posString = position.ToString();
             char columnChar = posString[0];
             int row = int.Parse(posString[1].ToString());
+           
 
             int x = columnChar - 'A';
             int y = 8 - row;
