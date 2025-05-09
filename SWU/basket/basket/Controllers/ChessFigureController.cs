@@ -21,44 +21,45 @@ namespace basket.Controllers
                 return View(result);
             }
 
-            result.Response = GetValidMoves(input.Request.Piece.Value, input.Request.Position.Value);
+            result.Response = GetValidMoves(input.Request.Piece.Value, input.Request.Position.Value, input.Request.BlackPosition);
 
             return View(result);
         }
 
-        private List<string> GetValidMoves(Piece piece, Move position)
+        private List<string> GetValidMoves(Piece piece, Move position, Move? blackPosition)
+
         {
             switch (piece)
             {
                 case Piece.Knight:
-                    return MoveKnight(position);
+                    return MoveKnight(position, blackPosition.ToString());
                 case Piece.Bishop:
-                    return MoveBishop(position);
+                    return MoveBishop(position, blackPosition.ToString());
                 case Piece.Queen:
-                    return MoveQueen(position);
+                    return MoveQueen(position, blackPosition.ToString());
                 case Piece.Pawn:
-                    return MovePawn(position);
+                    return MovePawn(position, blackPosition.ToString());
                 case Piece.King:
-                    return MoveKing(position);
+                    return MoveKing(position, blackPosition.ToString());
                 case Piece.Rook:
-                    return MoveRook(position);
+                    return MoveRook(position, blackPosition.ToString());
                 default:
                     return new List<string>();
             }
         }
 
-        private List<string> MoveRook(Move position)
+        private List<string> MoveRook(Move position, string? blackPos)
         {
             var validMoves = new List<string>();
             string posString = position.ToString();
             char columnChar = posString[0];
             int row = int.Parse(posString[1].ToString());
-           
 
             int x = columnChar - 'A';
             int y = 8 - row;
-            int[] dx = [1, 0, -1, 0];
-            int[] dy = [0, 1, 0, -1];
+            int[] dx = { 1, 0, -1, 0 };
+            int[] dy = { 0, 1, 0, -1 };
+
             for (int dir = 0; dir < 4; dir++)
             {
                 int newX = x + dx[dir];
@@ -66,19 +67,21 @@ namespace basket.Controllers
 
                 while (newX >= 0 && newX < 8 && newY >= 0 && newY < 8)
                 {
-                    char col = (char)('A' + newX);
-                    int rowNumber = 8 - newY;
-                    validMoves.Add($"{col}{rowNumber}");
+                    string target = $"{(char)('A' + newX)}{8 - newY}";
+
+                    validMoves.Add(target);
+                    if (target == blackPos) break;
 
                     newX += dx[dir];
                     newY += dy[dir];
                 }
             }
-            return validMoves;
 
+            return validMoves;
         }
 
-        private List<string> MoveKing(Move position)
+
+        private List<string> MoveKing(Move position, string? blackPos)
         {
             var validMoves = new List<string>();
             string posString = position.ToString();
@@ -90,55 +93,82 @@ namespace basket.Controllers
 
             int[] dx = { 1, 1, 0, -1, -1, -1, 0, 1 };
             int[] dy = { 0, 1, 1, 1, 0, -1, -1, -1 };
+
             for (int i = 0; i < dx.Length; i++)
             {
                 int newX = x + dx[i];
                 int newY = y + dy[i];
 
                 if (newX >= 0 && newX < 8 && newY >= 0 && newY < 8)
-
                 {
-                    char col = (char)('A' + newX);
-                    int rowNumber = 8 - newY;
-                    validMoves.Add($"{col}{rowNumber}");
+                    string target = $"{(char)('A' + newX)}{8 - newY}";
+
+                    // Може да ходи навсякъде, включително да бие
+                    validMoves.Add(target);
                 }
             }
+
             return validMoves;
-
-
-
         }
 
-        private List<string> MovePawn(Move position)
+
+        private List<string> MovePawn(Move position, string? blackPos)
         {
             var validMoves = new List<string>();
             string posString = position.ToString();
             char columnChar = posString[0];
             int row = int.Parse(posString[1].ToString());
-            int x = columnChar - 'A';
-            int y = 8 - row;
 
+            int x = columnChar - 'A';    // колона от 0 до 7
+            int y = 8 - row;             // ред от 0 до 7 (0 най-горе, 7 най-долу)
 
+            // Нормално движение напред с 1 поле (ако не е заето от черната)
             if (y - 1 >= 0)
             {
-                char col = (char)('A' + x);
-                int rowNumber = 8 - (y - 1);
-                validMoves.Add($"{col}{rowNumber}");
+                string forwardPos = $"{(char)('A' + x)}{8 - (y - 1)}";
+                if (forwardPos != blackPos)
+                {
+                    validMoves.Add(forwardPos);
+                }
+
+                // Ако е на начална позиция (2-ри ред), може да мръдне 2 напред, ако и двете полета са свободни
+                if (row == 2 && y - 2 >= 0)
+                {
+                    string twoForward = $"{(char)('A' + x)}{8 - (y - 2)}";
+                    string oneForward = $"{(char)('A' + x)}{8 - (y - 1)}";
+                    if (oneForward != blackPos && twoForward != blackPos)
+                    {
+                        validMoves.Add(twoForward);
+                    }
+                }
             }
 
-
-            if (row == 2 && y - 2 >= 0)
+            // Взимане по диагонал наляво
+            if (x - 1 >= 0 && y - 1 >= 0)
             {
-                char col = (char)('A' + x);
-                int rowNumber = 8 - (y - 2);
-                validMoves.Add($"{col}{rowNumber}");
+                string diagLeft = $"{(char)('A' + (x - 1))}{8 - (y - 1)}";
+                if (diagLeft == blackPos)
+                {
+                    validMoves.Add(diagLeft);
+                }
+            }
+
+            // Взимане по диагонал надясно
+            if (x + 1 < 8 && y - 1 >= 0)
+            {
+                string diagRight = $"{(char)('A' + (x + 1))}{8 - (y - 1)}";
+                if (diagRight == blackPos)
+                {
+                    validMoves.Add(diagRight);
+                }
             }
 
             return validMoves;
         }
 
 
-        private List<string> MoveQueen(Move position)
+
+        private List<string> MoveQueen(Move position, string? blackPos)
         {
             var validMoves = new List<string>();
             string posString = position.ToString();
@@ -146,7 +176,6 @@ namespace basket.Controllers
             int row = int.Parse(posString[1].ToString());
             int x = columnChar - 'A';
             int y = 8 - row;
-
 
             int[] dx = { 1, 1, 0, -1, -1, -1, 0, 1 };
             int[] dy = { 0, 1, 1, 1, 0, -1, -1, -1 };
@@ -158,9 +187,10 @@ namespace basket.Controllers
 
                 while (newX >= 0 && newX < 8 && newY >= 0 && newY < 8)
                 {
-                    char col = (char)('A' + newX);
-                    int rowNumber = 8 - newY;
-                    validMoves.Add($"{col}{rowNumber}");
+                    string target = $"{(char)('A' + newX)}{8 - newY}";
+
+                    validMoves.Add(target);
+                    if (target == blackPos) break; // спира, ако има фигура
 
                     newX += dx[dir];
                     newY += dy[dir];
@@ -171,7 +201,8 @@ namespace basket.Controllers
         }
 
 
-        private List<string> MoveBishop(Move position)
+
+        private List<string> MoveBishop(Move position, string? blackPos)
         {
             var validMoves = new List<string>();
             string posString = position.ToString();
@@ -190,11 +221,10 @@ namespace basket.Controllers
 
                 while (newX >= 0 && newX < 8 && newY >= 0 && newY < 8)
                 {
+                    string target = $"{(char)('A' + newX)}{8 - newY}";
 
-                    char col = (char)('A' + newX);
-                    int rowNumber = 8 - newY;
-                    validMoves.Add($"{col}{rowNumber}");
-
+                    validMoves.Add(target);
+                    if (target == blackPos) break;
 
                     newX += dx[dir];
                     newY += dy[dir];
@@ -205,7 +235,8 @@ namespace basket.Controllers
         }
 
 
-        private static List<string> MoveKnight(Move position)
+
+        private List<string> MoveKnight(Move position, string? blackPos)
         {
             var validMoves = new List<string>();
 
@@ -216,12 +247,10 @@ namespace basket.Controllers
             int x = columnChar - 'A';
             int y = 8 - row;
 
-
-            int[,] moves = new int[,]
-            {
+            int[,] moves = {
         { -2, -1 }, { -2, 1 }, { -1, -2 }, { -1, 2 },
         { 1, -2 }, { 1, 2 }, { 2, -1 }, { 2, 1 }
-            };
+    };
 
             for (int i = 0; i < moves.GetLength(0); i++)
             {
@@ -230,12 +259,13 @@ namespace basket.Controllers
 
                 if (newX >= 0 && newX < 8 && newY >= 0 && newY < 8)
                 {
-                    char col = (char)('A' + newX);
-                    int rowNumber = 8 - newY;
-                    validMoves.Add($"{col}{rowNumber}");
+                    string target = $"{(char)('A' + newX)}{8 - newY}";
+                    validMoves.Add(target);
                 }
             }
+
             return validMoves;
         }
+
     }
 }
