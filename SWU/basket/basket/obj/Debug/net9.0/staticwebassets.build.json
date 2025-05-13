@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "AxofZsoLc6gZWc4DPMMZVHStapNEVL3esXKJJpeVcrU=",
+  "Hash": "86zxcz0087enYr+KD/VthR/OMqasUi7vnXURqRzL+I8=",
   "Source": "basket",
   "BasePath": "_content/basket",
   "Mode": "Default",
@@ -1443,6 +1443,258 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\blackBishop.JPG",
+      "SourceId": "basket",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\",
+      "BasePath": "_content/basket",
+      "RelativePath": "img/blackBishop#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7edl4f87g6",
+      "Integrity": "D5dJe1mGryx/wVrYUeoA1kvM4MLIL+P08sesXjKlTB4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\blackBishop.JPG"
+    },
+    {
+      "Identity": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\blackKing.JPG",
+      "SourceId": "basket",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\",
+      "BasePath": "_content/basket",
+      "RelativePath": "img/blackKing#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wvta836f9l",
+      "Integrity": "NDb+J3Jx6X3mIsIKzLK3q8UP4BlhSI+MIFXVdSx5soE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\blackKing.JPG"
+    },
+    {
+      "Identity": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\BlackKnight.JPG",
+      "SourceId": "basket",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\",
+      "BasePath": "_content/basket",
+      "RelativePath": "img/BlackKnight#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gp7m6hytc5",
+      "Integrity": "fCVUmqa42FG1d5qdDaISHdQMlWz8PgFreOlziBU3y4w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\BlackKnight.JPG"
+    },
+    {
+      "Identity": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\BlackPawn.JPG",
+      "SourceId": "basket",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\",
+      "BasePath": "_content/basket",
+      "RelativePath": "img/BlackPawn#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f790n6p4hx",
+      "Integrity": "ZfILh006JpjqtcrghterFK1Fzh2Yh979j2DBFJtutA8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\BlackPawn.JPG"
+    },
+    {
+      "Identity": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\blackQueen.JPG",
+      "SourceId": "basket",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\",
+      "BasePath": "_content/basket",
+      "RelativePath": "img/blackQueen#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "de12hvjpf3",
+      "Integrity": "lXC8JwPHuRFmN0j+mbItMLql8o62JFEcsbtpU9D8Mks=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\blackQueen.JPG"
+    },
+    {
+      "Identity": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\BlackRook.jpg",
+      "SourceId": "basket",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\",
+      "BasePath": "_content/basket",
+      "RelativePath": "img/BlackRook#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sxir6vd4ue",
+      "Integrity": "oAoaJg2l4MEqbjKTGIDMPezHIBEN8CHSmYgDW+/ODkw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\BlackRook.jpg"
+    },
+    {
+      "Identity": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\KnightWhite.jpg",
+      "SourceId": "basket",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\",
+      "BasePath": "_content/basket",
+      "RelativePath": "img/KnightWhite#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wwayioayp1",
+      "Integrity": "wD3d153NYX5dmDq/+sQ4VEfnLC4k2tjyBMj2/PjikGc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\KnightWhite.jpg"
+    },
+    {
+      "Identity": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\whiteBisjop.jpg",
+      "SourceId": "basket",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\",
+      "BasePath": "_content/basket",
+      "RelativePath": "img/whiteBisjop#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wfkaoz58b7",
+      "Integrity": "/FnHO4sxD0wV122oApdrNZJOFLcPAZOBoMfO/5doeAg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\whiteBisjop.jpg"
+    },
+    {
+      "Identity": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\WhiteKing.jpg",
+      "SourceId": "basket",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\",
+      "BasePath": "_content/basket",
+      "RelativePath": "img/WhiteKing#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kr8ayh4jgv",
+      "Integrity": "IG91Pom3+1f2aBekKeLGeL0ESCAO1KusJgJ0z/RX2QA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\WhiteKing.jpg"
+    },
+    {
+      "Identity": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\WhitePawn.jpg",
+      "SourceId": "basket",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\",
+      "BasePath": "_content/basket",
+      "RelativePath": "img/WhitePawn#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qrk3k01s48",
+      "Integrity": "GtC66pHAFWGiOZvKDOX0ZczyKYoauFx6YnEufkNlUL8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\WhitePawn.jpg"
+    },
+    {
+      "Identity": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\WhiteQueen.jpg",
+      "SourceId": "basket",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\",
+      "BasePath": "_content/basket",
+      "RelativePath": "img/WhiteQueen#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7ussju4e1h",
+      "Integrity": "/2sjPwqnAj9eq1YUFs3bgviEqX1B50/63xtk8baaSXY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\WhiteQueen.jpg"
+    },
+    {
+      "Identity": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\WhiteRook.jpg",
+      "SourceId": "basket",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\",
+      "BasePath": "_content/basket",
+      "RelativePath": "img/WhiteRook#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i0494gznnm",
+      "Integrity": "kjBdPBNII6R9I6G9PbKJUQTWRkYfDglDprAiH0pshrg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\WhiteRook.jpg"
     },
     {
       "Identity": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\js\\site.js",
@@ -3916,6 +4168,990 @@
         {
           "Name": "integrity",
           "Value": "sha256-jcY0RXFOlcp4VNTCcYQtWVZZBlr+ZY+AOv6/0S5dnF8="
+        }
+      ]
+    },
+    {
+      "Route": "img/blackBishop.7edl4f87g6.JPG",
+      "AssetFile": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\blackBishop.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25018"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D5dJe1mGryx/wVrYUeoA1kvM4MLIL+P08sesXjKlTB4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 18:19:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7edl4f87g6"
+        },
+        {
+          "Name": "label",
+          "Value": "img/blackBishop.JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D5dJe1mGryx/wVrYUeoA1kvM4MLIL+P08sesXjKlTB4="
+        }
+      ]
+    },
+    {
+      "Route": "img/blackBishop.JPG",
+      "AssetFile": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\blackBishop.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25018"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D5dJe1mGryx/wVrYUeoA1kvM4MLIL+P08sesXjKlTB4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 18:19:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D5dJe1mGryx/wVrYUeoA1kvM4MLIL+P08sesXjKlTB4="
+        }
+      ]
+    },
+    {
+      "Route": "img/blackKing.JPG",
+      "AssetFile": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\blackKing.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25766"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NDb+J3Jx6X3mIsIKzLK3q8UP4BlhSI+MIFXVdSx5soE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 18:19:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NDb+J3Jx6X3mIsIKzLK3q8UP4BlhSI+MIFXVdSx5soE="
+        }
+      ]
+    },
+    {
+      "Route": "img/blackKing.wvta836f9l.JPG",
+      "AssetFile": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\blackKing.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25766"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NDb+J3Jx6X3mIsIKzLK3q8UP4BlhSI+MIFXVdSx5soE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 18:19:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wvta836f9l"
+        },
+        {
+          "Name": "label",
+          "Value": "img/blackKing.JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NDb+J3Jx6X3mIsIKzLK3q8UP4BlhSI+MIFXVdSx5soE="
+        }
+      ]
+    },
+    {
+      "Route": "img/BlackKnight.gp7m6hytc5.JPG",
+      "AssetFile": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\BlackKnight.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25361"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fCVUmqa42FG1d5qdDaISHdQMlWz8PgFreOlziBU3y4w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 18:23:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gp7m6hytc5"
+        },
+        {
+          "Name": "label",
+          "Value": "img/BlackKnight.JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fCVUmqa42FG1d5qdDaISHdQMlWz8PgFreOlziBU3y4w="
+        }
+      ]
+    },
+    {
+      "Route": "img/BlackKnight.JPG",
+      "AssetFile": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\BlackKnight.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25361"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fCVUmqa42FG1d5qdDaISHdQMlWz8PgFreOlziBU3y4w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 18:23:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fCVUmqa42FG1d5qdDaISHdQMlWz8PgFreOlziBU3y4w="
+        }
+      ]
+    },
+    {
+      "Route": "img/BlackPawn.f790n6p4hx.JPG",
+      "AssetFile": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\BlackPawn.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21422"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZfILh006JpjqtcrghterFK1Fzh2Yh979j2DBFJtutA8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 18:20:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f790n6p4hx"
+        },
+        {
+          "Name": "label",
+          "Value": "img/BlackPawn.JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZfILh006JpjqtcrghterFK1Fzh2Yh979j2DBFJtutA8="
+        }
+      ]
+    },
+    {
+      "Route": "img/BlackPawn.JPG",
+      "AssetFile": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\BlackPawn.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21422"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZfILh006JpjqtcrghterFK1Fzh2Yh979j2DBFJtutA8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 18:20:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZfILh006JpjqtcrghterFK1Fzh2Yh979j2DBFJtutA8="
+        }
+      ]
+    },
+    {
+      "Route": "img/blackQueen.de12hvjpf3.JPG",
+      "AssetFile": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\blackQueen.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25995"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lXC8JwPHuRFmN0j+mbItMLql8o62JFEcsbtpU9D8Mks=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 18:20:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "de12hvjpf3"
+        },
+        {
+          "Name": "label",
+          "Value": "img/blackQueen.JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lXC8JwPHuRFmN0j+mbItMLql8o62JFEcsbtpU9D8Mks="
+        }
+      ]
+    },
+    {
+      "Route": "img/blackQueen.JPG",
+      "AssetFile": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\blackQueen.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25995"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lXC8JwPHuRFmN0j+mbItMLql8o62JFEcsbtpU9D8Mks=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 18:20:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lXC8JwPHuRFmN0j+mbItMLql8o62JFEcsbtpU9D8Mks="
+        }
+      ]
+    },
+    {
+      "Route": "img/BlackRook.jpg",
+      "AssetFile": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\BlackRook.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22377"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oAoaJg2l4MEqbjKTGIDMPezHIBEN8CHSmYgDW+/ODkw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 18:23:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oAoaJg2l4MEqbjKTGIDMPezHIBEN8CHSmYgDW+/ODkw="
+        }
+      ]
+    },
+    {
+      "Route": "img/BlackRook.sxir6vd4ue.jpg",
+      "AssetFile": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\BlackRook.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22377"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oAoaJg2l4MEqbjKTGIDMPezHIBEN8CHSmYgDW+/ODkw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 18:23:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sxir6vd4ue"
+        },
+        {
+          "Name": "label",
+          "Value": "img/BlackRook.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oAoaJg2l4MEqbjKTGIDMPezHIBEN8CHSmYgDW+/ODkw="
+        }
+      ]
+    },
+    {
+      "Route": "img/KnightWhite.jpg",
+      "AssetFile": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\KnightWhite.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5185"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wD3d153NYX5dmDq/+sQ4VEfnLC4k2tjyBMj2/PjikGc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 18:23:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wD3d153NYX5dmDq/+sQ4VEfnLC4k2tjyBMj2/PjikGc="
+        }
+      ]
+    },
+    {
+      "Route": "img/KnightWhite.wwayioayp1.jpg",
+      "AssetFile": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\KnightWhite.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5185"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wD3d153NYX5dmDq/+sQ4VEfnLC4k2tjyBMj2/PjikGc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 18:23:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wwayioayp1"
+        },
+        {
+          "Name": "label",
+          "Value": "img/KnightWhite.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wD3d153NYX5dmDq/+sQ4VEfnLC4k2tjyBMj2/PjikGc="
+        }
+      ]
+    },
+    {
+      "Route": "img/whiteBisjop.jpg",
+      "AssetFile": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\whiteBisjop.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4924"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/FnHO4sxD0wV122oApdrNZJOFLcPAZOBoMfO/5doeAg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 18:19:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/FnHO4sxD0wV122oApdrNZJOFLcPAZOBoMfO/5doeAg="
+        }
+      ]
+    },
+    {
+      "Route": "img/whiteBisjop.wfkaoz58b7.jpg",
+      "AssetFile": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\whiteBisjop.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4924"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/FnHO4sxD0wV122oApdrNZJOFLcPAZOBoMfO/5doeAg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 18:19:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wfkaoz58b7"
+        },
+        {
+          "Name": "label",
+          "Value": "img/whiteBisjop.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/FnHO4sxD0wV122oApdrNZJOFLcPAZOBoMfO/5doeAg="
+        }
+      ]
+    },
+    {
+      "Route": "img/WhiteKing.jpg",
+      "AssetFile": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\WhiteKing.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "647934"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IG91Pom3+1f2aBekKeLGeL0ESCAO1KusJgJ0z/RX2QA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 18:19:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IG91Pom3+1f2aBekKeLGeL0ESCAO1KusJgJ0z/RX2QA="
+        }
+      ]
+    },
+    {
+      "Route": "img/WhiteKing.kr8ayh4jgv.jpg",
+      "AssetFile": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\WhiteKing.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "647934"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IG91Pom3+1f2aBekKeLGeL0ESCAO1KusJgJ0z/RX2QA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 18:19:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kr8ayh4jgv"
+        },
+        {
+          "Name": "label",
+          "Value": "img/WhiteKing.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IG91Pom3+1f2aBekKeLGeL0ESCAO1KusJgJ0z/RX2QA="
+        }
+      ]
+    },
+    {
+      "Route": "img/WhitePawn.jpg",
+      "AssetFile": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\WhitePawn.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4949"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GtC66pHAFWGiOZvKDOX0ZczyKYoauFx6YnEufkNlUL8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 18:20:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GtC66pHAFWGiOZvKDOX0ZczyKYoauFx6YnEufkNlUL8="
+        }
+      ]
+    },
+    {
+      "Route": "img/WhitePawn.qrk3k01s48.jpg",
+      "AssetFile": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\WhitePawn.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4949"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GtC66pHAFWGiOZvKDOX0ZczyKYoauFx6YnEufkNlUL8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 18:20:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qrk3k01s48"
+        },
+        {
+          "Name": "label",
+          "Value": "img/WhitePawn.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GtC66pHAFWGiOZvKDOX0ZczyKYoauFx6YnEufkNlUL8="
+        }
+      ]
+    },
+    {
+      "Route": "img/WhiteQueen.7ussju4e1h.jpg",
+      "AssetFile": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\WhiteQueen.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "111617"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/2sjPwqnAj9eq1YUFs3bgviEqX1B50/63xtk8baaSXY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 18:20:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7ussju4e1h"
+        },
+        {
+          "Name": "label",
+          "Value": "img/WhiteQueen.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/2sjPwqnAj9eq1YUFs3bgviEqX1B50/63xtk8baaSXY="
+        }
+      ]
+    },
+    {
+      "Route": "img/WhiteQueen.jpg",
+      "AssetFile": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\WhiteQueen.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "111617"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/2sjPwqnAj9eq1YUFs3bgviEqX1B50/63xtk8baaSXY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 18:20:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/2sjPwqnAj9eq1YUFs3bgviEqX1B50/63xtk8baaSXY="
+        }
+      ]
+    },
+    {
+      "Route": "img/WhiteRook.i0494gznnm.jpg",
+      "AssetFile": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\WhiteRook.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4819"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kjBdPBNII6R9I6G9PbKJUQTWRkYfDglDprAiH0pshrg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 18:23:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i0494gznnm"
+        },
+        {
+          "Name": "label",
+          "Value": "img/WhiteRook.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kjBdPBNII6R9I6G9PbKJUQTWRkYfDglDprAiH0pshrg="
+        }
+      ]
+    },
+    {
+      "Route": "img/WhiteRook.jpg",
+      "AssetFile": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\WhiteRook.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4819"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kjBdPBNII6R9I6G9PbKJUQTWRkYfDglDprAiH0pshrg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 18:23:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kjBdPBNII6R9I6G9PbKJUQTWRkYfDglDprAiH0pshrg="
         }
       ]
     },

@@ -13,6 +13,54 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\BlackKnight.JPG",
+      "PackagePath": "staticwebassets\\img\\BlackKnight.JPG"
+    },
+    {
+      "Id": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\BlackPawn.JPG",
+      "PackagePath": "staticwebassets\\img\\BlackPawn.JPG"
+    },
+    {
+      "Id": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\BlackRook.jpg",
+      "PackagePath": "staticwebassets\\img\\BlackRook.jpg"
+    },
+    {
+      "Id": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\KnightWhite.jpg",
+      "PackagePath": "staticwebassets\\img\\KnightWhite.jpg"
+    },
+    {
+      "Id": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\WhiteKing.jpg",
+      "PackagePath": "staticwebassets\\img\\WhiteKing.jpg"
+    },
+    {
+      "Id": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\WhitePawn.jpg",
+      "PackagePath": "staticwebassets\\img\\WhitePawn.jpg"
+    },
+    {
+      "Id": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\WhiteQueen.jpg",
+      "PackagePath": "staticwebassets\\img\\WhiteQueen.jpg"
+    },
+    {
+      "Id": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\WhiteRook.jpg",
+      "PackagePath": "staticwebassets\\img\\WhiteRook.jpg"
+    },
+    {
+      "Id": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\blackBishop.JPG",
+      "PackagePath": "staticwebassets\\img\\blackBishop.JPG"
+    },
+    {
+      "Id": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\blackKing.JPG",
+      "PackagePath": "staticwebassets\\img\\blackKing.JPG"
+    },
+    {
+      "Id": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\blackQueen.JPG",
+      "PackagePath": "staticwebassets\\img\\blackQueen.JPG"
+    },
+    {
+      "Id": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\img\\whiteBisjop.jpg",
+      "PackagePath": "staticwebassets\\img\\whiteBisjop.jpg"
+    },
+    {
       "Id": "C:\\iliyan\\proggraming\\task\\SWU\\basket\\basket\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

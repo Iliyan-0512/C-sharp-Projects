@@ -1,74 +1,74 @@
 ﻿@model List<string>
 
 @{
-	var validMoves = Model;
+    var figures = new Dictionary<string, string>();
+
+    foreach (var entry in Model)
+    {
+        var parts = entry.Split(' ');
+        if (parts.Length == 2)
+        {
+            var pieceName = parts[0];
+            var position = parts[1].ToUpper();
+            figures[position] = pieceName;
+        }
+    }
 }
+
 <style>
-	table {
-		border-collapse: collapse;
-	}
+    table {
+        border-collapse: collapse;
+    }
 
-	td {
-		width: 50px;
-		height: 50px;
-		text-align: center;
-		vertical-align: middle;
-		border: 1px solid black;
-		font-size: 24px;
-	}
+    td {
+        width: 60px;
+        height: 60px;
+        text-align: center;
+        vertical-align: middle;
+        border: 1px solid black;
+    }
 
-	.white {
-		background-color: #eee;
-	}
+    .white {
+        background-color: #eee;
+    }
 
-	.black {
-		background-color: #888;
-	}
+    .black {
+        background-color: #888;
+    }
 
-	.valid {
-		background-color: lightgreen !important;
-	}
-
-	.selected {
-		background-color: lightskyblue !important;
-	}
+    .has-figure {
+        outline: 2px solid gold;
+        outline-offset: -4px;
+    }
 </style>
 
+<table>
+    @for (int row = 0; row < 8; row++)
+    {
+        <tr>
+            @for (int col = 0; col < 8; col++)
+            {
+                char colChar = (char)('A' + col);
+                int rowNum = 8 - row;
+                string pos = $"{colChar}{rowNum}";
+                string color = (row + col) % 2 == 0 ? "white" : "black";
+                bool hasFigure = figures.ContainsKey(pos);
+                string extraClass = hasFigure ? "has-figure" : "";
 
-@if (ViewBag.Success != null)
-{
-	<p class="text-success">@ViewBag.Success</p>
-}
+                <td class="@color @extraClass">
+                    @if (hasFigure)
+                    {
+                        var piece = figures[pos];
+                        var imagePath = Url.Content($"~/img/{piece.ToLower()}.jpg");
+                        <img src="@imagePath" alt="@piece" style="width: 100%; height: auto;" />
 
-@section Scripts {
-	<partial name="_ValidationScriptsPartial" />
-}
-
-@if (Model is null)
-{
-	<div>
-		not valid date
-	</div>
-}
-else
-{
-	<table>
-		@for (int row = 0; row < 8; row++)
-		{
-			<tr>
-				@for (int col = 0; col < 8; col++)
-				{
-					char colChar = (char)('A' + col);
-					int rowNum = 8 - row;
-					string pos = $"{colChar}{rowNum}";
-					string color = (row + col) % 2 == 0 ? "white" : "black";
-					string extraClass = validMoves.Contains(pos) ? "valid" : "";
-
-					<td class="@color @extraClass">
-						@pos
-					</td>
-				}
-			</tr>
-		}
-	</table>
-}
+                    }
+                    else
+                    {
+                        @pos
+                    }
+                </td>
+            }
+        </tr>
+    }
+</table>

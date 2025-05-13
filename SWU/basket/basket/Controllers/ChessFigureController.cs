@@ -103,7 +103,7 @@ namespace basket.Controllers
                 {
                     string target = $"{(char)('A' + newX)}{8 - newY}";
 
-                    // Може да ходи навсякъде, включително да бие
+                   
                     validMoves.Add(target);
                 }
             }
@@ -119,10 +119,10 @@ namespace basket.Controllers
             char columnChar = posString[0];
             int row = int.Parse(posString[1].ToString());
 
-            int x = columnChar - 'A';    // колона от 0 до 7
-            int y = 8 - row;             // ред от 0 до 7 (0 най-горе, 7 най-долу)
+            int x = columnChar - 'A';   
+            int y = 8 - row;            
 
-            // Нормално движение напред с 1 поле (ако не е заето от черната)
+           
             if (y - 1 >= 0)
             {
                 string forwardPos = $"{(char)('A' + x)}{8 - (y - 1)}";
@@ -131,7 +131,7 @@ namespace basket.Controllers
                     validMoves.Add(forwardPos);
                 }
 
-                // Ако е на начална позиция (2-ри ред), може да мръдне 2 напред, ако и двете полета са свободни
+                
                 if (row == 2 && y - 2 >= 0)
                 {
                     string twoForward = $"{(char)('A' + x)}{8 - (y - 2)}";
@@ -143,7 +143,7 @@ namespace basket.Controllers
                 }
             }
 
-            // Взимане по диагонал наляво
+          
             if (x - 1 >= 0 && y - 1 >= 0)
             {
                 string diagLeft = $"{(char)('A' + (x - 1))}{8 - (y - 1)}";
@@ -153,7 +153,6 @@ namespace basket.Controllers
                 }
             }
 
-            // Взимане по диагонал надясно
             if (x + 1 < 8 && y - 1 >= 0)
             {
                 string diagRight = $"{(char)('A' + (x + 1))}{8 - (y - 1)}";
@@ -190,7 +189,7 @@ namespace basket.Controllers
                     string target = $"{(char)('A' + newX)}{8 - newY}";
 
                     validMoves.Add(target);
-                    if (target == blackPos) break; // спира, ако има фигура
+                    if (target == blackPos) break;
 
                     newX += dx[dir];
                     newY += dy[dir];
