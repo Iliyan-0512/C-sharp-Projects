@@ -5,7 +5,10 @@
 }
 
 @Html.Partial("_FormPartial", Model.Request)
+
 @if (Model.Response is not null)
 {
-	@Html.Partial("_ChessBoardPartial", Model.Response)
+	@Html.Partial("_ChessBoardPartial", Model)
+	
 }
+

@@ -8,23 +8,54 @@ namespace basket.Controllers
     {
         public IActionResult Index()
         {
-            var m=new ChessViewModel { Request = new PieceRequest(), Response = null };
+            var m = new ChessViewModel { Request = new PieceRequest(), Response = null };
             return View(m);
         }
 
         [HttpPost]
         public IActionResult Index(ChessViewModel input)
         {
-            var result = new ChessViewModel { Request = input.Request, Response = null };
+            var result = new ChessViewModel
+            {
+                Request = input.Request,
+                Response = null,
+                Figures = new List<FigurePosition>()
+            };
+
             if (input.Request?.Position is null || input.Request?.Piece is null)
             {
                 return View(result);
             }
 
-            result.Response = GetValidMoves(input.Request.Piece.Value, input.Request.Position.Value, input.Request.BlackPosition);
+            result.Response = GetValidMoves
+            (
+                input.Request.Piece.Value,
+                input.Request.Position.Value,
+                input.Request.BlackPosition
+            );
+
+
+            if (input.Request?.Piece is not null && input.Request?.Position is not null)
+            {
+                result.Figures.Add(new FigurePosition
+                {
+                    Piece = $"White{input.Request.Piece}",
+                    Position = input.Request.Position.ToString()
+                });
+            }
+
+            if (input.Request?.BlackPiece is not null && input.Request?.BlackPosition is not null)
+            {
+                result.Figures.Add(new FigurePosition
+                {
+                    Piece = $"Black{input.Request.BlackPiece}",
+                    Position = input.Request.BlackPosition.ToString()
+                });
+            }
 
             return View(result);
         }
+
 
         private List<string> GetValidMoves(Piece piece, Move position, Move? blackPosition)
 
@@ -103,7 +134,7 @@ namespace basket.Controllers
                 {
                     string target = $"{(char)('A' + newX)}{8 - newY}";
 
-                   
+
                     validMoves.Add(target);
                 }
             }
@@ -119,10 +150,10 @@ namespace basket.Controllers
             char columnChar = posString[0];
             int row = int.Parse(posString[1].ToString());
 
-            int x = columnChar - 'A';   
-            int y = 8 - row;            
+            int x = columnChar - 'A';
+            int y = 8 - row;
 
-           
+
             if (y - 1 >= 0)
             {
                 string forwardPos = $"{(char)('A' + x)}{8 - (y - 1)}";
@@ -131,7 +162,7 @@ namespace basket.Controllers
                     validMoves.Add(forwardPos);
                 }
 
-                
+
                 if (row == 2 && y - 2 >= 0)
                 {
                     string twoForward = $"{(char)('A' + x)}{8 - (y - 2)}";
@@ -143,7 +174,7 @@ namespace basket.Controllers
                 }
             }
 
-          
+
             if (x - 1 >= 0 && y - 1 >= 0)
             {
                 string diagLeft = $"{(char)('A' + (x - 1))}{8 - (y - 1)}";
