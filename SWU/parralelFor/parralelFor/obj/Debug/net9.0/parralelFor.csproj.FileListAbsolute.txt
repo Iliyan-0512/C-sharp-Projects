@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\SWU\parralelFor\parralelFor\obj\Debug\net9.0\parralelFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\SWU\parralelFor\parralelFor\obj\Debug\net9.0\parralelFor.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\SWU\parralelFor\parralelFor\obj\Debug\net9.0\parralelFor.AssemblyInfo.cs
+C:\iliyan\proggraming\task\SWU\parralelFor\parralelFor\obj\Debug\net9.0\parralelFor.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\SWU\parralelFor\parralelFor\obj\Debug\net9.0\parralelFor.sourcelink.json
+C:\iliyan\proggraming\task\SWU\parralelFor\parralelFor\bin\Debug\net9.0\parralelFor.exe
+C:\iliyan\proggraming\task\SWU\parralelFor\parralelFor\bin\Debug\net9.0\parralelFor.deps.json
+C:\iliyan\proggraming\task\SWU\parralelFor\parralelFor\bin\Debug\net9.0\parralelFor.runtimeconfig.json
+C:\iliyan\proggraming\task\SWU\parralelFor\parralelFor\bin\Debug\net9.0\parralelFor.dll
+C:\iliyan\proggraming\task\SWU\parralelFor\parralelFor\bin\Debug\net9.0\parralelFor.pdb
+C:\iliyan\proggraming\task\SWU\parralelFor\parralelFor\obj\Debug\net9.0\parralelFor.dll
+C:\iliyan\proggraming\task\SWU\parralelFor\parralelFor\obj\Debug\net9.0\refint\parralelFor.dll
+C:\iliyan\proggraming\task\SWU\parralelFor\parralelFor\obj\Debug\net9.0\parralelFor.pdb
+C:\iliyan\proggraming\task\SWU\parralelFor\parralelFor\obj\Debug\net9.0\parralelFor.genruntimeconfig.cache
+C:\iliyan\proggraming\task\SWU\parralelFor\parralelFor\obj\Debug\net9.0\ref\parralelFor.dll
