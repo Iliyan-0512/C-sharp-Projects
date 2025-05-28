@@ -1,0 +1,31 @@
+﻿@model Task2.Models.NormalizeViewModel
+
+<h2>Text Normalizer</h2>
+
+@using (Html.BeginForm("Index", "Home", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+
+    <div>
+        @Html.LabelFor(m => m.InputText, "Input Text:")
+        <br />
+        @Html.TextAreaFor(m => m.InputText, new { rows = "5", cols = "60" })
+    </div>
+    <div>
+        
+        <input type="submit" name="action" value="Format" />
+    </div>
+
+
+    <div>
+        <input type="submit" name="action" value="Normalize" />
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.OutputText, "Normalized Text:")
+        <br />
+        @Html.TextAreaFor(m => m.OutputText, new { rows = "5", cols = "60", @readonly = "readonly" })
+    </div>
+}
