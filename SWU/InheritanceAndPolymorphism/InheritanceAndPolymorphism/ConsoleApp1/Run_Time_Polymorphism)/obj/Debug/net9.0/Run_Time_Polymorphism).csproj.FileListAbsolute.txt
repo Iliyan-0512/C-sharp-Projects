@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\SWU\InheritanceAndPolymorphism\InheritanceAndPolymorphism\ConsoleApp1\Run_Time_Polymorphism)\bin\Debug\net9.0\Run_Time_Polymorphism).exe
+C:\iliyan\proggraming\task\SWU\InheritanceAndPolymorphism\InheritanceAndPolymorphism\ConsoleApp1\Run_Time_Polymorphism)\bin\Debug\net9.0\Run_Time_Polymorphism).deps.json
+C:\iliyan\proggraming\task\SWU\InheritanceAndPolymorphism\InheritanceAndPolymorphism\ConsoleApp1\Run_Time_Polymorphism)\bin\Debug\net9.0\Run_Time_Polymorphism).runtimeconfig.json
+C:\iliyan\proggraming\task\SWU\InheritanceAndPolymorphism\InheritanceAndPolymorphism\ConsoleApp1\Run_Time_Polymorphism)\bin\Debug\net9.0\Run_Time_Polymorphism).dll
+C:\iliyan\proggraming\task\SWU\InheritanceAndPolymorphism\InheritanceAndPolymorphism\ConsoleApp1\Run_Time_Polymorphism)\bin\Debug\net9.0\Run_Time_Polymorphism).pdb
+C:\iliyan\proggraming\task\SWU\InheritanceAndPolymorphism\InheritanceAndPolymorphism\ConsoleApp1\Run_Time_Polymorphism)\obj\Debug\net9.0\Run_Time_Polymorphism).GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\SWU\InheritanceAndPolymorphism\InheritanceAndPolymorphism\ConsoleApp1\Run_Time_Polymorphism)\obj\Debug\net9.0\Run_Time_Polymorphism).AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\SWU\InheritanceAndPolymorphism\InheritanceAndPolymorphism\ConsoleApp1\Run_Time_Polymorphism)\obj\Debug\net9.0\Run_Time_Polymorphism).AssemblyInfo.cs
+C:\iliyan\proggraming\task\SWU\InheritanceAndPolymorphism\InheritanceAndPolymorphism\ConsoleApp1\Run_Time_Polymorphism)\obj\Debug\net9.0\Run_Time_Polymorphism).csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\SWU\InheritanceAndPolymorphism\InheritanceAndPolymorphism\ConsoleApp1\Run_Time_Polymorphism)\obj\Debug\net9.0\Run_Time_Polymorphism).sourcelink.json
+C:\iliyan\proggraming\task\SWU\InheritanceAndPolymorphism\InheritanceAndPolymorphism\ConsoleApp1\Run_Time_Polymorphism)\obj\Debug\net9.0\Run_Time_Polymorphism).dll
+C:\iliyan\proggraming\task\SWU\InheritanceAndPolymorphism\InheritanceAndPolymorphism\ConsoleApp1\Run_Time_Polymorphism)\obj\Debug\net9.0\refint\Run_Time_Polymorphism).dll
+C:\iliyan\proggraming\task\SWU\InheritanceAndPolymorphism\InheritanceAndPolymorphism\ConsoleApp1\Run_Time_Polymorphism)\obj\Debug\net9.0\Run_Time_Polymorphism).pdb
+C:\iliyan\proggraming\task\SWU\InheritanceAndPolymorphism\InheritanceAndPolymorphism\ConsoleApp1\Run_Time_Polymorphism)\obj\Debug\net9.0\Run_Time_Polymorphism).genruntimeconfig.cache
+C:\iliyan\proggraming\task\SWU\InheritanceAndPolymorphism\InheritanceAndPolymorphism\ConsoleApp1\Run_Time_Polymorphism)\obj\Debug\net9.0\ref\Run_Time_Polymorphism).dll

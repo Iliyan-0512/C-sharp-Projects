@@ -1,20 +1,31 @@
-﻿public class Overload
-{
-    public void Display()
-    {
-        DisplayOverload(200);
-        DisplayOverload(200, 300);
-        DisplayOverload(200, 300, 500, 600);
-    }
-    private void DisplayOverload(int x, int y)
-    {
-        Console.WriteLine("The two integers " + x + " " + y);
-    }
-    private void DisplayOverload(params int[] parameterArray)
-    {
-        Console.WriteLine("parameterArray");
-    }
-}
+﻿//public class Overload
+//{
+//    public static void Display(params object[] objectParamArray)
+//    {
+//        foreach (object obj in objectParamArray)
+//        {
+//            Console.Write(obj.GetType().FullName + " ");
+//        }
+//        Console.WriteLine();
+//    }
+//}
+//public class Overload
+//{
+//    public void Display()
+//    {
+//        DisplayOverload(200);
+//        DisplayOverload(200, 300);
+//        DisplayOverload(200, 300, 500, 600);
+//    }
+//    private void DisplayOverload(int x, int y)
+//    {
+//        Console.WriteLine("The two integers " + x + " " + y);
+//    }
+//    private void DisplayOverload(params int[] parameterArray)
+//    {
+//        Console.WriteLine("parameterArray");
+//    }
+//}
 
 //public class Overload
 //{
@@ -76,3 +87,13 @@
 //            Console.WriteLine(s + " " + a);
 //    }
 //}
+public class Overload
+{
+    public static void Display(params object[] objectParamArray)
+    {
+        Console.WriteLine(objectParamArray.GetType().FullName);
+        Console.WriteLine(objectParamArray.Length);
+        Console.WriteLine(objectParamArray[0]);
+    }
+}
+
