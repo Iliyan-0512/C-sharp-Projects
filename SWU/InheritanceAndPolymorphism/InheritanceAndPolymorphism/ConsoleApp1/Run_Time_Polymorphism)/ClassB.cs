@@ -6,19 +6,28 @@ using System.Threading.Tasks;
 
 namespace Run_Time_Polymorphism_
 {
-    public class ClassB
+    public class ClassB : ClassA
     {
-        public virtual void AAA()
+        public override void XXX()
         {
-            Console.WriteLine("ClassB AAA");
-        }
-        public virtual void BBB()
-        {
-            Console.WriteLine("ClassB BBB");
-        }
-        public virtual void CCC()
-        {
-            Console.WriteLine("ClassB CCC");
+            ((ClassA)this).XXX();
+            Console.WriteLine("ClassB XXX");
         }
     }
+
+    //public class ClassB
+    //{
+    //    public virtual void AAA()
+    //    {
+    //        Console.WriteLine("ClassB AAA");
+    //    }
+    //    public virtual void BBB()
+    //    {
+    //        Console.WriteLine("ClassB BBB");
+    //    }
+    //    public virtual void CCC()
+    //    {
+    //        Console.WriteLine("ClassB CCC");
+    //    }
+    //}
 }

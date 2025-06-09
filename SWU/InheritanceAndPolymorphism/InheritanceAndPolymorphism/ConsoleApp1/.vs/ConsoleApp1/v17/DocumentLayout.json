@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\iliyan\\proggraming\\task\\SWU\\InheritanceAndPolymorphism\\InheritanceAndPolymorphism\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D15A6D48-9671-4D21-B2CB-7E4BB175D5D4}|Run_Time_Polymorphism)\\Run_Time_Polymorphism).csproj|c:\\iliyan\\proggraming\\task\\swu\\inheritanceandpolymorphism\\inheritanceandpolymorphism\\consoleapp1\\run_time_polymorphism)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D15A6D48-9671-4D21-B2CB-7E4BB175D5D4}|Run_Time_Polymorphism)\\Run_Time_Polymorphism).csproj|solutionrelative:run_time_polymorphism)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EB4A4FE-4687-4507-91DC-68FF1F48014E}|AbstractClass\\AbstractClass.csproj|c:\\iliyan\\proggraming\\task\\swu\\inheritanceandpolymorphism\\inheritanceandpolymorphism\\consoleapp1\\abstractclass\\classa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB4A4FE-4687-4507-91DC-68FF1F48014E}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\classa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D15A6D48-9671-4D21-B2CB-7E4BB175D5D4}|Run_Time_Polymorphism)\\Run_Time_Polymorphism).csproj|c:\\iliyan\\proggraming\\task\\swu\\inheritanceandpolymorphism\\inheritanceandpolymorphism\\consoleapp1\\run_time_polymorphism)\\classb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D15A6D48-9671-4D21-B2CB-7E4BB175D5D4}|Run_Time_Polymorphism)\\Run_Time_Polymorphism).csproj|solutionrelative:run_time_polymorphism)\\classb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EB4A4FE-4687-4507-91DC-68FF1F48014E}|AbstractClass\\AbstractClass.csproj|c:\\iliyan\\proggraming\\task\\swu\\inheritanceandpolymorphism\\inheritanceandpolymorphism\\consoleapp1\\abstractclass\\classb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB4A4FE-4687-4507-91DC-68FF1F48014E}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\classb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D15A6D48-9671-4D21-B2CB-7E4BB175D5D4}|Run_Time_Polymorphism)\\Run_Time_Polymorphism).csproj|c:\\iliyan\\proggraming\\task\\swu\\inheritanceandpolymorphism\\inheritanceandpolymorphism\\consoleapp1\\run_time_polymorphism)\\classa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D15A6D48-9671-4D21-B2CB-7E4BB175D5D4}|Run_Time_Polymorphism)\\Run_Time_Polymorphism).csproj|solutionrelative:run_time_polymorphism)\\classa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EB4A4FE-4687-4507-91DC-68FF1F48014E}|AbstractClass\\AbstractClass.csproj|c:\\iliyan\\proggraming\\task\\swu\\inheritanceandpolymorphism\\inheritanceandpolymorphism\\consoleapp1\\abstractclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB4A4FE-4687-4507-91DC-68FF1F48014E}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ClassB.cs",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\InheritanceAndPolymorphism\\InheritanceAndPolymorphism\\ConsoleApp1\\Run_Time_Polymorphism)\\ClassB.cs",
-              "RelativeDocumentMoniker": "Run_Time_Polymorphism)\\ClassB.cs",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\InheritanceAndPolymorphism\\InheritanceAndPolymorphism\\ConsoleApp1\\Run_Time_Polymorphism)\\ClassB.cs",
-              "RelativeToolTip": "Run_Time_Polymorphism)\\ClassB.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\InheritanceAndPolymorphism\\InheritanceAndPolymorphism\\ConsoleApp1\\AbstractClass\\ClassB.cs",
+              "RelativeDocumentMoniker": "AbstractClass\\ClassB.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\InheritanceAndPolymorphism\\InheritanceAndPolymorphism\\ConsoleApp1\\AbstractClass\\ClassB.cs",
+              "RelativeToolTip": "AbstractClass\\ClassB.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T17:51:07.514Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ClassA.cs",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\InheritanceAndPolymorphism\\InheritanceAndPolymorphism\\ConsoleApp1\\Run_Time_Polymorphism)\\ClassA.cs",
-              "RelativeDocumentMoniker": "Run_Time_Polymorphism)\\ClassA.cs",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\InheritanceAndPolymorphism\\InheritanceAndPolymorphism\\ConsoleApp1\\Run_Time_Polymorphism)\\ClassA.cs",
-              "RelativeToolTip": "Run_Time_Polymorphism)\\ClassA.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T17:50:11.186Z",
+              "WhenOpened": "2025-06-09T14:06:08.722Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\InheritanceAndPolymorphism\\InheritanceAndPolymorphism\\ConsoleApp1\\Run_Time_Polymorphism)\\Program.cs",
-              "RelativeDocumentMoniker": "Run_Time_Polymorphism)\\Program.cs",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\InheritanceAndPolymorphism\\InheritanceAndPolymorphism\\ConsoleApp1\\Run_Time_Polymorphism)\\Program.cs",
-              "RelativeToolTip": "Run_Time_Polymorphism)\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Title": "ClassA.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\InheritanceAndPolymorphism\\InheritanceAndPolymorphism\\ConsoleApp1\\AbstractClass\\ClassA.cs",
+              "RelativeDocumentMoniker": "AbstractClass\\ClassA.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\InheritanceAndPolymorphism\\InheritanceAndPolymorphism\\ConsoleApp1\\AbstractClass\\ClassA.cs",
+              "RelativeToolTip": "AbstractClass\\ClassA.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwEYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T17:48:25.22Z",
+              "WhenOpened": "2025-06-09T13:55:52.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\InheritanceAndPolymorphism\\InheritanceAndPolymorphism\\ConsoleApp1\\AbstractClass\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractClass\\Program.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\InheritanceAndPolymorphism\\InheritanceAndPolymorphism\\ConsoleApp1\\AbstractClass\\Program.cs",
+              "RelativeToolTip": "AbstractClass\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T13:53:18.745Z",
               "EditorCaption": ""
             }
           ]
