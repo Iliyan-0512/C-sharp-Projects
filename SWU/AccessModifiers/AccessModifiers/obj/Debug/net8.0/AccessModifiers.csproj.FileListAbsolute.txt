@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\SWU\AccessModifiers\AccessModifiers\bin\Debug\net8.0\AccessModifiers.exe
+C:\iliyan\proggraming\task\SWU\AccessModifiers\AccessModifiers\bin\Debug\net8.0\AccessModifiers.deps.json
+C:\iliyan\proggraming\task\SWU\AccessModifiers\AccessModifiers\bin\Debug\net8.0\AccessModifiers.runtimeconfig.json
+C:\iliyan\proggraming\task\SWU\AccessModifiers\AccessModifiers\bin\Debug\net8.0\AccessModifiers.dll
+C:\iliyan\proggraming\task\SWU\AccessModifiers\AccessModifiers\bin\Debug\net8.0\AccessModifiers.pdb
+C:\iliyan\proggraming\task\SWU\AccessModifiers\AccessModifiers\obj\Debug\net8.0\AccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\SWU\AccessModifiers\AccessModifiers\obj\Debug\net8.0\AccessModifiers.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\SWU\AccessModifiers\AccessModifiers\obj\Debug\net8.0\AccessModifiers.AssemblyInfo.cs
+C:\iliyan\proggraming\task\SWU\AccessModifiers\AccessModifiers\obj\Debug\net8.0\AccessModifiers.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\SWU\AccessModifiers\AccessModifiers\obj\Debug\net8.0\AccessModifiers.sourcelink.json
+C:\iliyan\proggraming\task\SWU\AccessModifiers\AccessModifiers\obj\Debug\net8.0\AccessModifiers.dll
+C:\iliyan\proggraming\task\SWU\AccessModifiers\AccessModifiers\obj\Debug\net8.0\refint\AccessModifiers.dll
+C:\iliyan\proggraming\task\SWU\AccessModifiers\AccessModifiers\obj\Debug\net8.0\AccessModifiers.pdb
+C:\iliyan\proggraming\task\SWU\AccessModifiers\AccessModifiers\obj\Debug\net8.0\AccessModifiers.genruntimeconfig.cache
+C:\iliyan\proggraming\task\SWU\AccessModifiers\AccessModifiers\obj\Debug\net8.0\ref\AccessModifiers.dll
