@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\SWU\InheritanceAndPolymorphism\Enums\bin\Debug\net8.0\Enums.exe
+C:\iliyan\proggraming\task\SWU\InheritanceAndPolymorphism\Enums\bin\Debug\net8.0\Enums.deps.json
+C:\iliyan\proggraming\task\SWU\InheritanceAndPolymorphism\Enums\bin\Debug\net8.0\Enums.runtimeconfig.json
+C:\iliyan\proggraming\task\SWU\InheritanceAndPolymorphism\Enums\bin\Debug\net8.0\Enums.dll
+C:\iliyan\proggraming\task\SWU\InheritanceAndPolymorphism\Enums\bin\Debug\net8.0\Enums.pdb
+C:\iliyan\proggraming\task\SWU\InheritanceAndPolymorphism\Enums\obj\Debug\net8.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\SWU\InheritanceAndPolymorphism\Enums\obj\Debug\net8.0\Enums.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\SWU\InheritanceAndPolymorphism\Enums\obj\Debug\net8.0\Enums.AssemblyInfo.cs
+C:\iliyan\proggraming\task\SWU\InheritanceAndPolymorphism\Enums\obj\Debug\net8.0\Enums.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\SWU\InheritanceAndPolymorphism\Enums\obj\Debug\net8.0\Enums.sourcelink.json
+C:\iliyan\proggraming\task\SWU\InheritanceAndPolymorphism\Enums\obj\Debug\net8.0\Enums.dll
+C:\iliyan\proggraming\task\SWU\InheritanceAndPolymorphism\Enums\obj\Debug\net8.0\refint\Enums.dll
+C:\iliyan\proggraming\task\SWU\InheritanceAndPolymorphism\Enums\obj\Debug\net8.0\Enums.pdb
+C:\iliyan\proggraming\task\SWU\InheritanceAndPolymorphism\Enums\obj\Debug\net8.0\Enums.genruntimeconfig.cache
+C:\iliyan\proggraming\task\SWU\InheritanceAndPolymorphism\Enums\obj\Debug\net8.0\ref\Enums.dll
