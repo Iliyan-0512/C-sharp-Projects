@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\Alg\Duplicate_Zeros\Duplicate_Zeros\bin\Debug\net8.0\Duplicate_Zeros.exe
+C:\iliyan\proggraming\task\Alg\Duplicate_Zeros\Duplicate_Zeros\bin\Debug\net8.0\Duplicate_Zeros.deps.json
+C:\iliyan\proggraming\task\Alg\Duplicate_Zeros\Duplicate_Zeros\bin\Debug\net8.0\Duplicate_Zeros.runtimeconfig.json
+C:\iliyan\proggraming\task\Alg\Duplicate_Zeros\Duplicate_Zeros\bin\Debug\net8.0\Duplicate_Zeros.dll
+C:\iliyan\proggraming\task\Alg\Duplicate_Zeros\Duplicate_Zeros\bin\Debug\net8.0\Duplicate_Zeros.pdb
+C:\iliyan\proggraming\task\Alg\Duplicate_Zeros\Duplicate_Zeros\obj\Debug\net8.0\Duplicate_Zeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\Alg\Duplicate_Zeros\Duplicate_Zeros\obj\Debug\net8.0\Duplicate_Zeros.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\Alg\Duplicate_Zeros\Duplicate_Zeros\obj\Debug\net8.0\Duplicate_Zeros.AssemblyInfo.cs
+C:\iliyan\proggraming\task\Alg\Duplicate_Zeros\Duplicate_Zeros\obj\Debug\net8.0\Duplicate_Zeros.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\Alg\Duplicate_Zeros\Duplicate_Zeros\obj\Debug\net8.0\Duplicate_Zeros.sourcelink.json
+C:\iliyan\proggraming\task\Alg\Duplicate_Zeros\Duplicate_Zeros\obj\Debug\net8.0\Duplicate_Zeros.dll
+C:\iliyan\proggraming\task\Alg\Duplicate_Zeros\Duplicate_Zeros\obj\Debug\net8.0\refint\Duplicate_Zeros.dll
+C:\iliyan\proggraming\task\Alg\Duplicate_Zeros\Duplicate_Zeros\obj\Debug\net8.0\Duplicate_Zeros.pdb
+C:\iliyan\proggraming\task\Alg\Duplicate_Zeros\Duplicate_Zeros\obj\Debug\net8.0\Duplicate_Zeros.genruntimeconfig.cache
+C:\iliyan\proggraming\task\Alg\Duplicate_Zeros\Duplicate_Zeros\obj\Debug\net8.0\ref\Duplicate_Zeros.dll

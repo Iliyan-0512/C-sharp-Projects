@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\iliyan\\proggraming\\task\\Alg\\Remove Element\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27E9FEAB-B0C4-48F5-8710-E8AC4FAE37BE}|Remove Element\\Remove Element.csproj|c:\\iliyan\\proggraming\\task\\alg\\remove element\\remove element\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E9FEAB-B0C4-48F5-8710-E8AC4FAE37BE}|Remove Element\\Remove Element.csproj|solutionrelative:remove element\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E9FEAB-B0C4-48F5-8710-E8AC4FAE37BE}|Remove Element\\Remove Element.csproj|c:\\iliyan\\proggraming\\task\\alg\\remove element\\remove element\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E9FEAB-B0C4-48F5-8710-E8AC4FAE37BE}|Remove Element\\Remove Element.csproj|solutionrelative:remove element\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Solution.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Alg\\Remove Element\\Remove Element\\Solution.cs",
+              "RelativeDocumentMoniker": "Remove Element\\Solution.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\Alg\\Remove Element\\Remove Element\\Solution.cs",
+              "RelativeToolTip": "Remove Element\\Solution.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:46:34.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Alg\\Remove Element\\Remove Element\\Program.cs",
+              "RelativeDocumentMoniker": "Remove Element\\Program.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\Alg\\Remove Element\\Remove Element\\Program.cs",
+              "RelativeToolTip": "Remove Element\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:46:17.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\iliyan\\proggraming\\task\\Alg\\RemoveDuplicates\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32D086B3-ACE0-4113-9EED-5A189856C1EC}|RemoveDuplicates\\RemoveDuplicates.csproj|c:\\iliyan\\proggraming\\task\\alg\\removeduplicates\\removeduplicates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D086B3-ACE0-4113-9EED-5A189856C1EC}|RemoveDuplicates\\RemoveDuplicates.csproj|solutionrelative:removeduplicates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Alg\\RemoveDuplicates\\RemoveDuplicates\\Program.cs",
+              "RelativeDocumentMoniker": "RemoveDuplicates\\Program.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\Alg\\RemoveDuplicates\\RemoveDuplicates\\Program.cs",
+              "RelativeToolTip": "RemoveDuplicates\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T20:23:58.582Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

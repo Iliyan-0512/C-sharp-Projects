@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\iliyan\\proggraming\\task\\Alg\\MajorElement\\MajorSol\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{10567559-787D-4FFD-BC94-AF9D8E5BC9F1}|RotateArr\\RotateArr.csproj|c:\\iliyan\\proggraming\\task\\alg\\majorelement\\majorsol\\rotatearr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10567559-787D-4FFD-BC94-AF9D8E5BC9F1}|RotateArr\\RotateArr.csproj|solutionrelative:rotatearr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{03D881CF-34CA-4FF2-96AB-DFA6EDAC6514}|MajorSol\\MajorSol.csproj|c:\\iliyan\\proggraming\\task\\alg\\majorelement\\majorsol\\majorsol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03D881CF-34CA-4FF2-96AB-DFA6EDAC6514}|MajorSol\\MajorSol.csproj|solutionrelative:majorsol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Alg\\MajorElement\\MajorSol\\RotateArr\\Program.cs",
+              "RelativeDocumentMoniker": "RotateArr\\Program.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\Alg\\MajorElement\\MajorSol\\RotateArr\\Program.cs",
+              "RelativeToolTip": "RotateArr\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T20:38:40.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Alg\\MajorElement\\MajorSol\\MajorSol\\Program.cs",
               "RelativeDocumentMoniker": "MajorSol\\Program.cs",

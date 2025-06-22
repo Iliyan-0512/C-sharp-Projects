@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MajorSol")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92a07c2f2a678b7560426f53b2f7009a600fd046")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d21edd29beea3a3295eef0d6a3ed33c18f20500")]
 [assembly: System.Reflection.AssemblyProductAttribute("MajorSol")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MajorSol")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
