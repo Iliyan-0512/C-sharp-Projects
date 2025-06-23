@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\Alg\CheckExist\CheckExist\bin\Debug\net8.0\CheckExist.exe
+C:\iliyan\proggraming\task\Alg\CheckExist\CheckExist\bin\Debug\net8.0\CheckExist.deps.json
+C:\iliyan\proggraming\task\Alg\CheckExist\CheckExist\bin\Debug\net8.0\CheckExist.runtimeconfig.json
+C:\iliyan\proggraming\task\Alg\CheckExist\CheckExist\bin\Debug\net8.0\CheckExist.dll
+C:\iliyan\proggraming\task\Alg\CheckExist\CheckExist\bin\Debug\net8.0\CheckExist.pdb
+C:\iliyan\proggraming\task\Alg\CheckExist\CheckExist\obj\Debug\net8.0\CheckExist.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\Alg\CheckExist\CheckExist\obj\Debug\net8.0\CheckExist.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\Alg\CheckExist\CheckExist\obj\Debug\net8.0\CheckExist.AssemblyInfo.cs
+C:\iliyan\proggraming\task\Alg\CheckExist\CheckExist\obj\Debug\net8.0\CheckExist.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\Alg\CheckExist\CheckExist\obj\Debug\net8.0\CheckExist.sourcelink.json
+C:\iliyan\proggraming\task\Alg\CheckExist\CheckExist\obj\Debug\net8.0\CheckExist.dll
+C:\iliyan\proggraming\task\Alg\CheckExist\CheckExist\obj\Debug\net8.0\refint\CheckExist.dll
+C:\iliyan\proggraming\task\Alg\CheckExist\CheckExist\obj\Debug\net8.0\CheckExist.pdb
+C:\iliyan\proggraming\task\Alg\CheckExist\CheckExist\obj\Debug\net8.0\CheckExist.genruntimeconfig.cache
+C:\iliyan\proggraming\task\Alg\CheckExist\CheckExist\obj\Debug\net8.0\ref\CheckExist.dll
