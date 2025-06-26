@@ -1,0 +1,15 @@
+C:\iliyan\proggraming\task\Alg\Valid Mountain Array\Valid Mountain Array\bin\Debug\net8.0\Valid Mountain Array.exe
+C:\iliyan\proggraming\task\Alg\Valid Mountain Array\Valid Mountain Array\bin\Debug\net8.0\Valid Mountain Array.deps.json
+C:\iliyan\proggraming\task\Alg\Valid Mountain Array\Valid Mountain Array\bin\Debug\net8.0\Valid Mountain Array.runtimeconfig.json
+C:\iliyan\proggraming\task\Alg\Valid Mountain Array\Valid Mountain Array\bin\Debug\net8.0\Valid Mountain Array.dll
+C:\iliyan\proggraming\task\Alg\Valid Mountain Array\Valid Mountain Array\bin\Debug\net8.0\Valid Mountain Array.pdb
+C:\iliyan\proggraming\task\Alg\Valid Mountain Array\Valid Mountain Array\obj\Debug\net8.0\Valid Mountain Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\iliyan\proggraming\task\Alg\Valid Mountain Array\Valid Mountain Array\obj\Debug\net8.0\Valid Mountain Array.AssemblyInfoInputs.cache
+C:\iliyan\proggraming\task\Alg\Valid Mountain Array\Valid Mountain Array\obj\Debug\net8.0\Valid Mountain Array.AssemblyInfo.cs
+C:\iliyan\proggraming\task\Alg\Valid Mountain Array\Valid Mountain Array\obj\Debug\net8.0\Valid Mountain Array.csproj.CoreCompileInputs.cache
+C:\iliyan\proggraming\task\Alg\Valid Mountain Array\Valid Mountain Array\obj\Debug\net8.0\Valid Mountain Array.sourcelink.json
+C:\iliyan\proggraming\task\Alg\Valid Mountain Array\Valid Mountain Array\obj\Debug\net8.0\Valid Mountain Array.dll
+C:\iliyan\proggraming\task\Alg\Valid Mountain Array\Valid Mountain Array\obj\Debug\net8.0\refint\Valid Mountain Array.dll
+C:\iliyan\proggraming\task\Alg\Valid Mountain Array\Valid Mountain Array\obj\Debug\net8.0\Valid Mountain Array.pdb
+C:\iliyan\proggraming\task\Alg\Valid Mountain Array\Valid Mountain Array\obj\Debug\net8.0\Valid Mountain Array.genruntimeconfig.cache
+C:\iliyan\proggraming\task\Alg\Valid Mountain Array\Valid Mountain Array\obj\Debug\net8.0\ref\Valid Mountain Array.dll
