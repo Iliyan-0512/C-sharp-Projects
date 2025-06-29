@@ -1,24 +1,26 @@
 ﻿using System.Net.NetworkInformation;
 using LanguageFeatures.Model;
+using LanguageFeatures.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace LanguageFeatures.Controllers
 {
     public class HomeController : Controller
     {
-        public IActionResult Index()
+        public async Task<ViewResult> Index()
         {
-            List<string> results = new List<string>();
-            foreach (Product p in Product.GetProducts())
-            {
-                string name = p?.Name ?? "<No Name>";
-                decimal? price = p?.Price ?? 0;
-                string relatedName = p?.Related?.Name ?? "<None>";
-                results.Add(string.Format("Name: {0}, Price: {1}", name, price));
-                
-                string.Format("Name: {0}, Price: {1}, Related: {2}",name, price, relatedName);
-            }
-            return View(results);
+            var products = new[] {
+ new { Name = "Kayak", Price = 275M },
+ new { Name = "Lifejacket", Price = 48.95M },
+ new { Name = "Soccer ball", Price = 19.50M },
+ new { Name = "Corner flag", Price = 34.95M }
+ };
+            return View(products.Select(p =>$"{nameof(p.Name)}: {p.Name}, {nameof(p.Price)}: {p.Price}"
+));
+
+
         }
+
+
     }
 }
