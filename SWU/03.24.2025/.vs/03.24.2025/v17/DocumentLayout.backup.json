@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\iliyan\\proggraming\\task\\SWU\\03.24.2025\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{02D433B8-9A4D-49D9-8853-2482E7906862}|03.24.2025\\03.24.2025.csproj|c:\\iliyan\\proggraming\\task\\swu\\03.24.2025\\03.24.2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D433B8-9A4D-49D9-8853-2482E7906862}|03.24.2025\\03.24.2025.csproj|solutionrelative:03.24.2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{02D433B8-9A4D-49D9-8853-2482E7906862}|03.24.2025\\03.24.2025.csproj|c:\\iliyan\\proggraming\\task\\swu\\03.24.2025\\03.24.2025\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02D433B8-9A4D-49D9-8853-2482E7906862}|03.24.2025\\03.24.2025.csproj|solutionrelative:03.24.2025\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02D433B8-9A4D-49D9-8853-2482E7906862}|03.24.2025\\03.24.2025.csproj|c:\\iliyan\\proggraming\\task\\swu\\03.24.2025\\03.24.2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02D433B8-9A4D-49D9-8853-2482E7906862}|03.24.2025\\03.24.2025.csproj|solutionrelative:03.24.2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02D433B8-9A4D-49D9-8853-2482E7906862}|03.24.2025\\03.24.2025.csproj|c:\\iliyan\\proggraming\\task\\swu\\03.24.2025\\03.24.2025\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D433B8-9A4D-49D9-8853-2482E7906862}|03.24.2025\\03.24.2025.csproj|solutionrelative:03.24.2025\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +22,51 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\03.24.2025\\03.24.2025\\Product.cs",
+              "RelativeDocumentMoniker": "03.24.2025\\Product.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\03.24.2025\\03.24.2025\\Product.cs",
+              "RelativeToolTip": "03.24.2025\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T12:42:27.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\03.24.2025\\03.24.2025\\Employee.cs",
               "RelativeDocumentMoniker": "03.24.2025\\Employee.cs",
               "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\03.24.2025\\03.24.2025\\Employee.cs",
               "RelativeToolTip": "03.24.2025\\Employee.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAwwE0AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwE0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T11:46:42.692Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\03.24.2025\\03.24.2025\\Program.cs",
               "RelativeDocumentMoniker": "03.24.2025\\Program.cs",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\03.24.2025\\03.24.2025\\Program.cs*",
-              "RelativeToolTip": "03.24.2025\\Program.cs*",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA0AAAAcAAAAAAAAAA==",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\03.24.2025\\03.24.2025\\Program.cs",
+              "RelativeToolTip": "03.24.2025\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T11:45:48.829Z",
               "EditorCaption": ""

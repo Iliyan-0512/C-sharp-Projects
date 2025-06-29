@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\iliyan\\proggraming\\task\\OOP-c#\\CardGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B27078CC-9DEE-44E5-8C6D-BFF415D91F5B}|CardGame\\CardGame.csproj|c:\\iliyan\\proggraming\\task\\oop-c#\\cardgame\\cardgame\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B27078CC-9DEE-44E5-8C6D-BFF415D91F5B}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B27078CC-9DEE-44E5-8C6D-BFF415D91F5B}|CardGame\\CardGame.csproj|c:\\iliyan\\proggraming\\task\\oop-c#\\cardgame\\cardgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B27078CC-9DEE-44E5-8C6D-BFF415D91F5B}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27078CC-9DEE-44E5-8C6D-BFF415D91F5B}|CardGame\\CardGame.csproj|c:\\iliyan\\proggraming\\task\\oop-c#\\cardgame\\cardgame\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27078CC-9DEE-44E5-8C6D-BFF415D91F5B}|CardGame\\CardGame.csproj|solutionrelative:cardgame\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B27078CC-9DEE-44E5-8C6D-BFF415D91F5B}|CardGame\\CardGame.csproj|c:\\iliyan\\proggraming\\task\\oop-c#\\cardgame\\cardgame\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Deck.cs",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\OOP-c#\\CardGame\\CardGame\\Deck.cs",
               "RelativeDocumentMoniker": "CardGame\\Deck.cs",
               "ToolTip": "C:\\iliyan\\proggraming\\task\\OOP-c#\\CardGame\\CardGame\\Deck.cs",
               "RelativeToolTip": "CardGame\\Deck.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAowBoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-31T11:44:06.916Z",
               "EditorCaption": ""
@@ -86,12 +86,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\OOP-c#\\CardGame\\CardGame\\Program.cs",
               "RelativeDocumentMoniker": "CardGame\\Program.cs",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\OOP-c#\\CardGame\\CardGame\\Program.cs*",
-              "RelativeToolTip": "CardGame\\Program.cs*",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\OOP-c#\\CardGame\\CardGame\\Program.cs",
+              "RelativeToolTip": "CardGame\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-30T21:31:07.598Z",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimulatorForAnimal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c3b22d620485dc50edce5489296210266f4f3d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2638f1a8cc5a767053a81d2999fcaa19657a4392")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimulatorForAnimal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimulatorForAnimal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

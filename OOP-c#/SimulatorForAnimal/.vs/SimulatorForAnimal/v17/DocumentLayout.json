@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{E675D022-3CE8-4EF4-B4DF-2DD550E17865}|SimulatorForAnimal\\SimulatorForAnimal.csproj|solutionrelative:simulatorforanimal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E675D022-3CE8-4EF4-B4DF-2DD550E17865}|SimulatorForAnimal\\SimulatorForAnimal.csproj|c:\\iliyan\\proggraming\\task\\oop-c#\\simulatorforanimal\\simulatorforanimal\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E675D022-3CE8-4EF4-B4DF-2DD550E17865}|SimulatorForAnimal\\SimulatorForAnimal.csproj|solutionrelative:simulatorforanimal\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E675D022-3CE8-4EF4-B4DF-2DD550E17865}|SimulatorForAnimal\\SimulatorForAnimal.csproj|c:\\iliyan\\proggraming\\task\\oop-c#\\simulatorforanimal\\simulatorforanimal\\bat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E675D022-3CE8-4EF4-B4DF-2DD550E17865}|SimulatorForAnimal\\SimulatorForAnimal.csproj|solutionrelative:simulatorforanimal\\bat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E675D022-3CE8-4EF4-B4DF-2DD550E17865}|SimulatorForAnimal\\SimulatorForAnimal.csproj|c:\\iliyan\\proggraming\\task\\oop-c#\\simulatorforanimal\\simulatorforanimal\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E675D022-3CE8-4EF4-B4DF-2DD550E17865}|SimulatorForAnimal\\SimulatorForAnimal.csproj|solutionrelative:simulatorforanimal\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E675D022-3CE8-4EF4-B4DF-2DD550E17865}|SimulatorForAnimal\\SimulatorForAnimal.csproj|c:\\iliyan\\proggraming\\task\\oop-c#\\simulatorforanimal\\simulatorforanimal\\ipackhunter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E675D022-3CE8-4EF4-B4DF-2DD550E17865}|SimulatorForAnimal\\SimulatorForAnimal.csproj|solutionrelative:simulatorforanimal\\ipackhunter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E675D022-3CE8-4EF4-B4DF-2DD550E17865}|SimulatorForAnimal\\SimulatorForAnimal.csproj|c:\\iliyan\\proggraming\\task\\oop-c#\\simulatorforanimal\\simulatorforanimal\\iswimmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E675D022-3CE8-4EF4-B4DF-2DD550E17865}|SimulatorForAnimal\\SimulatorForAnimal.csproj|solutionrelative:simulatorforanimal\\iswimmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E675D022-3CE8-4EF4-B4DF-2DD550E17865}|SimulatorForAnimal\\SimulatorForAnimal.csproj|c:\\iliyan\\proggraming\\task\\oop-c#\\simulatorforanimal\\simulatorforanimal\\animals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,43 +34,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "IPackHunter.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\OOP-c#\\SimulatorForAnimal\\SimulatorForAnimal\\IPackHunter.cs",
+              "RelativeDocumentMoniker": "SimulatorForAnimal\\IPackHunter.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\OOP-c#\\SimulatorForAnimal\\SimulatorForAnimal\\IPackHunter.cs",
+              "RelativeToolTip": "SimulatorForAnimal\\IPackHunter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T18:53:48.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISwimmer.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\OOP-c#\\SimulatorForAnimal\\SimulatorForAnimal\\ISwimmer.cs",
+              "RelativeDocumentMoniker": "SimulatorForAnimal\\ISwimmer.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\OOP-c#\\SimulatorForAnimal\\SimulatorForAnimal\\ISwimmer.cs",
+              "RelativeToolTip": "SimulatorForAnimal\\ISwimmer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T18:53:19.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "bat.cs",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\OOP-c#\\SimulatorForAnimal\\SimulatorForAnimal\\bat.cs",
               "RelativeDocumentMoniker": "SimulatorForAnimal\\bat.cs",
               "ToolTip": "C:\\iliyan\\proggraming\\task\\OOP-c#\\SimulatorForAnimal\\SimulatorForAnimal\\bat.cs",
               "RelativeToolTip": "SimulatorForAnimal\\bat.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAYAAAA",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T12:42:34.598Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Lion.cs",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\OOP-c#\\SimulatorForAnimal\\SimulatorForAnimal\\Lion.cs",
               "RelativeDocumentMoniker": "SimulatorForAnimal\\Lion.cs",
               "ToolTip": "C:\\iliyan\\proggraming\\task\\OOP-c#\\SimulatorForAnimal\\SimulatorForAnimal\\Lion.cs",
               "RelativeToolTip": "SimulatorForAnimal\\Lion.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAUwBYAAAAAAAAA",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T11:50:47.652Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Animals.cs",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\OOP-c#\\SimulatorForAnimal\\SimulatorForAnimal\\Animals.cs",
               "RelativeDocumentMoniker": "SimulatorForAnimal\\Animals.cs",
               "ToolTip": "C:\\iliyan\\proggraming\\task\\OOP-c#\\SimulatorForAnimal\\SimulatorForAnimal\\Animals.cs",
               "RelativeToolTip": "SimulatorForAnimal\\Animals.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBcAAAAJAAAA",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T11:42:04.611Z",
               "EditorCaption": ""
@@ -75,7 +109,7 @@
               "RelativeDocumentMoniker": "SimulatorForAnimal\\Program.cs",
               "ToolTip": "C:\\iliyan\\proggraming\\task\\OOP-c#\\SimulatorForAnimal\\SimulatorForAnimal\\Program.cs",
               "RelativeToolTip": "SimulatorForAnimal\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T11:30:40.068Z",
               "EditorCaption": ""

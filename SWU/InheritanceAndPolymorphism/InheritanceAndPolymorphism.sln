@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceAndPolymorphism", "InheritanceAndPolymorphism\InheritanceAndPolymorphism.csproj", "{4921F37D-C2F0-4ECF-BBEC-0D4DB3E1B903}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enums", "Enums\Enums.csproj", "{282BD6A8-0C3E-4A3B-9F7C-9A5A45FA3073}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Properties", "Properties\Properties.csproj", "{738002B1-7623-4C07-8C3A-B8F346C725FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexers", "Indexers\Indexers.csproj", "{3B18E092-7804-4A20-A3FF-C0A214981A25}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{4921F37D-C2F0-4ECF-BBEC-0D4DB3E1B903}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4921F37D-C2F0-4ECF-BBEC-0D4DB3E1B903}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4921F37D-C2F0-4ECF-BBEC-0D4DB3E1B903}.Release|Any CPU.Build.0 = Release|Any CPU
+		{282BD6A8-0C3E-4A3B-9F7C-9A5A45FA3073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{282BD6A8-0C3E-4A3B-9F7C-9A5A45FA3073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{282BD6A8-0C3E-4A3B-9F7C-9A5A45FA3073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{282BD6A8-0C3E-4A3B-9F7C-9A5A45FA3073}.Release|Any CPU.Build.0 = Release|Any CPU
+		{738002B1-7623-4C07-8C3A-B8F346C725FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{738002B1-7623-4C07-8C3A-B8F346C725FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{738002B1-7623-4C07-8C3A-B8F346C725FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{738002B1-7623-4C07-8C3A-B8F346C725FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B18E092-7804-4A20-A3FF-C0A214981A25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B18E092-7804-4A20-A3FF-C0A214981A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B18E092-7804-4A20-A3FF-C0A214981A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B18E092-7804-4A20-A3FF-C0A214981A25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\iliyan\\proggraming\\task\\FirstApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D29FFAB6-F87D-4551-85C7-7C0B76DA69C1}|MajorAlgoritum\\MajorAlgoritum.csproj|c:\\iliyan\\proggraming\\task\\firstapp\\majoralgoritum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D29FFAB6-F87D-4551-85C7-7C0B76DA69C1}|MajorAlgoritum\\MajorAlgoritum.csproj|solutionrelative:majoralgoritum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43DD80B-530E-4845-AA23-D8B958E30A3E}|EditCode\\EditCode.csproj|c:\\iliyan\\proggraming\\task\\firstapp\\editcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43DD80B-530E-4845-AA23-D8B958E30A3E}|EditCode\\EditCode.csproj|solutionrelative:editcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D0AC9BB8-A952-48F1-95F6-29D35F040ADF}|FirstApp\\FirstApp.csproj|c:\\iliyan\\proggraming\\task\\firstapp\\firstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0AC9BB8-A952-48F1-95F6-29D35F040ADF}|FirstApp\\FirstApp.csproj|solutionrelative:firstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,19 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\FirstApp\\EditCode\\Program.cs",
+              "RelativeDocumentMoniker": "EditCode\\Program.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\FirstApp\\EditCode\\Program.cs",
+              "RelativeToolTip": "EditCode\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:01:03.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\FirstApp\\FirstApp\\Program.cs",
               "RelativeDocumentMoniker": "FirstApp\\Program.cs",
               "ToolTip": "C:\\iliyan\\proggraming\\task\\FirstApp\\FirstApp\\Program.cs",
               "RelativeToolTip": "FirstApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T10:43:47.111Z",
+              "WhenOpened": "2025-03-05T13:41:01.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\FirstApp\\MajorAlgoritum\\Program.cs",
+              "RelativeDocumentMoniker": "MajorAlgoritum\\Program.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\FirstApp\\MajorAlgoritum\\Program.cs*",
+              "RelativeToolTip": "MajorAlgoritum\\Program.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowB0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:38:25.863Z",
               "EditorCaption": ""
             }
           ]

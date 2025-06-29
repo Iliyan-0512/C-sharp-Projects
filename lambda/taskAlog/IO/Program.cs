@@ -1,29 +1,22 @@
-﻿string  command =Console.ReadLine();
-
-if (command == "Array")
+﻿string command =Console.ReadLine();
+if (command=="Array")
 {
-    
-    int[] arr = Console.ReadLine().Split().Select(int.Parse).ToArray();
-    int[] reverse = new int[arr.Length]; 
-
-    
-    for (int i = arr.Length - 1; i >= 0; i--)
+    int[] number=Console.ReadLine().Split().Select(int.Parse).ToArray();
+    int[] reverse = new int[number.Length];
+    for (int i=number.Length-1;i>=0;i--)
     {
-        reverse[arr.Length - 1 - i] = arr[i]; 
+       
+        reverse[number.Length - 1 - i] = number[i];
     }
-
-   
     Console.WriteLine(string.Join(" ", reverse));
 }
-else if (command =="String")
+else if (command=="String")
 {
-    string original = Console.ReadLine();
-    string reversed = "";
-
-    for (int i = original.Length - 1; i >= 0; i--)
+    string text = Console.ReadLine();
+    string reverse = "";
+    for (int i = text.Length-1; i >= 0; i--)
     {
-        reversed += original[i];
+        reverse += text[i];
     }
-
-    Console.WriteLine(reversed);
+    Console.WriteLine(reverse);
 }

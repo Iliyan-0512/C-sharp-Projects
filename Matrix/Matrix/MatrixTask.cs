@@ -26,17 +26,7 @@ namespace Matrix
             }
         }
 
-        public void ReadMatrix(int[,] matrix)
-        {
-            for (int i = 0; i < matrix.GetLength(0); i++)
-            {
-                for (int j = 0; j < matrix.GetLength(1); j++)
-                {
-
-                    matrix[i, j] = int.Parse(Console.ReadLine());
-                }
-            }
-        }
+     
         public int[,] MultiplayMatrix(int[,] matrixA, int[,] matrixB)
         {
             int[,] matrixC;
@@ -60,9 +50,10 @@ namespace Matrix
         public int[,] MatrixAddition(int[,] matrixA, int[,] matrixB)
         {
             int[,] matrixC;
-            int colsA = matrixA.GetLength(0);
-            int rowsA = matrixA.GetLength(1);
-            matrixC= new int[rowsA, colsA];
+            int rowsA = matrixA.GetLength(0);
+            int colsA = matrixA.GetLength(1);
+            ;
+            matrixC = new int[rowsA, colsA];
             for (int i = 0;i < rowsA; i++)
             {
                 for(int j = 0;j < colsA; j++)

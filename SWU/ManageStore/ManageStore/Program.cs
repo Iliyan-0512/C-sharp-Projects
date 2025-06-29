@@ -1,42 +1,42 @@
 ﻿using System;
+using System.Diagnostics.Metrics;
 using ManageStore;
+using MenuReflection;
 
 internal class Program
 {
     private static void Main(string[] args)
     {
-        Menu();
-        int choose = int.Parse(Console.ReadLine());
-        while (choose != 0)
-        {
-            switch (choose)
-            {
-                case 1:
-                    AddProduct();
-                    break;
-                case 2:
-                    RemoveProduct();
-                    break;
-                case 3:
-                    ShowAll();
-                    break;
-            }
-            Menu();
-            choose = int.Parse(Console.ReadLine());
-        }
+        Thread t1 = new Thread(() => ShowTime());
+        t1.Start();
+        var menu = new ReplMenu(typeof(Program));
+        menu.Run();
 
 
     }
 
-    private static void Menu()
+    private static void ShowTime()
     {
-        Console.WriteLine("Hi, choose one of the next options");
-        Console.WriteLine("0-exit");
-        Console.WriteLine("1-add product");
-        Console.WriteLine("2-withdraw of product");
-        Console.WriteLine("3-list with all products");
+        while (true)
+        {
+            Object _object= new object();
+            lock (_object)
+            {
+                int top = Console.CursorTop;
+                int left = Console.CursorLeft;
+                Console.SetCursorPosition(60, 1);
+                Console.WriteLine(DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss"));
+                Console.SetCursorPosition(left, top);
+            }
+
+
+            Thread.Sleep(10);
+        }
+        
     }
-    private static void AddProduct()
+
+    [MenuItem("Add Product", 1, false)]
+    public static void AddProduct()
     {
 
 
@@ -47,6 +47,21 @@ internal class Program
             Console.WriteLine("Enter serial number");
 
             int serialNumber = int.Parse(Console.ReadLine());
+            Console.WriteLine("Choose unit of measurement:");
+            foreach (var value in Enum.GetValues(typeof(Unit)))
+            {
+                Console.WriteLine($"{(int)value} - {value}");
+            }
+
+            Console.WriteLine("Enter unit of measurement (Kilograms, Grams, Liter):");
+            string input = Console.ReadLine();
+
+            Unit selectedUnit;
+            while (!Enum.TryParse(input, true, out selectedUnit))
+            {
+                Console.WriteLine("Invalid input. Please enter one of: Kilograms, Grams, Liter");
+                input = Console.ReadLine();
+            }
 
             Console.WriteLine("Enter price");
             double price = double.Parse(Console.ReadLine());
@@ -55,7 +70,7 @@ internal class Program
             {
                 Name = name,
                 SerianNumber = serialNumber,
-
+                MeasurId = selectedUnit,
                 Price = price,
 
             };
@@ -68,27 +83,34 @@ internal class Program
         }
 
     }
-    private static void RemoveProduct()
+    [MenuItem("Remove Product", 2, false)]
+    public static void RemoveProduct()
     {
         using (var dbContext = new AppDbContext())
         {
-            var x=dbContext.Products.FirstOrDefault(e=>e.Id==1);
+            var x = dbContext.Products.FirstOrDefault(e => e.Id == 1);
             dbContext.Products.Remove(x);
             Console.WriteLine("nice");
         }
     }
-    private static void ShowAll()
+    [MenuItem("Show All", 3, false)]
+    public static void ShowAll()
     {
         using (var dbContext = new AppDbContext())
         {
-            var x = dbContext.Products.Select(e=>e.Name).ToList();
+            var x = dbContext.Products.Select(e => e.Name).ToList();
             foreach (var item in x)
             {
                 Console.WriteLine(item);
             }
-            
-          
+
+
         }
     }
-    
+    [MenuItem("Exit", 4, true)]
+    public static void Exit()
+    {
+        Environment.Exit(0);
+    }
+
 }

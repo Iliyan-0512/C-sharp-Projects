@@ -24,10 +24,10 @@ internal class Program
                 nums.Add(number);
                 Console.WriteLine("Add number");
             }
-            //else
-            //{
-            //    Console.WriteLine("Error, enter correctly input:");
-            //}
+            else
+            {
+                Console.WriteLine("Error, enter correctly input:");
+            }
         }
 
 

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SimulatorForAnimal
 {
-    public class Bat(string name,string description,int age):Animals(name,description,age)
+    public class Bat(string name,string description,int age):Animals(name,description,age),ISwimmer
     {
         public override void Type()
         {
@@ -20,6 +20,10 @@ namespace SimulatorForAnimal
         public override void Sleep()
         {
             base.Sleep();
+        }
+       public void Swim()
+        {
+            Console.WriteLine("");
         }
     }
 }

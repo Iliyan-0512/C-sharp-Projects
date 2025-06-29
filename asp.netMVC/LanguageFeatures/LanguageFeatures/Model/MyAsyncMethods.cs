@@ -6,7 +6,7 @@
         {
             HttpClient client = new HttpClient();
             var httpMessage = await client.GetAsync("http://apress.com");
-            return httpMessage.Content.Headers.ContentLength;
+            return httpMessage.Content.Headers.ContentLength;     
         }
     }
 }

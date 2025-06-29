@@ -21,6 +21,12 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Reference Include="MenuLib">
+      <HintPath>..\..\MenuReflection\MenuReflection\bin\Debug\net9.0\MenuLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
     <None Update="Test.db">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>

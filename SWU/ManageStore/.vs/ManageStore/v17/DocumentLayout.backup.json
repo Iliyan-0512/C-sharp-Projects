@@ -3,28 +3,58 @@
   "WorkspaceRootPath": "C:\\iliyan\\proggraming\\task\\SWU\\ManageStore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C008EB93-999D-4623-B0BA-876E45E2DFBE}|ManageStore\\ManageStore.csproj|c:\\iliyan\\proggraming\\task\\swu\\managestore\\managestore\\managestore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C008EB93-999D-4623-B0BA-876E45E2DFBE}|ManageStore\\ManageStore.csproj|solutionrelative:managestore\\managestore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C008EB93-999D-4623-B0BA-876E45E2DFBE}|ManageStore\\ManageStore.csproj|c:\\iliyan\\proggraming\\task\\swu\\managestore\\managestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C008EB93-999D-4623-B0BA-876E45E2DFBE}|ManageStore\\ManageStore.csproj|solutionrelative:managestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C008EB93-999D-4623-B0BA-876E45E2DFBE}|ManageStore\\ManageStore.csproj|c:\\iliyan\\proggraming\\task\\swu\\managestore\\managestore\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C008EB93-999D-4623-B0BA-876E45E2DFBE}|ManageStore\\ManageStore.csproj|solutionrelative:managestore\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E514A60-9F50-4EBC-BAE7-8F4706FA4F36}|..\\MenuReflection\\MenuLib\\MenuLib.csproj|c:\\iliyan\\proggraming\\task\\swu\\menureflection\\menulib\\menuitemattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C008EB93-999D-4623-B0BA-876E45E2DFBE}|ManageStore\\ManageStore.csproj|c:\\iliyan\\proggraming\\task\\swu\\managestore\\managestore\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C008EB93-999D-4623-B0BA-876E45E2DFBE}|ManageStore\\ManageStore.csproj|solutionrelative:managestore\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E514A60-9F50-4EBC-BAE7-8F4706FA4F36}|..\\MenuReflection\\MenuLib\\MenuLib.csproj|c:\\iliyan\\proggraming\\task\\swu\\menureflection\\menulib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E514A60-9F50-4EBC-BAE7-8F4706FA4F36}|..\\MenuReflection\\MenuLib\\MenuLib.csproj|c:\\iliyan\\proggraming\\task\\swu\\menureflection\\menulib\\menulib.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C008EB93-999D-4623-B0BA-876E45E2DFBE}|ManageStore\\ManageStore.csproj|c:\\iliyan\\proggraming\\task\\swu\\managestore\\managestore\\measurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C008EB93-999D-4623-B0BA-876E45E2DFBE}|ManageStore\\ManageStore.csproj|solutionrelative:managestore\\measurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C008EB93-999D-4623-B0BA-876E45E2DFBE}|ManageStore\\ManageStore.csproj|c:\\iliyan\\proggraming\\task\\swu\\managestore\\managestore\\migrations\\20250409123306_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C008EB93-999D-4623-B0BA-876E45E2DFBE}|ManageStore\\ManageStore.csproj|solutionrelative:managestore\\migrations\\20250409123306_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E514A60-9F50-4EBC-BAE7-8F4706FA4F36}|..\\MenuReflection\\MenuLib\\MenuLib.csproj|c:\\iliyan\\proggraming\\task\\swu\\menureflection\\menulib\\menulib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\iliyan\\proggraming\\task\\SWU\\ManageStore\\ManageStore\\Migrations\\20250409123151_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ManageStore\\Migrations\\20250409123151_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E514A60-9F50-4EBC-BAE7-8F4706FA4F36}|..\\MenuReflection\\MenuLib\\MenuLib.csproj|c:\\iliyan\\proggraming\\task\\swu\\menureflection\\menulib\\replmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C008EB93-999D-4623-B0BA-876E45E2DFBE}|ManageStore\\ManageStore.csproj|c:\\iliyan\\proggraming\\task\\swu\\managestore\\managestore\\usefulsql.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C008EB93-999D-4623-B0BA-876E45E2DFBE}|ManageStore\\ManageStore.csproj|solutionrelative:managestore\\usefulsql.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C008EB93-999D-4623-B0BA-876E45E2DFBE}|ManageStore\\ManageStore.csproj|c:\\iliyan\\proggraming\\task\\swu\\managestore\\managestore\\mesuare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C008EB93-999D-4623-B0BA-876E45E2DFBE}|ManageStore\\ManageStore.csproj|solutionrelative:managestore\\mesuare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C008EB93-999D-4623-B0BA-876E45E2DFBE}|ManageStore\\ManageStore.csproj|c:\\iliyan\\proggraming\\task\\swu\\managestore\\managestore\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C008EB93-999D-4623-B0BA-876E45E2DFBE}|ManageStore\\ManageStore.csproj|solutionrelative:managestore\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5799C654-B459-4184-B225-22D4E6B82CB5}|..\\MenuReflection\\MenuReflection\\MenuReflection.csproj|c:\\iliyan\\proggraming\\task\\swu\\menureflection\\menureflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C008EB93-999D-4623-B0BA-876E45E2DFBE}|ManageStore\\ManageStore.csproj|c:\\iliyan\\proggraming\\task\\swu\\managestore\\managestore\\migrations\\20250416134540_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C008EB93-999D-4623-B0BA-876E45E2DFBE}|ManageStore\\ManageStore.csproj|solutionrelative:managestore\\migrations\\20250416134540_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C008EB93-999D-4623-B0BA-876E45E2DFBE}|ManageStore\\ManageStore.csproj|c:\\iliyan\\proggraming\\task\\swu\\managestore\\managestore\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C008EB93-999D-4623-B0BA-876E45E2DFBE}|ManageStore\\ManageStore.csproj|solutionrelative:managestore\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\iliyan\\proggraming\\task\\SWU\\ManageStore\\ManageStore\\Migrations\\20250416132346_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ManageStore\\Migrations\\20250416132346_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,85 +64,195 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "MenuItemAttribute.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\MenuReflection\\MenuLib\\MenuItemAttribute.cs",
+              "RelativeDocumentMoniker": "..\\MenuReflection\\MenuLib\\MenuItemAttribute.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\MenuReflection\\MenuLib\\MenuItemAttribute.cs",
+              "RelativeToolTip": "..\\MenuReflection\\MenuLib\\MenuItemAttribute.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:49:40.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReplMenu.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\MenuReflection\\MenuLib\\ReplMenu.cs",
+              "RelativeDocumentMoniker": "..\\MenuReflection\\MenuLib\\ReplMenu.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\MenuReflection\\MenuLib\\ReplMenu.cs",
+              "RelativeToolTip": "..\\MenuReflection\\MenuLib\\ReplMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:49:35.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuLib.csproj",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\MenuReflection\\MenuLib\\MenuLib.csproj",
+              "RelativeDocumentMoniker": "..\\MenuReflection\\MenuLib\\MenuLib.csproj",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\MenuReflection\\MenuLib\\MenuLib.csproj",
+              "RelativeToolTip": "..\\MenuReflection\\MenuLib\\MenuLib.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-20T11:49:32.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsefulSQL.txt",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\ManageStore\\ManageStore\\UsefulSQL.txt",
+              "RelativeDocumentMoniker": "ManageStore\\UsefulSQL.txt",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\ManageStore\\ManageStore\\UsefulSQL.txt",
+              "RelativeToolTip": "ManageStore\\UsefulSQL.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-16T13:46:11.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Measurement.cs",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\ManageStore\\ManageStore\\Measurement.cs",
               "RelativeDocumentMoniker": "ManageStore\\Measurement.cs",
               "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\ManageStore\\ManageStore\\Measurement.cs",
               "RelativeToolTip": "ManageStore\\Measurement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T13:16:21.992Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20250409123306_InitialDb.cs",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\ManageStore\\ManageStore\\Migrations\\20250409123306_InitialDb.cs",
-              "RelativeDocumentMoniker": "ManageStore\\Migrations\\20250409123306_InitialDb.cs",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\ManageStore\\ManageStore\\Migrations\\20250409123306_InitialDb.cs",
-              "RelativeToolTip": "ManageStore\\Migrations\\20250409123306_InitialDb.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T12:33:06.927Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20250409123151_initial.cs",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\ManageStore\\ManageStore\\Migrations\\20250409123151_initial.cs",
-              "RelativeDocumentMoniker": "ManageStore\\Migrations\\20250409123151_initial.cs",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\ManageStore\\ManageStore\\Migrations\\20250409123151_initial.cs",
-              "RelativeToolTip": "ManageStore\\Migrations\\20250409123151_initial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T12:31:51.542Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\ManageStore\\ManageStore\\Product.cs",
-              "RelativeDocumentMoniker": "ManageStore\\Product.cs",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\ManageStore\\ManageStore\\Product.cs",
-              "RelativeToolTip": "ManageStore\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T11:58:26.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\ManageStore\\ManageStore\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "ManageStore\\AppDbContext.cs",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\ManageStore\\ManageStore\\AppDbContext.cs",
-              "RelativeToolTip": "ManageStore\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T11:55:59.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\ManageStore\\ManageStore\\Program.cs",
               "RelativeDocumentMoniker": "ManageStore\\Program.cs",
               "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\ManageStore\\ManageStore\\Program.cs",
               "RelativeToolTip": "ManageStore\\Program.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAIwFMAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T11:49:23.249Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManageStore.csproj",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\ManageStore\\ManageStore\\ManageStore.csproj",
+              "RelativeDocumentMoniker": "ManageStore\\ManageStore.csproj",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\ManageStore\\ManageStore\\ManageStore.csproj",
+              "RelativeToolTip": "ManageStore\\ManageStore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-20T12:05:56.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\MenuReflection\\MenuLib\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\MenuReflection\\MenuLib\\Class1.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\MenuReflection\\MenuLib\\Class1.cs",
+              "RelativeToolTip": "..\\MenuReflection\\MenuLib\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:49:42.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuLib",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\MenuReflection\\MenuLib\\MenuLib.csproj",
+              "RelativeDocumentMoniker": "..\\MenuReflection\\MenuLib\\MenuLib.csproj",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\MenuReflection\\MenuLib\\MenuLib.csproj",
+              "RelativeToolTip": "..\\MenuReflection\\MenuLib\\MenuLib.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-20T12:01:56.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\MenuReflection\\MenuReflection\\Program.cs",
+              "RelativeDocumentMoniker": "..\\MenuReflection\\MenuReflection\\Program.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\MenuReflection\\MenuReflection\\Program.cs",
+              "RelativeToolTip": "..\\MenuReflection\\MenuReflection\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:54:44.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250416134540_initial.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\ManageStore\\ManageStore\\Migrations\\20250416134540_initial.cs",
+              "RelativeDocumentMoniker": "ManageStore\\Migrations\\20250416134540_initial.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\ManageStore\\ManageStore\\Migrations\\20250416134540_initial.cs",
+              "RelativeToolTip": "ManageStore\\Migrations\\20250416134540_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T13:45:40.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250416132346_initial.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\ManageStore\\ManageStore\\Migrations\\20250416132346_initial.cs",
+              "RelativeDocumentMoniker": "ManageStore\\Migrations\\20250416132346_initial.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\ManageStore\\ManageStore\\Migrations\\20250416132346_initial.cs",
+              "RelativeToolTip": "ManageStore\\Migrations\\20250416132346_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T13:23:46.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Mesuare.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\ManageStore\\ManageStore\\Mesuare.cs",
+              "RelativeDocumentMoniker": "ManageStore\\Mesuare.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\ManageStore\\ManageStore\\Mesuare.cs",
+              "RelativeToolTip": "ManageStore\\Mesuare.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T13:14:00.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\ManageStore\\ManageStore\\Product.cs",
+              "RelativeDocumentMoniker": "ManageStore\\Product.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\ManageStore\\ManageStore\\Product.cs",
+              "RelativeToolTip": "ManageStore\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:58:26.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\ManageStore\\ManageStore\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ManageStore\\AppDbContext.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\ManageStore\\ManageStore\\AppDbContext.cs",
+              "RelativeToolTip": "ManageStore\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:55:59.613Z"
             }
           ]
         }

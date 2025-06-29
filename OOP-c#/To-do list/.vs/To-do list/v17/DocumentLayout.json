@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\iliyan\\proggraming\\task\\OOP-c#\\To-do list\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78A080A8-D826-460A-980F-FF301EF96ADC}|To-do list\\To-do list.csproj|c:\\iliyan\\proggraming\\task\\oop-c#\\to-do list\\to-do list\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78A080A8-D826-460A-980F-FF301EF96ADC}|To-do list\\To-do list.csproj|solutionrelative:to-do list\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78A080A8-D826-460A-980F-FF301EF96ADC}|To-do list\\To-do list.csproj|c:\\iliyan\\proggraming\\task\\oop-c#\\to-do list\\to-do list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A080A8-D826-460A-980F-FF301EF96ADC}|To-do list\\To-do list.csproj|solutionrelative:to-do list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A080A8-D826-460A-980F-FF301EF96ADC}|To-do list\\To-do list.csproj|c:\\iliyan\\proggraming\\task\\oop-c#\\to-do list\\to-do list\\todoapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A080A8-D826-460A-980F-FF301EF96ADC}|To-do list\\To-do list.csproj|solutionrelative:to-do list\\todoapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{78A080A8-D826-460A-980F-FF301EF96ADC}|To-do list\\To-do list.csproj|c:\\iliyan\\proggraming\\task\\oop-c#\\to-do list\\to-do list\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78A080A8-D826-460A-980F-FF301EF96ADC}|To-do list\\To-do list.csproj|solutionrelative:to-do list\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78A080A8-D826-460A-980F-FF301EF96ADC}|To-do list\\To-do list.csproj|c:\\iliyan\\proggraming\\task\\oop-c#\\to-do list\\to-do list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78A080A8-D826-460A-980F-FF301EF96ADC}|To-do list\\To-do list.csproj|solutionrelative:to-do list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78A080A8-D826-460A-980F-FF301EF96ADC}|To-do list\\To-do list.csproj|c:\\iliyan\\proggraming\\task\\oop-c#\\to-do list\\to-do list\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A080A8-D826-460A-980F-FF301EF96ADC}|To-do list\\To-do list.csproj|solutionrelative:to-do list\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,24 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "ToDoApp.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\OOP-c#\\To-do list\\To-do list\\ToDoApp.cs",
+              "RelativeDocumentMoniker": "To-do list\\ToDoApp.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\OOP-c#\\To-do list\\To-do list\\ToDoApp.cs",
+              "RelativeToolTip": "To-do list\\ToDoApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T20:40:07.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ToDoList.cs",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\OOP-c#\\To-do list\\To-do list\\ToDoList.cs",
               "RelativeDocumentMoniker": "To-do list\\ToDoList.cs",
               "ToolTip": "C:\\iliyan\\proggraming\\task\\OOP-c#\\To-do list\\To-do list\\ToDoList.cs",
               "RelativeToolTip": "To-do list\\ToDoList.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwAsAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-06T20:43:20.439Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TaskItem.cs",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\OOP-c#\\To-do list\\To-do list\\TaskItem.cs",
               "RelativeDocumentMoniker": "To-do list\\TaskItem.cs",
@@ -52,13 +69,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\OOP-c#\\To-do list\\To-do list\\Program.cs",
               "RelativeDocumentMoniker": "To-do list\\Program.cs",
               "ToolTip": "C:\\iliyan\\proggraming\\task\\OOP-c#\\To-do list\\To-do list\\Program.cs",
               "RelativeToolTip": "To-do list\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T22:01:57.391Z",
               "EditorCaption": ""

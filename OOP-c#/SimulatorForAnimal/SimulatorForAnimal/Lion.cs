@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SimulatorForAnimal
 {
-    public class Lion(string name, string description, int age) : Animals(name, description, age)
+    public class Lion(string name, string description, int age) : Animals(name, description, age),IPackHunter
     {
        
 
@@ -19,6 +19,10 @@ namespace SimulatorForAnimal
             base.Eat();
 
             Console.WriteLine("He is very hungry");
+        }
+        public void HuntInPack()
+        {
+            Console.WriteLine("Smt");
         }
 
     }

@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion", "Recursion\Recursion.csproj", "{2ADAF9E3-38FC-44CC-98CA-502D93F277EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recursion", "Recursion\Recursion.csproj", "{2ADAF9E3-38FC-44CC-98CA-502D93F277EC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Recursive Factorial", "2. Recursive Factorial\2. Recursive Factorial.csproj", "{20FDDB4B-F09E-4ECD-99C9-774C01C1EA04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Recursive Drawing", "3. Recursive Drawing\3. Recursive Drawing.csproj", "{E45135F7-BD70-476D-A123-D5A73A6C34B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{2ADAF9E3-38FC-44CC-98CA-502D93F277EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2ADAF9E3-38FC-44CC-98CA-502D93F277EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2ADAF9E3-38FC-44CC-98CA-502D93F277EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20FDDB4B-F09E-4ECD-99C9-774C01C1EA04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20FDDB4B-F09E-4ECD-99C9-774C01C1EA04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20FDDB4B-F09E-4ECD-99C9-774C01C1EA04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20FDDB4B-F09E-4ECD-99C9-774C01C1EA04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E45135F7-BD70-476D-A123-D5A73A6C34B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E45135F7-BD70-476D-A123-D5A73A6C34B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E45135F7-BD70-476D-A123-D5A73A6C34B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E45135F7-BD70-476D-A123-D5A73A6C34B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -17,3 +17,4 @@ C:\iliyan\proggraming\task\SWU\MenuReflection\MenuReflection\bin\Debug\net9.0\Me
 C:\iliyan\proggraming\task\SWU\MenuReflection\MenuReflection\bin\Debug\net9.0\MenuLib.pdb
 C:\iliyan\proggraming\task\SWU\MenuReflection\MenuReflection\obj\Debug\net9.0\MenuReflection.csproj.AssemblyReference.cache
 C:\iliyan\proggraming\task\SWU\MenuReflection\MenuReflection\obj\Debug\net9.0\MenuRefl.14ACAAD1.Up2Date
+C:\iliyan\proggraming\task\SWU\MenuReflection\MenuReflection\bin\Debug\net9.0\MenuLib.xml

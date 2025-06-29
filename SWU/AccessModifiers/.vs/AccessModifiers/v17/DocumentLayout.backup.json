@@ -7,8 +7,16 @@
       "RelativeMoniker": "D:0:0:{6DFEB40C-E06B-4088-87C0-94E779F8B14F}|AccessModifiers\\AccessModifiers.csproj|solutionrelative:accessmodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6DFEB40C-E06B-4088-87C0-94E779F8B14F}|AccessModifiers\\AccessModifiers.csproj|c:\\iliyan\\proggraming\\task\\swu\\accessmodifiers\\accessmodifiers\\accessmodifierslibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFEB40C-E06B-4088-87C0-94E779F8B14F}|AccessModifiers\\AccessModifiers.csproj|solutionrelative:accessmodifiers\\accessmodifierslibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6DFEB40C-E06B-4088-87C0-94E779F8B14F}|AccessModifiers\\AccessModifiers.csproj|c:\\iliyan\\proggraming\\task\\swu\\accessmodifiers\\accessmodifiers\\accessmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DFEB40C-E06B-4088-87C0-94E779F8B14F}|AccessModifiers\\AccessModifiers.csproj|solutionrelative:accessmodifiers\\accessmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFEB40C-E06B-4088-87C0-94E779F8B14F}|AccessModifiers\\AccessModifiers.csproj|c:\\iliyan\\proggraming\\task\\swu\\accessmodifiers\\accessmodifiers\\modifiersderived.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFEB40C-E06B-4088-87C0-94E779F8B14F}|AccessModifiers\\AccessModifiers.csproj|solutionrelative:accessmodifiers\\modifiersderived.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AccessMod.cs",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\AccessModifiers\\AccessModifiers\\AccessMod.cs",
-              "RelativeDocumentMoniker": "AccessModifiers\\AccessMod.cs",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\AccessModifiers\\AccessModifiers\\AccessMod.cs",
-              "RelativeToolTip": "AccessModifiers\\AccessMod.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Title": "AccessModifiersLibrary.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\AccessModifiers\\AccessModifiers\\AccessModifiersLibrary.cs",
+              "RelativeDocumentMoniker": "AccessModifiers\\AccessModifiersLibrary.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\AccessModifiers\\AccessModifiers\\AccessModifiersLibrary.cs",
+              "RelativeToolTip": "AccessModifiers\\AccessModifiersLibrary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T20:08:17.555Z",
+              "WhenOpened": "2025-06-13T08:34:15.818Z",
               "EditorCaption": ""
             },
             {
@@ -41,10 +49,34 @@
               "RelativeDocumentMoniker": "AccessModifiers\\Program.cs",
               "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\AccessModifiers\\AccessModifiers\\Program.cs",
               "RelativeToolTip": "AccessModifiers\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T20:07:52.622Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModifiersDerived.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\AccessModifiers\\AccessModifiers\\ModifiersDerived.cs",
+              "RelativeDocumentMoniker": "AccessModifiers\\ModifiersDerived.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\AccessModifiers\\AccessModifiers\\ModifiersDerived.cs",
+              "RelativeToolTip": "AccessModifiers\\ModifiersDerived.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T20:20:17.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccessMod.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\SWU\\AccessModifiers\\AccessModifiers\\AccessMod.cs",
+              "RelativeDocumentMoniker": "AccessModifiers\\AccessMod.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\SWU\\AccessModifiers\\AccessModifiers\\AccessMod.cs",
+              "RelativeToolTip": "AccessModifiers\\AccessMod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T20:08:17.555Z"
             }
           ]
         }

@@ -1,11 +1,15 @@
-﻿using AccessModifiers;
-
-internal class Program
+﻿
+public class ClassA
 {
-    private static void Main(string[] args)
-    {
-        ModifiersDerived.XXX();
-        Console.ReadKey();
+    public static  const int aaa = 10;
+}
 
+public class Program
+{
+    public static void Main(string[] args)
+    {
+        ClassA classA = new ClassA();
+        Console.WriteLine(classA.aaa);
+        Console.ReadKey();
     }
 }

@@ -20,7 +20,7 @@ namespace MenuReflection
         /// </summary>
         /// <param name="caption">option name.</param>
         /// <param name="sortOrder">Menu option order.</param>
-        /// <param name=""endRepl">Whether to hide the option.</param>
+        /// <param name="endRepl">Whether to hide the option.</param>
         public MenuItemAttribute (string caption,int sortOrder,bool endRepl=false)
         {
             Caption = caption;

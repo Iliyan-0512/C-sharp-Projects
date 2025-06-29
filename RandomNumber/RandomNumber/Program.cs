@@ -1,10 +1,11 @@
 ﻿internal class Program
 {
-    private static Random random = new Random();
+   
 
     private static void Main(string[] args)
     {
-        
+        Random random = new Random(Guid.NewGuid().GetHashCode());
+
         Console.WriteLine("Which Number is");
         Console.WriteLine("Enter Nuber");
         int randomNumber = random.Next(1,21);

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f3603bc04c97c14f783215a59276b2c2e25ac56")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33ee4a3506ce7d4c05e17c7b1d9380798c356dae")]
 [assembly: System.Reflection.AssemblyProductAttribute("IO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

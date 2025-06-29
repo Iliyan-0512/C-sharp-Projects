@@ -8,11 +8,11 @@ namespace AccessModifiers
 {
     class ModifiersDerived : ModifiersBase
     {
-        public static void XXX()
-        {
-            AAA();
-            BBB();
-            CCC();
-        }
+        //public static void XXX()
+        //{
+        //    AAA();
+        //    BBB();
+        //    CCC();
+        //}
     }
 }

@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManageStore", "ManageStore\ManageStore.csproj", "{C008EB93-999D-4623-B0BA-876E45E2DFBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuLib", "..\MenuReflection\MenuLib\MenuLib.csproj", "{9E514A60-9F50-4EBC-BAE7-8F4706FA4F36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuReflection", "..\MenuReflection\MenuReflection\MenuReflection.csproj", "{5799C654-B459-4184-B225-22D4E6B82CB5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{C008EB93-999D-4623-B0BA-876E45E2DFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C008EB93-999D-4623-B0BA-876E45E2DFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C008EB93-999D-4623-B0BA-876E45E2DFBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E514A60-9F50-4EBC-BAE7-8F4706FA4F36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E514A60-9F50-4EBC-BAE7-8F4706FA4F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E514A60-9F50-4EBC-BAE7-8F4706FA4F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E514A60-9F50-4EBC-BAE7-8F4706FA4F36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5799C654-B459-4184-B225-22D4E6B82CB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5799C654-B459-4184-B225-22D4E6B82CB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5799C654-B459-4184-B225-22D4E6B82CB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5799C654-B459-4184-B225-22D4E6B82CB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

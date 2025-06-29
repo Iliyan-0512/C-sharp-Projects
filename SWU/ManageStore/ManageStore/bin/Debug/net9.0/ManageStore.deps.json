@@ -11,7 +11,8 @@
           "Microsoft.EntityFrameworkCore": "9.0.4",
           "Microsoft.EntityFrameworkCore.Design": "9.0.4",
           "Microsoft.EntityFrameworkCore.Sqlite": "9.0.4",
-          "Microsoft.EntityFrameworkCore.Tools": "9.0.4"
+          "Microsoft.EntityFrameworkCore.Tools": "9.0.4",
+          "MenuLib": "1.0.0.0"
         },
         "runtime": {
           "ManageStore.dll": {}
@@ -774,7 +775,15 @@
           }
         }
       },
-      "System.Threading.Channels/7.0.0": {}
+      "System.Threading.Channels/7.0.0": {},
+      "MenuLib/1.0.0.0": {
+        "runtime": {
+          "MenuLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
     }
   },
   "libraries": {
@@ -1118,6 +1127,11 @@
       "sha512": "sha512-qmeeYNROMsONF6ndEZcIQ+VxR4Q/TX/7uIVLJqtwIWL7dDWeh0l1UIqgo4wYyjG//5lUNhwkLDSFl+pAWO6oiA==",
       "path": "system.threading.channels/7.0.0",
       "hashPath": "system.threading.channels.7.0.0.nupkg.sha512"
+    },
+    "MenuLib/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

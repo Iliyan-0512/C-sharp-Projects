@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2. Recursive Factorial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02a405955e9725dbd8327d5cb64d99bbf97ac62a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d160a03b28ccd11e0ec95dd42fa9abcbf63a34d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("2. Recursive Factorial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2. Recursive Factorial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

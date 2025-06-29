@@ -60,8 +60,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -72,8 +76,7 @@
               "RelativeToolTip": "LanguageFeatures\\Model\\MyAsyncMethods.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T17:46:07.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-29T17:46:07.145Z"
             },
             {
               "$type": "Document",
@@ -107,7 +110,7 @@
               "RelativeDocumentMoniker": "LanguageFeatures\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\LanguageFeatures\\LanguageFeatures\\Controllers\\HomeController.cs",
               "RelativeToolTip": "LanguageFeatures\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-28T18:24:06.5Z",
               "EditorCaption": ""
@@ -122,8 +125,7 @@
               "RelativeToolTip": "LanguageFeatures\\Model\\Product.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T18:12:19.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T18:12:19.241Z"
             },
             {
               "$type": "Document",
@@ -147,8 +149,7 @@
               "RelativeToolTip": "LanguageFeatures\\LanguageFeatures.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-28T15:54:18.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T15:54:18.961Z"
             },
             {
               "$type": "Document",
@@ -160,8 +161,7 @@
               "RelativeToolTip": "LanguageFeatures\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-28T12:36:49.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T12:36:49.19Z"
             },
             {
               "$type": "Document",

@@ -1,16 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 namespace ManageStore
 {
     public enum Unit
     {
-        Kilograms,
-        grams,
-        liter,
+        Kilograms=1,
+        Grams,
+        Liter,
+        Meter,
+        Count
 
     }
 }

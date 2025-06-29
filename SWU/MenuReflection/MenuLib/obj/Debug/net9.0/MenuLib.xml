@@ -4,7 +4,14 @@
         <name>MenuLib</name>
     </assembly>
     <members>
-        <!-- Badly formed XML comment ignored for member "M:MenuReflection.MenuItemAttribute.#ctor(System.String,System.Int32,System.Boolean)" -->
+        <member name="M:MenuReflection.MenuItemAttribute.#ctor(System.String,System.Int32,System.Boolean)">
+            <summary>
+            Creates a new MenuItem attribute.
+            </summary>
+            <param name="caption">option name.</param>
+            <param name="sortOrder">Menu option order.</param>
+            <param name="endRepl">Whether to hide the option.</param>
+        </member>
         <member name="T:MenuReflection.ReplMenu">
             <summary>
             Menu based on methods marked with the MenuItem attribute.
