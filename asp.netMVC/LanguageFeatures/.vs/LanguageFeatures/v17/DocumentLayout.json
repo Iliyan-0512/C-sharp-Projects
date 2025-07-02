@@ -3,36 +3,16 @@
   "WorkspaceRootPath": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\LanguageFeatures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C5877D1-46A3-418C-99D4-4DE52BC2FF51}|LanguageFeatures\\LanguageFeatures.csproj|c:\\iliyan\\proggraming\\task\\asp.netmvc\\languagefeatures\\languagefeatures\\model\\myasyncmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C5877D1-46A3-418C-99D4-4DE52BC2FF51}|LanguageFeatures\\LanguageFeatures.csproj|solutionrelative:languagefeatures\\model\\myasyncmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0C5877D1-46A3-418C-99D4-4DE52BC2FF51}|LanguageFeatures\\LanguageFeatures.csproj|c:\\iliyan\\proggraming\\task\\asp.netmvc\\languagefeatures\\languagefeatures\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C5877D1-46A3-418C-99D4-4DE52BC2FF51}|LanguageFeatures\\LanguageFeatures.csproj|solutionrelative:languagefeatures\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C5877D1-46A3-418C-99D4-4DE52BC2FF51}|LanguageFeatures\\LanguageFeatures.csproj|c:\\iliyan\\proggraming\\task\\asp.netmvc\\languagefeatures\\languagefeatures\\languagefeatures.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0C5877D1-46A3-418C-99D4-4DE52BC2FF51}|LanguageFeatures\\LanguageFeatures.csproj|solutionrelative:languagefeatures\\languagefeatures.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C5877D1-46A3-418C-99D4-4DE52BC2FF51}|LanguageFeatures\\LanguageFeatures.csproj|c:\\iliyan\\proggraming\\task\\asp.netmvc\\languagefeatures\\languagefeatures\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0C5877D1-46A3-418C-99D4-4DE52BC2FF51}|LanguageFeatures\\LanguageFeatures.csproj|solutionrelative:languagefeatures\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C5877D1-46A3-418C-99D4-4DE52BC2FF51}|LanguageFeatures\\LanguageFeatures.csproj|c:\\iliyan\\proggraming\\task\\asp.netmvc\\languagefeatures\\languagefeatures\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C5877D1-46A3-418C-99D4-4DE52BC2FF51}|LanguageFeatures\\LanguageFeatures.csproj|solutionrelative:languagefeatures\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C5877D1-46A3-418C-99D4-4DE52BC2FF51}|LanguageFeatures\\LanguageFeatures.csproj|c:\\iliyan\\proggraming\\task\\asp.netmvc\\languagefeatures\\languagefeatures\\model\\myextensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C5877D1-46A3-418C-99D4-4DE52BC2FF51}|LanguageFeatures\\LanguageFeatures.csproj|solutionrelative:languagefeatures\\model\\myextensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C5877D1-46A3-418C-99D4-4DE52BC2FF51}|LanguageFeatures\\LanguageFeatures.csproj|c:\\iliyan\\proggraming\\task\\asp.netmvc\\languagefeatures\\languagefeatures\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0C5877D1-46A3-418C-99D4-4DE52BC2FF51}|LanguageFeatures\\LanguageFeatures.csproj|solutionrelative:languagefeatures\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C5877D1-46A3-418C-99D4-4DE52BC2FF51}|LanguageFeatures\\LanguageFeatures.csproj|c:\\iliyan\\proggraming\\task\\asp.netmvc\\languagefeatures\\languagefeatures\\model\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C5877D1-46A3-418C-99D4-4DE52BC2FF51}|LanguageFeatures\\LanguageFeatures.csproj|solutionrelative:languagefeatures\\model\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C5877D1-46A3-418C-99D4-4DE52BC2FF51}|LanguageFeatures\\LanguageFeatures.csproj|c:\\iliyan\\proggraming\\task\\asp.netmvc\\languagefeatures\\languagefeatures\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5877D1-46A3-418C-99D4-4DE52BC2FF51}|LanguageFeatures\\LanguageFeatures.csproj|solutionrelative:languagefeatures\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C5877D1-46A3-418C-99D4-4DE52BC2FF51}|LanguageFeatures\\LanguageFeatures.csproj|c:\\iliyan\\proggraming\\task\\asp.netmvc\\languagefeatures\\languagefeatures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,10 +27,18 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LanguageFeatures\\obj\\project.assets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0C5877D1-46A3-418C-99D4-4DE52BC2FF51}|LanguageFeatures\\LanguageFeatures.csproj|c:\\iliyan\\proggraming\\task\\asp.netmvc\\languagefeatures\\languagefeatures\\languagefeatures.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C5877D1-46A3-418C-99D4-4DE52BC2FF51}|LanguageFeatures\\LanguageFeatures.csproj|solutionrelative:languagefeatures\\languagefeatures.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.Web\\Sdk\\Sdk.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.Web\\Sdk\\Sdk.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5877D1-46A3-418C-99D4-4DE52BC2FF51}|LanguageFeatures\\LanguageFeatures.csproj|c:\\iliyan\\proggraming\\task\\asp.netmvc\\languagefeatures\\languagefeatures\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C5877D1-46A3-418C-99D4-4DE52BC2FF51}|LanguageFeatures\\LanguageFeatures.csproj|solutionrelative:languagefeatures\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -60,24 +48,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MyAsyncMethods.cs",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\LanguageFeatures\\LanguageFeatures\\Model\\MyAsyncMethods.cs",
-              "RelativeDocumentMoniker": "LanguageFeatures\\Model\\MyAsyncMethods.cs",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\LanguageFeatures\\LanguageFeatures\\Model\\MyAsyncMethods.cs",
-              "RelativeToolTip": "LanguageFeatures\\Model\\MyAsyncMethods.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T17:46:07.145Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\LanguageFeatures\\LanguageFeatures\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "LanguageFeatures\\Views\\Home\\Index.cshtml",
@@ -89,32 +68,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\LanguageFeatures\\LanguageFeatures\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "LanguageFeatures\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\LanguageFeatures\\LanguageFeatures\\Controllers\\HomeController.cs",
               "RelativeToolTip": "LanguageFeatures\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-28T18:24:06.5Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\LanguageFeatures\\LanguageFeatures\\Model\\Product.cs",
               "RelativeDocumentMoniker": "LanguageFeatures\\Model\\Product.cs",
               "ToolTip": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\LanguageFeatures\\LanguageFeatures\\Model\\Product.cs",
               "RelativeToolTip": "LanguageFeatures\\Model\\Product.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBQAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-28T18:12:19.241Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\LanguageFeatures\\LanguageFeatures\\Program.cs",
               "RelativeDocumentMoniker": "LanguageFeatures\\Program.cs",
@@ -126,59 +105,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "LanguageFeatures.csproj",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\LanguageFeatures\\LanguageFeatures\\LanguageFeatures.csproj",
               "RelativeDocumentMoniker": "LanguageFeatures\\LanguageFeatures.csproj",
               "ToolTip": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\LanguageFeatures\\LanguageFeatures\\LanguageFeatures.csproj",
               "RelativeToolTip": "LanguageFeatures\\LanguageFeatures.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-06-28T15:54:18.961Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ShoppingCart.cs",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\LanguageFeatures\\LanguageFeatures\\Model\\ShoppingCart.cs",
-              "RelativeDocumentMoniker": "LanguageFeatures\\Model\\ShoppingCart.cs",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\LanguageFeatures\\LanguageFeatures\\Model\\ShoppingCart.cs",
-              "RelativeToolTip": "LanguageFeatures\\Model\\ShoppingCart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T21:36:26.294Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\LanguageFeatures\\LanguageFeatures\\appsettings.json",
-              "RelativeDocumentMoniker": "LanguageFeatures\\appsettings.json",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\LanguageFeatures\\LanguageFeatures\\appsettings.json",
-              "RelativeToolTip": "LanguageFeatures\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-28T12:36:49.19Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MyExtensionMethods.cs",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\LanguageFeatures\\LanguageFeatures\\Model\\MyExtensionMethods.cs",
-              "RelativeDocumentMoniker": "LanguageFeatures\\Model\\MyExtensionMethods.cs",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\LanguageFeatures\\LanguageFeatures\\Model\\MyExtensionMethods.cs",
-              "RelativeToolTip": "LanguageFeatures\\Model\\MyExtensionMethods.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAUwCcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T21:38:24.769Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "project.nuget.cache",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\LanguageFeatures\\LanguageFeatures\\obj\\project.nuget.cache",
               "RelativeDocumentMoniker": "LanguageFeatures\\obj\\project.nuget.cache",
@@ -190,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "project.assets.json",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\LanguageFeatures\\LanguageFeatures\\obj\\project.assets.json",
               "RelativeDocumentMoniker": "LanguageFeatures\\obj\\project.assets.json",
@@ -202,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "Sdk.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.Web\\Sdk\\Sdk.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.Web\\Sdk\\Sdk.targets",
@@ -215,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
               "Title": "Sdk.props",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.Web\\Sdk\\Sdk.props",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.Web\\Sdk\\Sdk.props",
@@ -225,6 +164,18 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2025-06-28T15:50:25.567Z",
               "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\LanguageFeatures\\LanguageFeatures\\appsettings.json",
+              "RelativeDocumentMoniker": "LanguageFeatures\\appsettings.json",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\LanguageFeatures\\LanguageFeatures\\appsettings.json",
+              "RelativeToolTip": "LanguageFeatures\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-28T12:36:49.19Z"
             }
           ]
         }

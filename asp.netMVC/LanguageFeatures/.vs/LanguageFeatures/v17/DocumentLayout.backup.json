@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\LanguageFeatures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C5877D1-46A3-418C-99D4-4DE52BC2FF51}|LanguageFeatures\\LanguageFeatures.csproj|c:\\iliyan\\proggraming\\task\\asp.netmvc\\languagefeatures\\languagefeatures\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C5877D1-46A3-418C-99D4-4DE52BC2FF51}|LanguageFeatures\\LanguageFeatures.csproj|solutionrelative:languagefeatures\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C5877D1-46A3-418C-99D4-4DE52BC2FF51}|LanguageFeatures\\LanguageFeatures.csproj|c:\\iliyan\\proggraming\\task\\asp.netmvc\\languagefeatures\\languagefeatures\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5877D1-46A3-418C-99D4-4DE52BC2FF51}|LanguageFeatures\\LanguageFeatures.csproj|solutionrelative:languagefeatures\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C5877D1-46A3-418C-99D4-4DE52BC2FF51}|LanguageFeatures\\LanguageFeatures.csproj|c:\\iliyan\\proggraming\\task\\asp.netmvc\\languagefeatures\\languagefeatures\\model\\myasyncmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C5877D1-46A3-418C-99D4-4DE52BC2FF51}|LanguageFeatures\\LanguageFeatures.csproj|solutionrelative:languagefeatures\\model\\myasyncmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5877D1-46A3-418C-99D4-4DE52BC2FF51}|LanguageFeatures\\LanguageFeatures.csproj|c:\\iliyan\\proggraming\\task\\asp.netmvc\\languagefeatures\\languagefeatures\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5877D1-46A3-418C-99D4-4DE52BC2FF51}|LanguageFeatures\\LanguageFeatures.csproj|solutionrelative:languagefeatures\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C5877D1-46A3-418C-99D4-4DE52BC2FF51}|LanguageFeatures\\LanguageFeatures.csproj|c:\\iliyan\\proggraming\\task\\asp.netmvc\\languagefeatures\\languagefeatures\\languagefeatures.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0C5877D1-46A3-418C-99D4-4DE52BC2FF51}|LanguageFeatures\\LanguageFeatures.csproj|c:\\iliyan\\proggraming\\task\\asp.netmvc\\languagefeatures\\languagefeatures\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0C5877D1-46A3-418C-99D4-4DE52BC2FF51}|LanguageFeatures\\LanguageFeatures.csproj|solutionrelative:languagefeatures\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C5877D1-46A3-418C-99D4-4DE52BC2FF51}|LanguageFeatures\\LanguageFeatures.csproj|c:\\iliyan\\proggraming\\task\\asp.netmvc\\languagefeatures\\languagefeatures\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C5877D1-46A3-418C-99D4-4DE52BC2FF51}|LanguageFeatures\\LanguageFeatures.csproj|solutionrelative:languagefeatures\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C5877D1-46A3-418C-99D4-4DE52BC2FF51}|LanguageFeatures\\LanguageFeatures.csproj|c:\\iliyan\\proggraming\\task\\asp.netmvc\\languagefeatures\\languagefeatures\\model\\myextensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -60,12 +60,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -74,21 +70,10 @@
               "RelativeDocumentMoniker": "LanguageFeatures\\Model\\MyAsyncMethods.cs",
               "ToolTip": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\LanguageFeatures\\LanguageFeatures\\Model\\MyAsyncMethods.cs",
               "RelativeToolTip": "LanguageFeatures\\Model\\MyAsyncMethods.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T17:46:07.145Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ShoppingCart.cs",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\LanguageFeatures\\LanguageFeatures\\Model\\ShoppingCart.cs",
-              "RelativeDocumentMoniker": "LanguageFeatures\\Model\\ShoppingCart.cs",
-              "ToolTip": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\LanguageFeatures\\LanguageFeatures\\Model\\ShoppingCart.cs",
-              "RelativeToolTip": "LanguageFeatures\\Model\\ShoppingCart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T21:36:26.294Z"
+              "WhenOpened": "2025-06-29T17:46:07.145Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -104,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\LanguageFeatures\\LanguageFeatures\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "LanguageFeatures\\Controllers\\HomeController.cs",
@@ -112,12 +97,11 @@
               "RelativeToolTip": "LanguageFeatures\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T18:24:06.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T18:24:06.5Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\LanguageFeatures\\LanguageFeatures\\Model\\Product.cs",
               "RelativeDocumentMoniker": "LanguageFeatures\\Model\\Product.cs",
@@ -125,7 +109,8 @@
               "RelativeToolTip": "LanguageFeatures\\Model\\Product.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T18:12:19.241Z"
+              "WhenOpened": "2025-06-28T18:12:19.241Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -141,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LanguageFeatures.csproj",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\LanguageFeatures\\LanguageFeatures\\LanguageFeatures.csproj",
               "RelativeDocumentMoniker": "LanguageFeatures\\LanguageFeatures.csproj",
@@ -153,7 +138,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\LanguageFeatures\\LanguageFeatures\\Model\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "LanguageFeatures\\Model\\ShoppingCart.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\LanguageFeatures\\LanguageFeatures\\Model\\ShoppingCart.cs",
+              "RelativeToolTip": "LanguageFeatures\\Model\\ShoppingCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T21:36:26.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\LanguageFeatures\\LanguageFeatures\\appsettings.json",
               "RelativeDocumentMoniker": "LanguageFeatures\\appsettings.json",
@@ -224,6 +221,10 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2025-06-28T15:50:25.567Z",
               "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }
