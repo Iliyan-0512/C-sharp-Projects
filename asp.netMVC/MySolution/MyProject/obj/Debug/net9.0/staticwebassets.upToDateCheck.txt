@@ -1,0 +1,2 @@
+C:\iliyan\proggraming\task\asp.netMVC\MySolution\MyProject\wwwroot\demo.html
+wwwroot\demo.html

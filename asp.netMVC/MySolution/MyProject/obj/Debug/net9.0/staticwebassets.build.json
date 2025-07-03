@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "Hash": "Usm5fXM3EFGYP5IPafe9p4se7Pi0DWk64fxQwUybHWE=",
+  "Source": "MyProject",
+  "BasePath": "_content/MyProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyProject\\wwwroot",
+      "Source": "MyProject",
+      "ContentRoot": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\MySolution\\MyProject\\wwwroot\\",
+      "BasePath": "_content/MyProject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\MySolution\\MyProject\\obj\\Debug\\net9.0\\compressed\\4cpehuvz0h-soowquz3hc.gz",
+      "SourceId": "MyProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\MySolution\\MyProject\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MyProject",
+      "RelativePath": "demo#[.{fingerprint=soowquz3hc}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\MySolution\\MyProject\\wwwroot\\demo.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "lakxlu96ek",
+      "Integrity": "A55zEIiUxI7RUxz0samoh38Oe8L1aps2IWrim+2xbHA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\MySolution\\MyProject\\wwwroot\\demo.html"
+    },
+    {
+      "Identity": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\MySolution\\MyProject\\wwwroot\\demo.html",
+      "SourceId": "MyProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\MySolution\\MyProject\\wwwroot\\",
+      "BasePath": "_content/MyProject",
+      "RelativePath": "demo#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "soowquz3hc",
+      "Integrity": "BDnEO6cOi6SRPSaWq4Egh5yW0/rASCT1+0p4PsAI5T0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\demo.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "demo.html",
+      "AssetFile": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\MySolution\\MyProject\\obj\\Debug\\net9.0\\compressed\\4cpehuvz0h-soowquz3hc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.008196721311"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "121"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A55zEIiUxI7RUxz0samoh38Oe8L1aps2IWrim+2xbHA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Jul 2025 13:54:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"BDnEO6cOi6SRPSaWq4Egh5yW0/rASCT1+0p4PsAI5T0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BDnEO6cOi6SRPSaWq4Egh5yW0/rASCT1+0p4PsAI5T0="
+        }
+      ]
+    },
+    {
+      "Route": "demo.html",
+      "AssetFile": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\MySolution\\MyProject\\wwwroot\\demo.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BDnEO6cOi6SRPSaWq4Egh5yW0/rASCT1+0p4PsAI5T0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Jul 2025 13:54:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BDnEO6cOi6SRPSaWq4Egh5yW0/rASCT1+0p4PsAI5T0="
+        }
+      ]
+    },
+    {
+      "Route": "demo.html.gz",
+      "AssetFile": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\MySolution\\MyProject\\obj\\Debug\\net9.0\\compressed\\4cpehuvz0h-soowquz3hc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "121"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A55zEIiUxI7RUxz0samoh38Oe8L1aps2IWrim+2xbHA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Jul 2025 13:54:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-A55zEIiUxI7RUxz0samoh38Oe8L1aps2IWrim+2xbHA="
+        }
+      ]
+    },
+    {
+      "Route": "demo.soowquz3hc.html",
+      "AssetFile": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\MySolution\\MyProject\\obj\\Debug\\net9.0\\compressed\\4cpehuvz0h-soowquz3hc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.008196721311"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "121"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A55zEIiUxI7RUxz0samoh38Oe8L1aps2IWrim+2xbHA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Jul 2025 13:54:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"BDnEO6cOi6SRPSaWq4Egh5yW0/rASCT1+0p4PsAI5T0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "soowquz3hc"
+        },
+        {
+          "Name": "label",
+          "Value": "demo.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BDnEO6cOi6SRPSaWq4Egh5yW0/rASCT1+0p4PsAI5T0="
+        }
+      ]
+    },
+    {
+      "Route": "demo.soowquz3hc.html",
+      "AssetFile": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\MySolution\\MyProject\\wwwroot\\demo.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BDnEO6cOi6SRPSaWq4Egh5yW0/rASCT1+0p4PsAI5T0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Jul 2025 13:54:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "soowquz3hc"
+        },
+        {
+          "Name": "label",
+          "Value": "demo.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BDnEO6cOi6SRPSaWq4Egh5yW0/rASCT1+0p4PsAI5T0="
+        }
+      ]
+    },
+    {
+      "Route": "demo.soowquz3hc.html.gz",
+      "AssetFile": "C:\\iliyan\\proggraming\\task\\asp.netMVC\\MySolution\\MyProject\\obj\\Debug\\net9.0\\compressed\\4cpehuvz0h-soowquz3hc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "121"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A55zEIiUxI7RUxz0samoh38Oe8L1aps2IWrim+2xbHA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Jul 2025 13:54:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "soowquz3hc"
+        },
+        {
+          "Name": "label",
+          "Value": "demo.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-A55zEIiUxI7RUxz0samoh38Oe8L1aps2IWrim+2xbHA="
+        }
+      ]
+    }
+  ]
+}
