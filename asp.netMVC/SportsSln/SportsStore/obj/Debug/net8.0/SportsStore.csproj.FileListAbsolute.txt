@@ -159,3 +159,5 @@ C:\iliyan\proggraming\task\asp.netMVC\SportsSln\SportsStore\bin\Debug\net8.0\run
 C:\iliyan\proggraming\task\asp.netMVC\SportsSln\SportsStore\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\iliyan\proggraming\task\asp.netMVC\SportsSln\SportsStore\obj\Debug\net8.0\SportsStore.csproj.AssemblyReference.cache
 C:\iliyan\proggraming\task\asp.netMVC\SportsSln\SportsStore\obj\Debug\net8.0\SportsSt.D81B86A7.Up2Date
+C:\iliyan\proggraming\task\asp.netMVC\SportsSln\SportsStore\bin\Debug\net8.0\libman.json
+C:\iliyan\proggraming\task\asp.netMVC\SportsSln\SportsStore\bin\Debug\net8.0\SportsStore.staticwebassets.runtime.json
