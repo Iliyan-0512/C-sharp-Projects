@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace SportsStore.Pages
+namespace SportsStore.Views.Shared
 {
-    public class _CartLayoutModel : PageModel
+    public class CartModel : PageModel
     {
         public void OnGet()
         {

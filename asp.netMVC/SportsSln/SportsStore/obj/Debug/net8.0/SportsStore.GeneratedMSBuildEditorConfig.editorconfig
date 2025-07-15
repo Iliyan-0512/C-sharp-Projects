@@ -28,24 +28,24 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/iliyan/proggraming/task/asp.netMVC/SportsSln/SportsStore/Components/NavigationMenu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xOYXZpZ2F0aW9uTWVudVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/iliyan/proggraming/task/asp.netMVC/SportsSln/SportsStore/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/iliyan/proggraming/task/asp.netMVC/SportsSln/SportsStore/Views/Shared/Components/NavigationMenu/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTmF2aWdhdGlvbk1lbnVcRGVmYXVsdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/iliyan/proggraming/task/asp.netMVC/SportsSln/SportsStore/Views/Shared/Pages/Cart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhZ2VzXENhcnQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/iliyan/proggraming/task/asp.netMVC/SportsSln/SportsStore/Views/Shared/Pages/_CartLayout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhZ2VzXF9DYXJ0TGF5b3V0LmNzaHRtbA==
+[C:/iliyan/proggraming/task/asp.netMVC/SportsSln/SportsStore/Views/Shared/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/iliyan/proggraming/task/asp.netMVC/SportsSln/SportsStore/Views/Shared/ProductSummary.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFByb2R1Y3RTdW1tYXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/iliyan/proggraming/task/asp.netMVC/SportsSln/SportsStore/Views/Shared/_CartLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DYXJ0TGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/iliyan/proggraming/task/asp.netMVC/SportsSln/SportsStore/Views/Shared/_Layout.cshtml]
@@ -56,10 +56,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WaWV3SW1wb3J0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/iliyan/proggraming/task/asp.netMVC/SportsSln/SportsStore/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[C:/iliyan/proggraming/task/asp.netMVC/SportsSln/SportsStore/Views/Shared/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WaWV3U3RhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/iliyan/proggraming/task/asp.netMVC/SportsSln/SportsStore/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[C:/iliyan/proggraming/task/asp.netMVC/SportsSln/SportsStore/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
