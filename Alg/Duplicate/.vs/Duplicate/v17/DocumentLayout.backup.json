@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\iliyan\\proggraming\\task\\Alg\\Duplicate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD737D5F-95EB-477E-A4F2-95E909B6AD6F}|Duplicate\\Duplicate.csproj|c:\\iliyan\\proggraming\\task\\alg\\duplicate\\duplicate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD737D5F-95EB-477E-A4F2-95E909B6AD6F}|Duplicate\\Duplicate.csproj|solutionrelative:duplicate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\task\\Alg\\Duplicate\\Duplicate\\Program.cs",
+              "RelativeDocumentMoniker": "Duplicate\\Program.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\task\\Alg\\Duplicate\\Duplicate\\Program.cs",
+              "RelativeToolTip": "Duplicate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:30:38.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
