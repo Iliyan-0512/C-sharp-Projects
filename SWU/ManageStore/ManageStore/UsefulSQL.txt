@@ -1,0 +1,7 @@
+INSERT INTO Mesuares (Id,Name)
+VALUES
+(1,'Kilograms'),
+(2,'Grams'),
+(3,'Liter'),
+(4,'Meter'),
+(5,'Count')

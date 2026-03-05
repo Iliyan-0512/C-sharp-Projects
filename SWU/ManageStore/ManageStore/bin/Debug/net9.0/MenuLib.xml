@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MenuLib</name>
+    </assembly>
+    <members>
+        <member name="M:MenuReflection.MenuItemAttribute.#ctor(System.String,System.Int32,System.Boolean)">
+            <summary>
+            Creates a new MenuItem attribute.
+            </summary>
+            <param name="caption">option name.</param>
+            <param name="sortOrder">Menu option order.</param>
+            <param name="endRepl">Whether to hide the option.</param>
+        </member>
+        <member name="T:MenuReflection.ReplMenu">
+            <summary>
+            Menu based on methods marked with the MenuItem attribute.
+            </summary>
+        </member>
+        <member name="M:MenuReflection.ReplMenu.Run">
+            <summary>
+            Starts the menu and allows selecting an option.
+            </summary>
+        </member>
+    </members>
+</doc>
