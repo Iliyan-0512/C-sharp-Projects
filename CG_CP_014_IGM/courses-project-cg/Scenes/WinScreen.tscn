@@ -1,0 +1,60 @@
+[gd_scene load_steps=3 format=3 uid="uid://7ml7vdtub7ve"]
+
+[ext_resource type="Texture2D" uid="uid://bsby60at1u1d0" path="res://Legacy-Fantasy - High Forest 2.0/Legacy-Fantasy - High Forest 2.3/Background/3858.jpg" id="1_68w7f"]
+[ext_resource type="Script" uid="uid://csoeqrgr4xpw7" path="res://Script/WinScreenUI.cs" id="1_d8xbi"]
+
+[node name="CanvasLayer" type="CanvasLayer"]
+script = ExtResource("1_d8xbi")
+
+[node name="3858" type="Sprite2D" parent="."]
+position = Vector2(574.25024, 330.25)
+scale = Vector2(0.2114007, 0.16381873)
+texture = ExtResource("1_68w7f")
+
+[node name="Label" type="Label" parent="."]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -294.0
+offset_top = -104.0
+offset_right = 2288.0
+offset_bottom = 245.0
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_horizontal = 4
+theme_override_font_sizes/font_size = 64
+text = "Well done, you did it!"
+
+[node name="ButtonExit" type="Button" parent="."]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -48.0
+offset_top = 102.0
+offset_right = 74.0
+offset_bottom = 198.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_font_sizes/font_size = 64
+text = "Exit
+"
+
+[node name="ButtonPlayAgain" type="Button" parent="."]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -138.0
+offset_top = -9.0
+offset_right = 189.0
+offset_bottom = 87.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_font_sizes/font_size = 64
+text = "Play Again
+"

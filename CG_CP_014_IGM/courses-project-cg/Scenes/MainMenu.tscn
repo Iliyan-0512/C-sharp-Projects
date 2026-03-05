@@ -1,0 +1,111 @@
+[gd_scene load_steps=4 format=3 uid="uid://bj00e5irhyfah"]
+
+[ext_resource type="Script" uid="uid://d0hx35sqd1c27" path="res://Script/MainMenu.cs" id="1_853f1"]
+[ext_resource type="Texture2D" uid="uid://bsby60at1u1d0" path="res://Legacy-Fantasy - High Forest 2.0/Legacy-Fantasy - High Forest 2.3/Background/3858.jpg" id="1_tt5f1"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_853f1"]
+font_size = 48
+
+[node name="Control" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_853f1")
+
+[node name="3858" type="Sprite2D" parent="."]
+position = Vector2(576.5, 322.6646)
+scale = Vector2(0.211309, 0.16460396)
+texture = ExtResource("1_tt5f1")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.34600002
+offset_left = -108.0
+offset_top = 190.0
+offset_right = 83.0
+offset_bottom = 365.792
+grow_horizontal = 2
+
+[node name="StartButton" type="Button" parent="VBoxContainer"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 32
+text = "Start
+"
+
+[node name="HowToPlayButton" type="Button" parent="VBoxContainer"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 32
+text = "How to Play
+"
+
+[node name="QuitButton" type="Button" parent="VBoxContainer"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 32
+text = "Quit
+"
+
+[node name="HowToPlayPanel" type="Panel" parent="."]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.4513889
+anchor_top = 0.47724694
+anchor_right = 0.4513889
+anchor_bottom = 0.47724694
+offset_left = -36.0
+offset_top = -28.756012
+offset_right = 36.0
+offset_bottom = 0.24398804
+grow_horizontal = 2
+grow_vertical = 2
+metadata/_edit_use_anchors_ = true
+
+[node name="CloseButton" type="Button" parent="HowToPlayPanel"]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = 352.0
+offset_top = -191.0
+offset_right = 508.0
+offset_bottom = -95.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_font_sizes/font_size = 64
+text = "Back
+"
+alignment = 2
+
+[node name="Label" type="Label" parent="HowToPlayPanel"]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 1.0
+anchor_top = 0.45700002
+anchor_right = 1.0
+anchor_bottom = 0.45700002
+offset_left = -538.0
+offset_top = -273.753
+offset_right = 585.0
+offset_bottom = 353.247
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_font_sizes/font_size = 15
+text = "Move: left and right arrows
+Jump: up arrow
+Attack: Space
+When you are at the beginning of each level
+You can press Q to open the shop
+You must collect all coins and
+ reach the end of the level to pass successfully.
+Jams are for buying things from the store. 
+"
+label_settings = SubResource("LabelSettings_853f1")
+horizontal_alignment = 1
+vertical_alignment = 1

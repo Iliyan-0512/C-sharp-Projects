@@ -1,0 +1,60 @@
+[gd_scene load_steps=3 format=3 uid="uid://bh1iv1g0j4r35"]
+
+[ext_resource type="Script" uid="uid://tvqssnteuxi2" path="res://Script/GameOverUI.cs" id="1_k52d1"]
+[ext_resource type="Texture2D" uid="uid://bsby60at1u1d0" path="res://Legacy-Fantasy - High Forest 2.0/Legacy-Fantasy - High Forest 2.3/Background/3858.jpg" id="1_m5628"]
+
+[node name="CanvasLayer" type="CanvasLayer"]
+script = ExtResource("1_k52d1")
+
+[node name="3858" type="Sprite2D" parent="."]
+position = Vector2(572.2774, 320.62506)
+scale = Vector2(0.21396093, 0.1601659)
+texture = ExtResource("1_m5628")
+
+[node name="Label" type="Label" parent="."]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -191.0
+offset_top = -133.0
+offset_right = 2391.0
+offset_bottom = 216.0
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_horizontal = 4
+theme_override_font_sizes/font_size = 64
+text = "Game Over"
+
+[node name="ButtonExit" type="Button" parent="."]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -77.0
+offset_top = 63.0
+offset_right = 45.0
+offset_bottom = 159.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_font_sizes/font_size = 64
+text = "Exit
+"
+
+[node name="ButtonPlayAgain" type="Button" parent="."]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -182.0
+offset_top = -49.0
+offset_right = 145.0
+offset_bottom = 47.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_font_sizes/font_size = 64
+text = "Retry
+"
